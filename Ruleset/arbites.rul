@@ -1,4 +1,4 @@
-﻿units:
+units:
   - type: STR_T_ARBITES_BOLTER                             # TARANTULA
     race: STR_T_BOLTER
     stats:
@@ -3531,7 +3531,7 @@ extraSprites:
   - typeSingle: JUDGE__1__JUDGEFM
     fileSingle: Resources/PD/LAYER/JFM.png
   - typeSingle: 0__2__0
-    fileSingle: Resources/LAYER/0.gif
+    fileSingle: Resources/LAYER/0.png
   - typeSingle: ENF__1__EM
     fileSingle: Resources/PD/LAYER/EM.png
   - typeSingle: ENF__1__EMB
@@ -3593,48 +3593,48 @@ extraSprites:
     fileSingle: Resources/PD/LAYER/OFC.png
 #
   - typeSingle: 20__2__M0_FACE
-    fileSingle: Resources/PD/LAYER/2facem0.gif
+    fileSingle: Resources/PD/LAYER/2facem0.png
   - typeSingle: 20__2__M1_FACE
-    fileSingle: Resources/PD/LAYER/2facem1.gif
+    fileSingle: Resources/PD/LAYER/2facem1.png
   - typeSingle: 20__2__M2_FACE
-    fileSingle: Resources/PD/LAYER/2facem2.gif
+    fileSingle: Resources/PD/LAYER/2facem2.png
   - typeSingle: 20__2__M3_FACE
-    fileSingle: Resources/PD/LAYER/2facem3.gif
+    fileSingle: Resources/PD/LAYER/2facem3.png
   - typeSingle: 20__2__M4_FACE
-    fileSingle: Resources/PD/LAYER/2facem4.gif
+    fileSingle: Resources/PD/LAYER/2facem4.png
   - typeSingle: 20__2__M5_FACE
-    fileSingle: Resources/PD/LAYER/2facem5.gif
+    fileSingle: Resources/PD/LAYER/2facem5.png
   - typeSingle: 20__2__M6_FACE
-    fileSingle: Resources/PD/LAYER/2facem6.gif
+    fileSingle: Resources/PD/LAYER/2facem6.png
   - typeSingle: 20__2__M7_FACE
-    fileSingle: Resources/PD/LAYER/2facem7.gif
+    fileSingle: Resources/PD/LAYER/2facem7.png
   - typeSingle: 20__2__M8_FACE
-    fileSingle: Resources/PD/LAYER/2facem8.gif
+    fileSingle: Resources/PD/LAYER/2facem8.png
   - typeSingle: 20__2__M9_FACE
-    fileSingle: Resources/PD/LAYER/2facem9.gif
+    fileSingle: Resources/PD/LAYER/2facem9.png
   - typeSingle: 20__2__F0_FACE
-    fileSingle: Resources/PD/LAYER/2facef0.gif
+    fileSingle: Resources/PD/LAYER/2facef0.png
   - typeSingle: 20__2__F1_FACE
-    fileSingle: Resources/PD/LAYER/2facef1.gif
+    fileSingle: Resources/PD/LAYER/2facef1.png
   - typeSingle: 20__2__F2_FACE
-    fileSingle: Resources/PD/LAYER/2facef2.gif
+    fileSingle: Resources/PD/LAYER/2facef2.png
   - typeSingle: 20__2__F3_FACE
-    fileSingle: Resources/PD/LAYER/2facef3.gif
+    fileSingle: Resources/PD/LAYER/2facef3.png
   - typeSingle: 20__2__F4_FACE
-    fileSingle: Resources/PD/LAYER/2facef4.gif
+    fileSingle: Resources/PD/LAYER/2facef4.png
   - typeSingle: 20__2__F5_FACE
-    fileSingle: Resources/PD/LAYER/2facef5.gif
+    fileSingle: Resources/PD/LAYER/2facef5.png
   - typeSingle: 20__2__F6_FACE
-    fileSingle: Resources/PD/LAYER/2facef6.gif
+    fileSingle: Resources/PD/LAYER/2facef6.png
   - typeSingle: 20__2__F7_FACE
-    fileSingle: Resources/PD/LAYER/2facef7.gif
+    fileSingle: Resources/PD/LAYER/2facef7.png
   - typeSingle: 20__2__F8_FACE
-    fileSingle: Resources/PD/LAYER/2facef8.gif
+    fileSingle: Resources/PD/LAYER/2facef8.png
   - typeSingle: 20__2__F9_FACE
-    fileSingle: Resources/PD/LAYER/2facef9.gif
+    fileSingle: Resources/PD/LAYER/2facef9.png
 #
   - typeSingle: 20__0__0
-    fileSingle: Resources/LAYER/0.gif
+    fileSingle: Resources/LAYER/0.png
 #
   - type: PD1.PCK
     subX: 32
