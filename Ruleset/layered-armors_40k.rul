@@ -1588,7 +1588,7 @@ extraSprites:
   - typeSingle: 4__1__CHAOSCMF
     fileSingle: Resources/CPATH/CHAOSCMF.png
   - typeSingle: 3__1__CHAOSTMF
-    fileSingle: Resources/CPATH/CHAOSTMF.gif
+    fileSingle: Resources/CPATH/CHAOSTMF.png
   - typeSingle: 3__1__CHAOSM
     fileSingle: Resources/CPATH/CHAOSM.png
   - typeSingle: 3__1__CHAOSF
@@ -1659,7 +1659,7 @@ extraSprites:
 
 ######################### PRIMARIS ########################################################################################################
   - typeSingle: 21__0__0
-    fileSingle: Resources/LAYER/0.gif
+    fileSingle: Resources/LAYER/0.png
   - typeSingle: 21__0__CAPEP
     fileSingle: Resources/LAYER/CAPEP.png
   - typeSingle: 21__0__BIKE
@@ -1692,7 +1692,7 @@ extraSprites:
     fileSingle: Resources/LAYER/ULTRAMARINE/MKXLV5.png
 
   - typeSingle: 22__0__0
-    fileSingle: Resources/LAYER/0.gif
+    fileSingle: Resources/LAYER/0.png
   - typeSingle: 22__0__CAPEP
     fileSingle: Resources/LAYER/CAPEP.png
   - typeSingle: 22__3__MEDAL1
@@ -1719,7 +1719,7 @@ extraSprites:
   - typeSingle: 23__3__MEDAL3
     fileSingle: Resources/LAYER/MEDAL3.png
   - typeSingle: 23__0__0
-    fileSingle: Resources/LAYER/0.gif
+    fileSingle: Resources/LAYER/0.png
   - typeSingle: 23__0__CAPEP
     fileSingle: Resources/LAYER/CAPEP.png
   - typeSingle: 23__1__GRVLV1
@@ -1836,195 +1836,195 @@ extraSprites:
     fileSingle: Resources/LAYER/G/2facem13.png
 ##################################################################FIRSTBORN####################################################################
   - typeSingle: BIKE__1__BIKEM
-    fileSingle: Resources/LAYER/ULTRAMARINE/BIKEM.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/BIKEM.png
   - typeSingle: BIKE__1__BIKEF
-    fileSingle: Resources/LAYER/ULTRAMARINE/BIKEF.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/BIKEF.png
   - typeSingle: SCOUT__1__ASCOUTM
-    fileSingle: Resources/LAYER/ULTRAMARINE/ASCOUTM.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/ASCOUTM.png
   - typeSingle: SCOUT__1__ASCOUTMB
-    fileSingle: Resources/LAYER/ULTRAMARINE/ASCOUTMB.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/ASCOUTMB.png
   - typeSingle: SCOUT__1__ASCOUTMC
-    fileSingle: Resources/LAYER/ULTRAMARINE/ASCOUTMC.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/ASCOUTMC.png
   - typeSingle: SCOUT__1__ASCOUTF
-    fileSingle: Resources/LAYER/ULTRAMARINE/ASCOUTF.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/ASCOUTF.png
   - typeSingle: SCOUT__1__ASCOUTFB
-    fileSingle: Resources/LAYER/ULTRAMARINE/ASCOUTFB.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/ASCOUTFB.png
   - typeSingle: SCOUT__1__ASCOUTFC
-    fileSingle: Resources/LAYER/ULTRAMARINE/ASCOUTFC.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/ASCOUTFC.png
   - typeSingle: SCOUTH__1__AHSCOUTM
-    fileSingle: Resources/LAYER/ULTRAMARINE/AHSCOUTM.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/AHSCOUTM.png
   - typeSingle: SCOUTH__1__AHSCOUTF
-    fileSingle: Resources/LAYER/ULTRAMARINE/AHSCOUTF.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/AHSCOUTF.png
   - typeSingle: TATICAL__1__TATICALM
-    fileSingle: Resources/LAYER/ULTRAMARINE/TATICALM.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/TATICALM.png
   - typeSingle: TATICAL__1__TATICALF
-    fileSingle: Resources/LAYER/ULTRAMARINE/TATICALF.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/TATICALF.png
   - typeSingle: SIGNAL__1__SIGNALM
-    fileSingle: Resources/LAYER/ULTRAMARINE/SIGNALM.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/SIGNALM.png
   - typeSingle: SIGNAL__1__SIGNALF
-    fileSingle: Resources/LAYER/ULTRAMARINE/SIGNALF.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/SIGNALF.png
   - typeSingle: ASSAULT__1__ASSAULTM
-    fileSingle: Resources/LAYER/ULTRAMARINE/ASSAULTM.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/ASSAULTM.png
   - typeSingle: ASSAULT__1__ASSAULTF
-    fileSingle: Resources/LAYER/ULTRAMARINE/ASSAULTF.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/ASSAULTF.png
   - typeSingle: HONOR__1__HONORM
-    fileSingle: Resources/LAYER/ULTRAMARINE/HONORM.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/HONORM.png
   - typeSingle: HONOR__1__HONORF
-    fileSingle: Resources/LAYER/ULTRAMARINE/HONORF.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/HONORF.png
   - typeSingle: HONORASS__1__ASSAULTMH
-    fileSingle: Resources/LAYER/ULTRAMARINE/ASSAULTMH.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/ASSAULTMH.png
   - typeSingle: HONORASS__1__ASSAULTFH
-    fileSingle: Resources/LAYER/ULTRAMARINE/ASSAULTFH.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/ASSAULTFH.png
   - typeSingle: CHAPLAIN__1__CHAPLAINM
-    fileSingle: Resources/LAYER/ULTRAMARINE/CHAPLAINM.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/CHAPLAINM.png
   - typeSingle: CHAPLAIN__1__CHAPLAINF
-    fileSingle: Resources/LAYER/ULTRAMARINE/CHAPLAINF.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/CHAPLAINF.png
   - typeSingle: DEVASTATOR__1__DEVASTATORM
-    fileSingle: Resources/LAYER/ULTRAMARINE/DEVASTATORM.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/DEVASTATORM.png
   - typeSingle: DEVASTATOR__1__DEVASTATORF
-    fileSingle: Resources/LAYER/ULTRAMARINE/DEVASTATORF.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/DEVASTATORF.png
   - typeSingle: TECH__1__TECHM
-    fileSingle: Resources/LAYER/ULTRAMARINE/TECHM.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/TECHM.png
   - typeSingle: TECH__1__TECHF
-    fileSingle: Resources/LAYER/ULTRAMARINE/TECHF.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/TECHF.png
   - typeSingle: CAPTAIN__1__CAPTAINM
-    fileSingle: Resources/LAYER/ULTRAMARINE/CAPTAINM.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/CAPTAINM.png
   - typeSingle: CAPTAIN__1__CAPTAINF
-    fileSingle: Resources/LAYER/ULTRAMARINE/CAPTAINF.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/CAPTAINF.png
   - typeSingle: SARGENT__1__SARGENTM
-    fileSingle: Resources/LAYER/ULTRAMARINE/SARGENTM.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/SARGENTM.png
   - typeSingle: SARGENT__1__SARGENTF
-    fileSingle: Resources/LAYER/ULTRAMARINE/SARGENTF.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/SARGENTF.png
   - typeSingle: LIB__1__LIBM
-    fileSingle: Resources/LAYER/ULTRAMARINE/LIBM.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/LIBM.png
   - typeSingle: LIB__1__LIBF
-    fileSingle: Resources/LAYER/ULTRAMARINE/LIBF.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/LIBF.png
   - typeSingle: APOT__1__APOTM
-    fileSingle: Resources/LAYER/ULTRAMARINE/APOTM.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/APOTM.png
   - typeSingle: APOT__1__APOTF
-    fileSingle: Resources/LAYER/ULTRAMARINE/APOTF.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/APOTF.png
   - typeSingle: TERMINATOR__1__TERMINATORMF
-    fileSingle: Resources/LAYER/ULTRAMARINE/TERMINATORMF.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/TERMINATORMF.png
   - typeSingle: TSARGENT__1__TERMINATORSMF
-    fileSingle: Resources/LAYER/ULTRAMARINE/TERMINATORSMF.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/TERMINATORSMF.png
   - typeSingle: CENT__1__CENTMF
-    fileSingle: Resources/LAYER/ULTRAMARINE/CENTMF.gif
+    fileSingle: Resources/LAYER/ULTRAMARINE/CENTMF.png
 #
 #
 #
   - typeSingle: 0__0__0
-    fileSingle: Resources/LAYER/0.gif
+    fileSingle: Resources/LAYER/0.png
   - typeSingle: 1__0__0
-    fileSingle: Resources/LAYER/0.gif
+    fileSingle: Resources/LAYER/0.png
   - typeSingle: 3__0__0
-    fileSingle: Resources/LAYER/0.gif
+    fileSingle: Resources/LAYER/0.png
   - typeSingle: 4__0__0
-    fileSingle: Resources/LAYER/0.gif
+    fileSingle: Resources/LAYER/0.png
   - typeSingle: CAPE__0__CAPE
-    fileSingle: Resources/LAYER/CAPE.gif
+    fileSingle: Resources/LAYER/CAPE.png
   - typeSingle: CAPE__0__CAPEB
-    fileSingle: Resources/LAYER/CAPEB.gif
+    fileSingle: Resources/LAYER/CAPEB.png
   - typeSingle: CAPE__0__CAPEG
-    fileSingle: Resources/LAYER/CAPEG.gif
+    fileSingle: Resources/LAYER/CAPEG.png
   - typeSingle: CAPE__0__CAPER
-    fileSingle: Resources/LAYER/CAPER.gif
+    fileSingle: Resources/LAYER/CAPER.png
   - typeSingle: CAPE__0__CAPEW
-    fileSingle: Resources/LAYER/CAPEW.gif
+    fileSingle: Resources/LAYER/CAPEW.png
   - typeSingle: CAPE__0__CAPEY
-    fileSingle: Resources/LAYER/CAPEY.gif
+    fileSingle: Resources/LAYER/CAPEY.png
 #
 #
   - typeSingle: CAPE__2__M0_FACE
-    fileSingle: Resources/LAYER/2facem0.gif
+    fileSingle: Resources/LAYER/2facem0.png
   - typeSingle: CAPE__2__M1_FACE
-    fileSingle: Resources/LAYER/2facem1.gif
+    fileSingle: Resources/LAYER/2facem1.png
   - typeSingle: CAPE__2__M2_FACE
-    fileSingle: Resources/LAYER/2facem2.gif
+    fileSingle: Resources/LAYER/2facem2.png
   - typeSingle: CAPE__2__M3_FACE
-    fileSingle: Resources/LAYER/2facem3.gif
+    fileSingle: Resources/LAYER/2facem3.png
   - typeSingle: CAPE__2__M4_FACE
-    fileSingle: Resources/LAYER/2facem4.gif
+    fileSingle: Resources/LAYER/2facem4.png
   - typeSingle: CAPE__2__M5_FACE
-    fileSingle: Resources/LAYER/2facem5.gif
+    fileSingle: Resources/LAYER/2facem5.png
   - typeSingle: CAPE__2__F0_FACE
-    fileSingle: Resources/LAYER/2facef0.gif
+    fileSingle: Resources/LAYER/2facef0.png
   - typeSingle: CAPE__2__F1_FACE
-    fileSingle: Resources/LAYER/2facef1.gif
+    fileSingle: Resources/LAYER/2facef1.png
   - typeSingle: CAPE__2__F2_FACE
-    fileSingle: Resources/LAYER/2facef2.gif
+    fileSingle: Resources/LAYER/2facef2.png
   - typeSingle: CAPE__2__F3_FACE
-    fileSingle: Resources/LAYER/2facef3.gif
+    fileSingle: Resources/LAYER/2facef3.png
   - typeSingle: CAPE__2__F4_FACE
-    fileSingle: Resources/LAYER/2facef4.gif
+    fileSingle: Resources/LAYER/2facef4.png
   - typeSingle: CAPE__2__F5_FACE
-    fileSingle: Resources/LAYER/2facef5.gif
+    fileSingle: Resources/LAYER/2facef5.png
 #
 #
   - typeSingle: 0__2__M0_FACE
-    fileSingle: Resources/LAYER/2facem0.gif
+    fileSingle: Resources/LAYER/2facem0.png
   - typeSingle: 0__2__M1_FACE
-    fileSingle: Resources/LAYER/2facem1.gif
+    fileSingle: Resources/LAYER/2facem1.png
   - typeSingle: 0__2__M2_FACE
-    fileSingle: Resources/LAYER/2facem2.gif
+    fileSingle: Resources/LAYER/2facem2.png
   - typeSingle: 0__2__M3_FACE
-    fileSingle: Resources/LAYER/2facem3.gif
+    fileSingle: Resources/LAYER/2facem3.png
   - typeSingle: 0__2__M4_FACE
-    fileSingle: Resources/LAYER/2facem4.gif
+    fileSingle: Resources/LAYER/2facem4.png
   - typeSingle: 0__2__M5_FACE
-    fileSingle: Resources/LAYER/2facem5.gif
+    fileSingle: Resources/LAYER/2facem5.png
   - typeSingle: 0__2__M6_FACE
-    fileSingle: Resources/LAYER/2facem6.gif
+    fileSingle: Resources/LAYER/2facem6.png
   - typeSingle: 0__2__M7_FACE
-    fileSingle: Resources/LAYER/2facem7.gif
+    fileSingle: Resources/LAYER/2facem7.png
   - typeSingle: 0__2__M8_FACE
-    fileSingle: Resources/LAYER/2facem8.gif
+    fileSingle: Resources/LAYER/2facem8.png
   - typeSingle: 0__2__M9_FACE
-    fileSingle: Resources/LAYER/2facem9.gif
+    fileSingle: Resources/LAYER/2facem9.png
   - typeSingle: 0__2__F0_FACE
-    fileSingle: Resources/LAYER/2facef0.gif
+    fileSingle: Resources/LAYER/2facef0.png
   - typeSingle: 0__2__F1_FACE
-    fileSingle: Resources/LAYER/2facef1.gif
+    fileSingle: Resources/LAYER/2facef1.png
   - typeSingle: 0__2__F2_FACE
-    fileSingle: Resources/LAYER/2facef2.gif
+    fileSingle: Resources/LAYER/2facef2.png
   - typeSingle: 0__2__F3_FACE
-    fileSingle: Resources/LAYER/2facef3.gif
+    fileSingle: Resources/LAYER/2facef3.png
   - typeSingle: 0__2__F4_FACE
-    fileSingle: Resources/LAYER/2facef4.gif
+    fileSingle: Resources/LAYER/2facef4.png
   - typeSingle: 0__2__F5_FACE
-    fileSingle: Resources/LAYER/2facef5.gif
+    fileSingle: Resources/LAYER/2facef5.png
   - typeSingle: 0__2__F6_FACE
-    fileSingle: Resources/LAYER/2facef6.gif
+    fileSingle: Resources/LAYER/2facef6.png
   - typeSingle: 0__2__F7_FACE
-    fileSingle: Resources/LAYER/2facef7.gif
+    fileSingle: Resources/LAYER/2facef7.png
   - typeSingle: 0__2__F8_FACE
-    fileSingle: Resources/LAYER/2facef8.gif
+    fileSingle: Resources/LAYER/2facef8.png
   - typeSingle: 0__2__F9_FACE
-    fileSingle: Resources/LAYER/2facef9.gif
+    fileSingle: Resources/LAYER/2facef9.png
 #
   - typeSingle: 1__2__M0_FACE
-    fileSingle: Resources/LAYER/CM0.gif
+    fileSingle: Resources/LAYER/CM0.png
   - typeSingle: 1__2__M1_FACE
-    fileSingle: Resources/LAYER/CM1.gif
+    fileSingle: Resources/LAYER/CM1.png
   - typeSingle: 1__2__M2_FACE
-    fileSingle: Resources/LAYER/CM2.gif
+    fileSingle: Resources/LAYER/CM2.png
   - typeSingle: 1__2__M3_FACE
-    fileSingle: Resources/LAYER/CM3.gif
+    fileSingle: Resources/LAYER/CM3.png
   - typeSingle: 1__2__M4_FACE
-    fileSingle: Resources/LAYER/CM4.gif
+    fileSingle: Resources/LAYER/CM4.png
   - typeSingle: 1__2__M5_FACE
-    fileSingle: Resources/LAYER/CM5.gif
+    fileSingle: Resources/LAYER/CM5.png
   - typeSingle: 1__2__F0_FACE
-    fileSingle: Resources/LAYER/CF0.gif
+    fileSingle: Resources/LAYER/CF0.png
   - typeSingle: 1__2__F1_FACE
-    fileSingle: Resources/LAYER/CF1.gif
+    fileSingle: Resources/LAYER/CF1.png
   - typeSingle: 1__2__F2_FACE
-    fileSingle: Resources/LAYER/CF2.gif
+    fileSingle: Resources/LAYER/CF2.png
   - typeSingle: 1__2__F3_FACE
-    fileSingle: Resources/LAYER/CF3.gif
+    fileSingle: Resources/LAYER/CF3.png
   - typeSingle: 1__2__F4_FACE
-    fileSingle: Resources/LAYER/CF4.gif
+    fileSingle: Resources/LAYER/CF4.png
   - typeSingle: 1__2__F5_FACE
-    fileSingle: Resources/LAYER/CF5.gif
+    fileSingle: Resources/LAYER/CF5.png
 #
 #
 #INVENTORY`S
@@ -2061,11 +2061,11 @@ extraSprites:
   - type: JINV.SPK #NPCJ INV
     singleImage: true
     files:
-      0: Resources/LAYER/ULTRAMARINE/JINV2.gif
+      0: Resources/LAYER/ULTRAMARINE/JINV2.png
   - type: JINV5.SPK #NPCJ INV
     singleImage: true
     files:
-      0: Resources/LAYER/ULTRAMARINE/JINV5.gif
+      0: Resources/LAYER/ULTRAMARINE/JINV5.png
   - type: DREADINV.SPK #DREAD INV
     singleImage: true
     files:
@@ -2089,23 +2089,23 @@ extraSprites:
   - type: CIV3.SPK #CIV1 INV
     singleImage: true
     files:
-      0: Resources/LAYER/ULTRAMARINE/CIV3.gif
+      0: Resources/LAYER/ULTRAMARINE/CIV3.png
   - type: CENTINV.SPK #CIV1 INV CENTURION
     singleImage: true
     files:
-      0: Resources/LAYER/ULTRAMARINE/CENT.gif
+      0: Resources/LAYER/ULTRAMARINE/CENT.png
   - type: TARANTULA1.SPK #CIV1 INV
     singleImage: true
     files:
-      0: Resources/LAYER/ULTRAMARINE/TAR.gif
+      0: Resources/LAYER/ULTRAMARINE/TAR.png
   - type: TARANTULA2.SPK #CIV1 INV
     singleImage: true
     files:
-      0: Resources/LAYER/ULTRAMARINE/TAR2.gif
+      0: Resources/LAYER/ULTRAMARINE/TAR2.png
   - type: WWI.SPK #CIV1 INV
     singleImage: true
     files:
-      0: Resources/LAYER/ULTRAMARINE/WW.gif
+      0: Resources/LAYER/ULTRAMARINE/WW.png
   - type: VIN.SPK #CIV1 INV
     singleImage: true
     files:
@@ -2113,15 +2113,15 @@ extraSprites:
   - type: D.SPK #CIV1 INV
     singleImage: true
     files:
-      0: Resources/LAYER/ULTRAMARINE/D.gif
+      0: Resources/LAYER/ULTRAMARINE/D.png
   - type: RAZOR.SPK #CIV1 INV
     singleImage: true
     files:
-      0: Resources/LAYER/ULTRAMARINE/RAZOR.gif
+      0: Resources/LAYER/ULTRAMARINE/RAZOR.png
   - type: STORMTALONI.SPK #STORMTALON INV
     singleImage: true
     files:
-      0: Resources/LAYER/ULTRAMARINE/STORMTALON.gif
+      0: Resources/LAYER/ULTRAMARINE/STORMTALON.png
   - type: IMPULSOR.SPK #CIV1 INV
     singleImage: true
     files:

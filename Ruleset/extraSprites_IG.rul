@@ -109,7 +109,7 @@ extraSprites:
       1300: Resources_IG/Bigobs/commissar_corpse.png
       1301: Resources_IG/Bigobs/ogryn_corpse.png
       1302: Resources_IG/Bigobs/ogryn_carapace_corpse.png
-      1303: Resources_IG/UnitSprites/Civilians/HUM_4_b.gif
+      1303: Resources_IG/UnitSprites/Civilians/HUM_4_b.png
       1304: Resources_IG/UnitSprites/Civilians/bigob_MALE_GREASER_CORPSE.png
       1305: Resources_IG/UnitSprites/Civilians/HUM_7_b.png
       1306: Resources_IG/UnitSprites/Civilians/HUM_6_b.png
@@ -197,8 +197,8 @@ extraSprites:
       1300: Resources_IG/Floorobs/floorob_commissar_corpse.png
       1301: Resources_IG/Floorobs/floorob_ogryn_corpse.png
       1302: Resources_IG/Floorobs/floorob_ogryn_carapace_corpse.png
-      1303: Resources_IG/UnitSprites/Civilians/floorob_51_0.gif
-      1304: Resources_IG/UnitSprites/Civilians/SMU_4_c.gif
+      1303: Resources_IG/UnitSprites/Civilians/floorob_51_0.png
+      1304: Resources_IG/UnitSprites/Civilians/SMU_4_c.png
       1305: Resources_IG/UnitSprites/Civilians/HUM_7_c.png
       1306: Resources_IG/UnitSprites/Civilians/HUM_6_c.png
       1307: Resources_IG/Floorobs/floorob_guard_mount_0.png
@@ -253,7 +253,7 @@ extraSprites:
     subX: 32
     subY: 40
     files:
-      1100: Resources_IG/Morale_Buff_Hit.gif
+      1100: Resources_IG/Morale_Buff_Hit.png
       1110: Resources_IG/lightning_strike.png
       1990: Resources_IG/blank_smoke.png
 

@@ -41,10 +41,10 @@ extraSprites:
       272: Resources/Bolter/BOLTERC.png
       280: Resources/Thammer/TH.png
       288: Resources/Shotgun/SHOTGUN.png
-      296: Resources/Psword/PSWORD.png
+      296: Resources/Psword/PSWORD_bigob.png
       304: Resources/Psword/PK.png
       312: Resources/Necron/312.png
-      320: Resources/LIB/HANDTOME.gif
+      320: Resources/LIB/HANDTOME.png
       328: Resources/Shotgun/SHOTGUN.png
       336: Resources/Grenade/KGRENADE.png
       344: Resources/Grenade/MBOMB.png
@@ -59,10 +59,10 @@ extraSprites:
       416: Resources/Lasgun/MCLASGUN.png
       424: Resources/CHAP/CR.png
       432: Resources/GravGun/GRAV.png
-      440: Resources/Mplasma/440.gif
-      448: Resources/Mlauncher/448.gif
-      456: Resources/Lascan/456.gif
-      464: Resources/Bolter/464.gif
+      440: Resources/Mplasma/440.png
+      448: Resources/Mlauncher/448.png
+      456: Resources/Lascan/456.png
+      464: Resources/Bolter/464.png
       472: Resources/Meltagun/472.png
       480: Resources/AX/480.png
       488: Resources/HeavyF/488.png
@@ -87,8 +87,8 @@ extraSprites:
 #     640: Resources/Stormbolter/640.png
       640: Resources/Meltagun/handob_inferno_pistol.png
       648: Resources/Assc/CASSC.png
-      656: Resources/Stormbolter/656.gif
-      664: Resources/Assc/664.gif
+      656: Resources/Stormbolter/656.png
+      664: Resources/Assc/664.png
       672: Resources/Meltagun/672.png
       680: Resources/Mlauncher/680.png
       688: Resources/FOES/688.png
@@ -98,7 +98,7 @@ extraSprites:
       720: Resources/Bolter/720.png
       728: Resources/Boltpistol/728.png
       736: Resources/Boltpistol/736.png
-      744: Resources/NULL/744.gif
+      744: Resources/NULL/744.png
       752: Resources/Bolter/752.png
       760: Resources/Bolter/760.png
       768: Resources/Assc/768.png

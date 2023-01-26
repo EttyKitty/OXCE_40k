@@ -59,103 +59,103 @@
   - type: MAN_39F0.SPK #GUARD  INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0f0.gif
+      0: Resources/GUARD/InventorySH/man_0f0.png
   - type: MAN_39F1.SPK #GUARD  INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0f1.gif
+      0: Resources/GUARD/InventorySH/man_0f1.png
   - type: MAN_39F2.SPK #GUARD  INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0f2.gif
+      0: Resources/GUARD/InventorySH/man_0f2.png
   - type: MAN_39F3.SPK #GUARD  INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0f3.gif
+      0: Resources/GUARD/InventorySH/man_0f3.png
   - type: MAN_39F4.SPK #GUARD  INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0f4.gif
+      0: Resources/GUARD/InventorySH/man_0f4.png
   - type: MAN_39F5.SPK #GUARD  INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0f5.gif
+      0: Resources/GUARD/InventorySH/man_0f5.png
   - type: MAN_39F6.SPK #GUARD  INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0f6.gif
+      0: Resources/GUARD/InventorySH/man_0f6.png
   - type: MAN_39F7.SPK #GUARD  INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0f7.gif
+      0: Resources/GUARD/InventorySH/man_0f7.png
   - type: MAN_39F8.SPK #GUARD  INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0f8.gif
+      0: Resources/GUARD/InventorySH/man_0f8.png
   - type: MAN_39F9.SPK #GUARD                        INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0f9.gif
+      0: Resources/GUARD/InventorySH/man_0f9.png
   - type: MAN_39M0.SPK #GUARD  INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0m0.gif
+      0: Resources/GUARD/InventorySH/man_0m0.png
   - type: MAN_39M1.SPK #GUARD  INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0m1.gif
+      0: Resources/GUARD/InventorySH/man_0m1.png
   - type: MAN_39M2.SPK #GUARD  INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0m2.gif
+      0: Resources/GUARD/InventorySH/man_0m2.png
   - type: MAN_39M3.SPK #GUARD  INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0m3.gif
+      0: Resources/GUARD/InventorySH/man_0m3.png
   - type: MAN_39M4.SPK #GUARD  INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0m4.gif
+      0: Resources/GUARD/InventorySH/man_0m4.png
   - type: MAN_39M5.SPK #GUARD  INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0m5.gif
+      0: Resources/GUARD/InventorySH/man_0m5.png
   - type: MAN_39M6.SPK #GUARD  INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0m6.gif
+      0: Resources/GUARD/InventorySH/man_0m6.png
   - type: MAN_39M7.SPK #GUARD  INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0m7.gif
+      0: Resources/GUARD/InventorySH/man_0m7.png
   - type: MAN_39M8.SPK #GUARD  INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0m8.gif
+      0: Resources/GUARD/InventorySH/man_0m8.png
   - type: MAN_39M9.SPK #GUARD                         INV 39
     singleImage: true
     files:
-      0: Resources/GUARD/InventorySH/man_0m9.gif
+      0: Resources/GUARD/InventorySH/man_0m9.png
   - type: MAN_38F0.SPK #ADEPTAS INV 38 F
     singleImage: true
     files:
-      0: Resources/Adeptas/InventoryH/man_0f0.gif
+      0: Resources/Adeptas/InventoryH/man_0f0.png
   - type: MAN_38F1.SPK #ADEPTAS  INV 38
     singleImage: true
     files:
-      0: Resources/Adeptas/InventoryH/man_0f1.gif
+      0: Resources/Adeptas/InventoryH/man_0f1.png
   - type: MAN_38F2.SPK #ADEPTAS  INV 38
     singleImage: true
     files:
-      0: Resources/Adeptas/InventoryH/man_0f2.gif
+      0: Resources/Adeptas/InventoryH/man_0f2.png
   - type: MAN_38F3.SPK #ADEPTAS  INV 38
     singleImage: true
     files:
-      0: Resources/Adeptas/InventoryH/man_0f3.gif
+      0: Resources/Adeptas/InventoryH/man_0f3.png
   - type: MAN_38F4.SPK #ADEPTAS  INV 38
     singleImage: true
     files:
-      0: Resources/Adeptas/InventoryH/man_0f4.gif
+      0: Resources/Adeptas/InventoryH/man_0f4.png
   - type: MAN_38F5.SPK #ADEPTAS  INV 38
     singleImage: true
     files:
@@ -167,23 +167,23 @@
   - type: MAN_38M0.SPK #ADEPTAS  INV 38 M
     singleImage: true
     files:
-      0: Resources/Adeptas/InventoryH/man_0m0.gif
+      0: Resources/Adeptas/InventoryH/man_0m0.png
   - type: MAN_38M1.SPK #ADEPTAS  INV 38
     singleImage: true
     files:
-      0: Resources/Adeptas/InventoryH/man_0m1.gif
+      0: Resources/Adeptas/InventoryH/man_0m1.png
   - type: MAN_38M2.SPK #ADEPTAS INV 38
     singleImage: true
     files:
-      0: Resources/Adeptas/InventoryH/man_0m2.gif
+      0: Resources/Adeptas/InventoryH/man_0m2.png
   - type: MAN_38M3.SPK #ADEPTAS  INV 38
     singleImage: true
     files:
-      0: Resources/Adeptas/InventoryH/man_0m3.gif
+      0: Resources/Adeptas/InventoryH/man_0m3.png
   - type: MAN_38M4.SPK #ADEPTAS  INV 38
     singleImage: true
     files:
-      0: Resources/Adeptas/InventoryH/man_0m4.gif
+      0: Resources/Adeptas/InventoryH/man_0m4.png
   - type: MAN_38M5.SPK #ADEPTAS  INV 38
     singleImage: true
     files:
@@ -195,183 +195,183 @@
   - type: MAN_37F0.SPK #GUARD  INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0f0.gif
+      0: Resources/GUARD/InventoryP/man_0f0.png
   - type: MAN_37F1.SPK #GUARD  INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0f1.gif
+      0: Resources/GUARD/InventoryP/man_0f1.png
   - type: MAN_37F2.SPK #GUARD  INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0f2.gif
+      0: Resources/GUARD/InventoryP/man_0f2.png
   - type: MAN_37F3.SPK #GUARD  INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0f3.gif
+      0: Resources/GUARD/InventoryP/man_0f3.png
   - type: MAN_37F4.SPK #GUARD  INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0f4.gif
+      0: Resources/GUARD/InventoryP/man_0f4.png
   - type: MAN_37F5.SPK #GUARD  INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0f5.gif
+      0: Resources/GUARD/InventoryP/man_0f5.png
   - type: MAN_37F6.SPK #GUARD  INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0f6.gif
+      0: Resources/GUARD/InventoryP/man_0f6.png
   - type: MAN_37F7.SPK #GUARD  INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0f7.gif
+      0: Resources/GUARD/InventoryP/man_0f7.png
   - type: MAN_37F8.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0f8.gif
+      0: Resources/GUARD/InventoryP/man_0f8.png
   - type: MAN_37F9.SPK #GUARD                        INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0f9.gif
+      0: Resources/GUARD/InventoryP/man_0f9.png
   - type: MAN_37M0.SPK #GUARD  INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0m0.gif
+      0: Resources/GUARD/InventoryP/man_0m0.png
   - type: MAN_37M1.SPK #GUARD  INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0m1.gif
+      0: Resources/GUARD/InventoryP/man_0m1.png
   - type: MAN_37M2.SPK #GUARD  INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0m2.gif
+      0: Resources/GUARD/InventoryP/man_0m2.png
   - type: MAN_37M3.SPK #GUARD  INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0m3.gif
+      0: Resources/GUARD/InventoryP/man_0m3.png
   - type: MAN_37M4.SPK #GUARD  INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0m4.gif
+      0: Resources/GUARD/InventoryP/man_0m4.png
   - type: MAN_37M5.SPK #GUARD  INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0m5.gif
+      0: Resources/GUARD/InventoryP/man_0m5.png
   - type: MAN_37M6.SPK #GUARD  INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0m6.gif
+      0: Resources/GUARD/InventoryP/man_0m6.png
   - type: MAN_37M7.SPK #GUARD  INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0m7.gif
+      0: Resources/GUARD/InventoryP/man_0m7.png
   - type: MAN_37M8.SPK #GUARD  INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0m8.gif
+      0: Resources/GUARD/InventoryP/man_0m8.png
   - type: MAN_37M9.SPK #GUARD                         INV 37
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryP/man_0m9.gif
+      0: Resources/GUARD/InventoryP/man_0m9.png
   - type: MAN_36F0.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0f0.gif
+      0: Resources/GUARD/InventoryS/man_0f0.png
   - type: MAN_36F1.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0f1.gif
+      0: Resources/GUARD/InventoryS/man_0f1.png
   - type: MAN_36F2.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0f2.gif
+      0: Resources/GUARD/InventoryS/man_0f2.png
   - type: MAN_36F3.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0f3.gif
+      0: Resources/GUARD/InventoryS/man_0f3.png
   - type: MAN_36F4.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0f4.gif
+      0: Resources/GUARD/InventoryS/man_0f4.png
   - type: MAN_36F5.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0f5.gif
+      0: Resources/GUARD/InventoryS/man_0f5.png
   - type: MAN_36F6.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0f6.gif
+      0: Resources/GUARD/InventoryS/man_0f6.png
   - type: MAN_36F7.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0f7.gif
+      0: Resources/GUARD/InventoryS/man_0f7.png
   - type: MAN_36F8.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0f8.gif
+      0: Resources/GUARD/InventoryS/man_0f8.png
   - type: MAN_36F9.SPK #GUARD                        INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0f9.gif
+      0: Resources/GUARD/InventoryS/man_0f9.png
   - type: MAN_36M0.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0m0.gif
+      0: Resources/GUARD/InventoryS/man_0m0.png
   - type: MAN_36M1.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0m1.gif
+      0: Resources/GUARD/InventoryS/man_0m1.png
   - type: MAN_36M2.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0m2.gif
+      0: Resources/GUARD/InventoryS/man_0m2.png
   - type: MAN_36M3.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0m3.gif
+      0: Resources/GUARD/InventoryS/man_0m3.png
   - type: MAN_36M4.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0m4.gif
+      0: Resources/GUARD/InventoryS/man_0m4.png
   - type: MAN_36M5.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0m5.gif
+      0: Resources/GUARD/InventoryS/man_0m5.png
   - type: MAN_36M6.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0m6.gif
+      0: Resources/GUARD/InventoryS/man_0m6.png
   - type: MAN_36M7.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0m7.gif
+      0: Resources/GUARD/InventoryS/man_0m7.png
   - type: MAN_36M8.SPK #GUARD  INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0m8.gif
+      0: Resources/GUARD/InventoryS/man_0m8.png
   - type: MAN_36M9.SPK #GUARD                         INV 36
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryS/man_0m9.gif
+      0: Resources/GUARD/InventoryS/man_0m9.png
   - type: MAN_33F0.SPK #ADEPTAS INV 33 F
     singleImage: true
     files:
-      0: Resources/Adeptas/Inventory/man_0f0.gif
+      0: Resources/Adeptas/Inventory/man_0f0.png
   - type: MAN_33F1.SPK #ADEPTAS  INV 33
     singleImage: true
     files:
-      0: Resources/Adeptas/Inventory/man_0f1.gif
+      0: Resources/Adeptas/Inventory/man_0f1.png
   - type: MAN_33F2.SPK #ADEPTAS  INV 33
     singleImage: true
     files:
-      0: Resources/Adeptas/Inventory/man_0f2.gif
+      0: Resources/Adeptas/Inventory/man_0f2.png
   - type: MAN_33F3.SPK #ADEPTAS  INV 33
     singleImage: true
     files:
-      0: Resources/Adeptas/Inventory/man_0f3.gif
+      0: Resources/Adeptas/Inventory/man_0f3.png
   - type: MAN_33F4.SPK #ADEPTAS  INV 33
     singleImage: true
     files:
-      0: Resources/Adeptas/Inventory/man_0f4.gif
+      0: Resources/Adeptas/Inventory/man_0f4.png
   - type: MAN_33F5.SPK #ADEPTAS  INV 33
     singleImage: true
     files:
@@ -383,23 +383,23 @@
   - type: MAN_33M0.SPK #ADEPTAS  INV 33 M
     singleImage: true
     files:
-      0: Resources/Adeptas/Inventory/man_0m0.gif
+      0: Resources/Adeptas/Inventory/man_0m0.png
   - type: MAN_33M1.SPK #ADEPTAS  INV 33
     singleImage: true
     files:
-      0: Resources/Adeptas/Inventory/man_0m1.gif
+      0: Resources/Adeptas/Inventory/man_0m1.png
   - type: MAN_33M2.SPK #ADEPTAS INV 33
     singleImage: true
     files:
-      0: Resources/Adeptas/Inventory/man_0m2.gif
+      0: Resources/Adeptas/Inventory/man_0m2.png
   - type: MAN_33M3.SPK #ADEPTAS  INV 33
     singleImage: true
     files:
-      0: Resources/Adeptas/Inventory/man_0m3.gif
+      0: Resources/Adeptas/Inventory/man_0m3.png
   - type: MAN_33M4.SPK #ADEPTAS  INV 33
     singleImage: true
     files:
-      0: Resources/Adeptas/Inventory/man_0m4.gif
+      0: Resources/Adeptas/Inventory/man_0m4.png
   - type: MAN_33M5.SPK #ADEPTAS  INV 33
     singleImage: true
     files:
@@ -411,56 +411,56 @@
   - type: MAN_50F0.SPK #GK  INV 50
     singleImage: true
     files:
-      0: Resources/GREY/Inventory/man_50f0.gif
+      0: Resources/GREY/Inventory/man_50f0.png
   - type: MAN_50F1.SPK #GK  INV 50
     singleImage: true
     files:
-      0: Resources/GREY/Inventory/man_50f1.gif
+      0: Resources/GREY/Inventory/man_50f1.png
   - type: MAN_50F2.SPK #GK  INV 50
     singleImage: true
     files:
-      0: Resources/GREY/Inventory/man_50f2.gif
+      0: Resources/GREY/Inventory/man_50f2.png
   - type: MAN_50F3.SPK #GK  INV 50
     singleImage: true
     files:
-      0: Resources/GREY/Inventory/man_50f3.gif
+      0: Resources/GREY/Inventory/man_50f3.png
   - type: MAN_50F4.SPK #GK  INV 50
     singleImage: true
     files:
-      0: Resources/GREY/Inventory/man_50f4.gif
+      0: Resources/GREY/Inventory/man_50f4.png
   - type: MAN_50F5.SPK #GK  INV 50
     singleImage: true
     files:
-      0: Resources/GREY/Inventory/man_50f5.gif
+      0: Resources/GREY/Inventory/man_50f5.png
   - type: MAN_50M0.SPK #GK  INV 50
     singleImage: true
     files:
-      0: Resources/GREY/Inventory/man_50m0.gif
+      0: Resources/GREY/Inventory/man_50m0.png
   - type: MAN_50M1.SPK #GK  INV 50
     singleImage: true
     files:
-      0: Resources/GREY/Inventory/man_50m1.gif
+      0: Resources/GREY/Inventory/man_50m1.png
   - type: MAN_50M2.SPK #GK  INV 50
     singleImage: true
     files:
-      0: Resources/GREY/Inventory/man_50m2.gif
+      0: Resources/GREY/Inventory/man_50m2.png
   - type: MAN_50M3.SPK #GK  INV 50
     singleImage: true
     files:
-      0: Resources/GREY/Inventory/man_50m3.gif
+      0: Resources/GREY/Inventory/man_50m3.png
   - type: MAN_50M4.SPK #GK  INV 50
     singleImage: true
     files:
-      0: Resources/GREY/Inventory/man_50m4.gif
+      0: Resources/GREY/Inventory/man_50m4.png
   - type: MAN_50M5.SPK #GK  INV 50
     singleImage: true
     files:
-      0: Resources/GREY/Inventory/man_50m5.gif
+      0: Resources/GREY/Inventory/man_50m5.png
 #    FOES INV
   - type: GKINV.SPK #GK  INV 50
     singleImage: true
     files:
-      0: Resources/GREY/GKINV.gif
+      0: Resources/GREY/GKINV.png
   - type: GREYKNIGHTBA.SPK #GK  INV 50
     singleImage: true
     files:
@@ -480,11 +480,11 @@
   - type: NOTDONE.SPK #FOES INV
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/NOTDONE.gif
+      0: Resources/FOES/Inventory/NOTDONE.png
   - type: NOTDONEIMP.SPK #FOES INV
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/NOTDONEIMP.gif
+      0: Resources/FOES/Inventory/NOTDONEIMP.png
   - type: TYR.SPK #FOES INV GENESTEALER
     singleImage: true
     files:
@@ -560,15 +560,15 @@
   - type: ELDAR1.SPK #FOES INV
     singleImage: true
     files:
-      0: Resources/Eldar/ELDAR01.gif
+      0: Resources/Eldar/ELDAR01.png
   - type: ELDAR2.SPK #FOES INV
     singleImage: true
     files:
-      0: Resources/Eldar/ELDAR02.gif
+      0: Resources/Eldar/ELDAR02.png
   - type: ELDAR3.SPK #FOES INV
     singleImage: true
     files:
-      0: Resources/Eldar/ELDAR03.gif
+      0: Resources/Eldar/ELDAR03.png
   - type: ELDAR4.SPK #FOES INV
     singleImage: true
     files:
@@ -576,7 +576,7 @@
   - type: ELDAR5.SPK #FOES INV
     singleImage: true
     files:
-      0: Resources/Eldar/ELDAR05.gif
+      0: Resources/Eldar/ELDAR05.png
   - type: ELDAR6.SPK #FOES INV
     singleImage: true
     files:
@@ -612,11 +612,11 @@
   - type: CIV1.SPK #CIV1 INV
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CIV1.gif
+      0: Resources/FOES/Inventory/CIV1.png
   - type: CIV2.SPK #CIV1 INV
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CIV2.gif
+      0: Resources/FOES/Inventory/CIV2.png
   - type: CSENT.SPK #FOES INV     Chaos SENT
     singleImage: true
     files:
@@ -624,11 +624,11 @@
   - type: CTANK.SPK #FOES INV     Chaos TANK
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CHT.gif
+      0: Resources/FOES/Inventory/CHT.png
   - type: CTANKT.SPK #FOES INV     Chaos TANK
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CHTT.gif
+      0: Resources/FOES/Inventory/CHTT.png
   - type: DEF.SPK #FOES INV     Chaos TANK
     singleImage: true
     files:
@@ -636,7 +636,7 @@
   - type: DT.SPK #FOES INV      DEAMON Tzecc
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/DT.gif
+      0: Resources/FOES/Inventory/DT.png
   - type: DK.SPK #FOES INV      DEAMON khorne
     singleImage: true
     files:
@@ -656,87 +656,87 @@
   - type: HAVOCI.SPK #FOES INV      HAVOC
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/HAV.gif
+      0: Resources/FOES/Inventory/HAV.png
   - type: CHA.SPK #FOES INV      PLAGUE SISTER
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CHA.gif
+      0: Resources/FOES/Inventory/CHA.png
   - type: CHAK.SPK #FOES INV      Khorne SISTER
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CHAK.gif
+      0: Resources/FOES/Inventory/CHAK.png
   - type: CHAS.SPK #FOES INV      Slanesh SISTER
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CHAS.gif
+      0: Resources/FOES/Inventory/CHAS.png
   - type: CHAT.SPK #FOES INV      Tzecc SISTER
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CHAT.gif
+      0: Resources/FOES/Inventory/CHAT.png
   - type: CHD.SPK #FOES INV      DEMONETE
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CHD.gif
+      0: Resources/FOES/Inventory/CHD.png
   - type: CNINV.SPK #FOES INV       NURGLE
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CN.gif
+      0: Resources/FOES/Inventory/CN.png
   - type: CTZ.SPK #FOES INV         TEZENCH
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CTZ.gif
+      0: Resources/FOES/Inventory/CTZ.png
   - type: CTZH.SPK #FOES INV         TEZENCH HAVOC
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CTZH.gif
+      0: Resources/FOES/Inventory/CTZH.png
   - type: CTZS.SPK #FOES INV         TEZENCH SORCERRER
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CTZS.gif
+      0: Resources/FOES/Inventory/CTZS.png
   - type: OBL.SPK #FOES INV       Obliterator
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/OBL.gif
+      0: Resources/FOES/Inventory/OBL.png
   - type: CT.SPK #FOES INV       Terminator
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CT.gif
+      0: Resources/FOES/Inventory/CT.png
   - type: CTC.SPK #FOES INV       Terminator
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CTC.gif
+      0: Resources/FOES/Inventory/CTC.png
   - type: CTL.SPK #FOES INV       Terminator
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CTL.gif
+      0: Resources/FOES/Inventory/CTL.png
   - type: CTN.SPK #FOES INV       Terminator NURGLE
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CTN.gif
+      0: Resources/FOES/Inventory/CTN.png
   - type: CTNC.SPK #FOES INV       Terminator  NURGLE Champion
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CTNC.gif
+      0: Resources/FOES/Inventory/CTNC.png
   - type: CS.SPK #FOES INV       Slanesh marine
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CS.gif
+      0: Resources/FOES/Inventory/CS.png
   - type: CSH.SPK #FOES INV       Slanesh marine HAVOC
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CSH.gif
+      0: Resources/FOES/Inventory/CSH.png
   - type: RINV.SPK #FOES INV
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/RINV.gif
+      0: Resources/FOES/Inventory/RINV.png
   - type: RINVC.SPK #FOES INV
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/RINVC.gif
+      0: Resources/FOES/Inventory/RINVC.png
   - type: WT.SPK #FOES INV
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/WT.gif
+      0: Resources/FOES/Inventory/WT.png
   - type: CTK.SPK #FOES INV
     singleImage: true
     files:
@@ -760,23 +760,23 @@
   - type: CHBINV.SPK #FOES INV
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CHB.gif
+      0: Resources/FOES/Inventory/CHB.png
   - type: CBINV.SPK #FOES INV  CHAOS BEHEMOTH
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CB.gif
+      0: Resources/FOES/Inventory/CB.png
   - type: CHR.SPK #FOES INV
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CHR.gif
+      0: Resources/FOES/Inventory/CHR.png
   - type: CHN.SPK #FOES INV
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CHN.gif
+      0: Resources/FOES/Inventory/CHN.png
   - type: CHS.SPK #FOES INV
     singleImage: true
     files:
-      0: Resources/FOES/Inventory/CHS.gif
+      0: Resources/FOES/Inventory/CHS.png
   - type: ICG.SPK #FOES INV
     singleImage: true
     files:
@@ -808,163 +808,163 @@
   - type: MAN_32F0.SPK #GUARD  INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0f0.gif
+      0: Resources/GUARD/InventoryH/man_0f0.png
   - type: MAN_32F1.SPK #GUARD  INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0f1.gif
+      0: Resources/GUARD/InventoryH/man_0f1.png
   - type: MAN_32F2.SPK #GUARD  INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0f2.gif
+      0: Resources/GUARD/InventoryH/man_0f2.png
   - type: MAN_32F3.SPK #GUARD  INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0f3.gif
+      0: Resources/GUARD/InventoryH/man_0f3.png
   - type: MAN_32F4.SPK #GUARD  INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0f4.gif
+      0: Resources/GUARD/InventoryH/man_0f4.png
   - type: MAN_32F5.SPK #GUARD  INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0f5.gif
+      0: Resources/GUARD/InventoryH/man_0f5.png
   - type: MAN_32F6.SPK #GUARD  INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0f6.gif
+      0: Resources/GUARD/InventoryH/man_0f6.png
   - type: MAN_32F7.SPK #GUARD  INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0f7.gif
+      0: Resources/GUARD/InventoryH/man_0f7.png
   - type: MAN_32F8.SPK #GUARD  INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0f8.gif
+      0: Resources/GUARD/InventoryH/man_0f8.png
   - type: MAN_32F9.SPK #GUARD                        INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0f9.gif
+      0: Resources/GUARD/InventoryH/man_0f9.png
   - type: MAN_32M0.SPK #GUARD  INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0m0.gif
+      0: Resources/GUARD/InventoryH/man_0m0.png
   - type: MAN_32M1.SPK #GUARD  INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0m1.gif
+      0: Resources/GUARD/InventoryH/man_0m1.png
   - type: MAN_32M2.SPK #GUARD  INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0m2.gif
+      0: Resources/GUARD/InventoryH/man_0m2.png
   - type: MAN_32M3.SPK #GUARD  INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0m3.gif
+      0: Resources/GUARD/InventoryH/man_0m3.png
   - type: MAN_32M4.SPK #GUARD  INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0m4.gif
+      0: Resources/GUARD/InventoryH/man_0m4.png
   - type: MAN_32M5.SPK #GUARD  INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0m5.gif
+      0: Resources/GUARD/InventoryH/man_0m5.png
   - type: MAN_32M6.SPK #GUARD  INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0m6.gif
+      0: Resources/GUARD/InventoryH/man_0m6.png
   - type: MAN_32M7.SPK #GUARD  INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0m7.gif
+      0: Resources/GUARD/InventoryH/man_0m7.png
   - type: MAN_32M8.SPK #GUARD  INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0m8.gif
+      0: Resources/GUARD/InventoryH/man_0m8.png
   - type: MAN_32M9.SPK #GUARD                         INV 32
     singleImage: true
     files:
-      0: Resources/GUARD/InventoryH/man_0m9.gif
+      0: Resources/GUARD/InventoryH/man_0m9.png
   - type: MAN_31F0.SPK #GUARD  INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0f0.gif
+      0: Resources/GUARD/Inventory/man_0f0.png
   - type: MAN_31F1.SPK #GUARD  INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0f1.gif
+      0: Resources/GUARD/Inventory/man_0f1.png
   - type: MAN_31F2.SPK #GUARD  INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0f2.gif
+      0: Resources/GUARD/Inventory/man_0f2.png
   - type: MAN_31F3.SPK #GUARD  INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0f3.gif
+      0: Resources/GUARD/Inventory/man_0f3.png
   - type: MAN_31F4.SPK #GUARD  INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0f4.gif
+      0: Resources/GUARD/Inventory/man_0f4.png
   - type: MAN_31F5.SPK #GUARD  INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0f5.gif
+      0: Resources/GUARD/Inventory/man_0f5.png
   - type: MAN_31F6.SPK #GUARD  INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0f6.gif
+      0: Resources/GUARD/Inventory/man_0f6.png
   - type: MAN_31F7.SPK #GUARD  INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0f7.gif
+      0: Resources/GUARD/Inventory/man_0f7.png
   - type: MAN_31F8.SPK #GUARD  INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0f8.gif
+      0: Resources/GUARD/Inventory/man_0f8.png
   - type: MAN_31F9.SPK #GUARD                         INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0f9.gif
+      0: Resources/GUARD/Inventory/man_0f9.png
   - type: MAN_31M0.SPK #GUARD  INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0m0.gif
+      0: Resources/GUARD/Inventory/man_0m0.png
   - type: MAN_31M1.SPK #GUARD  INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0m1.gif
+      0: Resources/GUARD/Inventory/man_0m1.png
   - type: MAN_31M2.SPK #GUARD  INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0m2.gif
+      0: Resources/GUARD/Inventory/man_0m2.png
   - type: MAN_31M3.SPK #GUARD  INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0m3.gif
+      0: Resources/GUARD/Inventory/man_0m3.png
   - type: MAN_31M4.SPK #GUARD  INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0m4.gif
+      0: Resources/GUARD/Inventory/man_0m4.png
   - type: MAN_31M5.SPK #GUARD INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0m5.gif
+      0: Resources/GUARD/Inventory/man_0m5.png
   - type: MAN_31M6.SPK #GUARD INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0m6.gif
+      0: Resources/GUARD/Inventory/man_0m6.png
   - type: MAN_31M7.SPK #GUARD INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0m7.gif
+      0: Resources/GUARD/Inventory/man_0m7.png
   - type: MAN_31M8.SPK #GUARD INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0m8.gif
+      0: Resources/GUARD/Inventory/man_0m8.png
   - type: MAN_31M9.SPK #GUARD                          INV 31
     singleImage: true
     files:
-      0: Resources/GUARD/Inventory/man_0m9.gif
+      0: Resources/GUARD/Inventory/man_0m9.png
 #    Drawing routine
   - type: LR.SPK #LEMON RUSS INV
     singleImage: true
@@ -1003,7 +1003,7 @@
   - type: MINV.SPK #MONK INV
     singleImage: true
     files:
-      0: Resources/Support/MINV.gif
+      0: Resources/Support/MINV.png
   - type: MWINV.SPK #MONK INV
     singleImage: true
     files:
@@ -1011,13 +1011,13 @@
   - type: SINV.SPK #SERVITOR INV
     singleImage: true
     files:
-      0: Resources/Support/SINV.gif
+      0: Resources/Support/SINV.png
   - type: TAC00.SCR #endturn
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/endturn.gif
+      0: Resources/Backgrounds/endturn.png
   - type: TAC01.SCR #EQUIP
     singleImage: true
     width: 320
@@ -1030,7 +1030,7 @@
     subX: 32
     subY: 40
     files:
-      0: Resources/DECALS/Cursor.gif
+      0: Resources/DECALS/Cursor.png
   - type: MEDIBORD.PCK
     singleImage: true
     width: 320
@@ -1095,31 +1095,31 @@
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/screen.gif
+      0: Resources/Backgrounds/screen.png
   - type: BACK02.SCR #soldier
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/soldier.gif
+      0: Resources/Backgrounds/soldier.png
   - type: BACK03.SCR #Terror
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/03.gif
+      0: Resources/Backgrounds/03.png
   - type: BACK04.SCR #fire
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/fire.gif
+      0: Resources/Backgrounds/fire.png
   - type: BACK05.SCR #res
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/res.gif
+      0: Resources/Backgrounds/res.png
   - type: BACK08.SCR #equip
     singleImage: true
     width: 320
@@ -1155,176 +1155,176 @@
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/empire.gif
+      0: Resources/Backgrounds/empire.png
   - type: BACK14.SCR #equip craft
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/14.gif
+      0: Resources/Backgrounds/14.png
   - type: BACK15.SCR #enemy craft
 
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/15.gif
+      0: Resources/Backgrounds/15.png
   - type: BACK16.SCR #manu
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/16.gif
+      0: Resources/Backgrounds/16.png
   - type: BACK17.SCR #manu
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/manu.gif
+      0: Resources/Backgrounds/manu.png
   - type: BACK141.SCR #MISSION
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/141.gif
+      0: Resources/Backgrounds/141.png
   - type: BACK142.SCR #MISSION
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/142.gif
+      0: Resources/Backgrounds/142.png
   - type: BACK143.SCR #MISSION
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/143.gif
+      0: Resources/Backgrounds/143.png
   - type: BACK144.SCR #MISSION
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/144.gif
+      0: Resources/Backgrounds/144.png
   - type: BACK145.SCR #WAR
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/145.gif
+      0: Resources/Backgrounds/145.png
   - type: BACK150.SCR #WAR
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/150.gif
+      0: Resources/Backgrounds/150.png
   - type: BACK151.SCR #HULK
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/151.gif
+      0: Resources/Backgrounds/151.png
   - type: BACK154.SCR #ABANDANON
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/154.gif
+      0: Resources/Backgrounds/154.png
   - type: BACK155.SCR #Train
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/155.gif
+      0: Resources/Backgrounds/155.png
   - type: BACK156.SCR #CHAOS OUTPOST
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/156.gif
+      0: Resources/Backgrounds/156.png
   - type: BACK157.SCR #CATHEDRAL
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/157.gif
+      0: Resources/Backgrounds/157.png
   - type: BACK158.SCR #RAPTOR
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/158.gif
+      0: Resources/Backgrounds/158.png
   - type: BACK159.SCR #ELDAR
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/159.gif
+      0: Resources/Backgrounds/159.png
   - type: BACK160.SCR #ELDAR
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/160.gif
+      0: Resources/Backgrounds/160.png
   - type: BACK161.SCR #SHIP
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/161.gif
+      0: Resources/Backgrounds/161.png
   - type: BACK162.SCR #SHIP
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/162.gif
+      0: Resources/Backgrounds/162.png
   - type: BACK163.SCR #ORK
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/163.gif
+      0: Resources/Backgrounds/163.png
   - type: BACK165.SCR #ORK
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/165.gif
+      0: Resources/Backgrounds/165.png
   - type: BACK166.SCR #ORK
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/166.gif
+      0: Resources/Backgrounds/166.png
   - type: BACK168.SCR #ELDAR
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/168.gif
+      0: Resources/Backgrounds/168.png
   - type: BACK169.SCR #ARBITES
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/169.gif
+      0: Resources/Backgrounds/169.png
   - type: BACK170.SCR #ARBITES
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/170.gif
+      0: Resources/Backgrounds/170.png
   - type: BACK171.SCR #NECRON
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/171.gif
+      0: Resources/Backgrounds/171.png
   - type: BACK172.SCR #NECRON
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Backgrounds/172.gif
+      0: Resources/Backgrounds/172.png
   - type: BACK173.SCR #HIVE
     singleImage: true
     width: 320
@@ -1826,7 +1826,7 @@
     width: 256
     height: 1440
     files:
-      0: Resources/Eldar/eldar3.gif
+      0: Resources/Eldar/eldar3.png
   - type: ELDARDR32.PCK #ELDAR BANSHEE
     subX: 32
     subY: 40
@@ -2270,24 +2270,24 @@
     subX: 32
     subY: 40
     files:
-      0: Resources/Sprites/Fire.gif
-      10: Resources/Sprites/smoke.gif
-      20: Resources/Rank/smoke20.gif
-      21: Resources/Rank/smoke21.gif
-      22: Resources/Rank/smoke22.gif
-      23: Resources/Rank/smoke23.gif
-      24: Resources/Rank/smoke24.gif
-      25: Resources/Rank/smoke25.gif
-      60: Resources/Sprites/terranplasma_hit.gif
-      70: Resources/Sprites/HitAnimationS.gif
-      80: Resources/Sprites/HitAnimationR.gif
-      90: Resources/Sprites/Fire.gif
-      100: Resources/Sprites/100heavyplasmahit.gif
-      110: Resources/Sprites/110meltahit.gif
-      120: Resources/Sprites/120.gif
-      130: Resources/Sprites/130.gif
-      140: Resources/Sprites/140.gif
-      150: Resources/Sprites/150.gif
+      0: Resources/Sprites/Fire.png
+      10: Resources/Sprites/smoke.png
+      20: Resources/Rank/smoke20.png
+      21: Resources/Rank/smoke21.png
+      22: Resources/Rank/smoke22.png
+      23: Resources/Rank/smoke23.png
+      24: Resources/Rank/smoke24.png
+      25: Resources/Rank/smoke25.png
+      60: Resources/Sprites/terranplasma_hit.png
+      70: Resources/Sprites/HitAnimationS.png
+      80: Resources/Sprites/HitAnimationR.png
+      90: Resources/Sprites/Fire.png
+      100: Resources/Sprites/100heavyplasmahit.png
+      110: Resources/Sprites/110meltahit.png
+      120: Resources/Sprites/120.png
+      130: Resources/Sprites/130.png
+      140: Resources/Sprites/140.png
+      150: Resources/Sprites/150.png
       160: Resources/Sprites/160.png
       170: Resources/Sprites/170BLESS.png
       188: Resources/Rank/smoke188.png
@@ -2296,23 +2296,23 @@
       191: Resources/Rank/smoke191.png
       192: Resources/Rank/smoke192.png
       193: Resources/Rank/smoke193.png
-      194: Resources/Rank/smoke194.gif
-      195: Resources/Rank/smoke195.gif
-      196: Resources/Rank/smoke196.gif
-      197: Resources/Rank/smoke197.gif
-      198: Resources/Rank/smoke198.gif
-      199: Resources/Rank/smoke199.gif
-      200: Resources/Rank/smoke200.gif
-      201: Resources/Rank/smoke201.gif
-      202: Resources/Rank/smoke202.gif
-      203: Resources/Rank/smoke203.gif
-      204: Resources/Rank/smoke204.gif
-      215: Resources/Rank/smoke215.gif
-      216: Resources/Rank/smoke216.gif
-      217: Resources/Rank/smoke217.gif
-      218: Resources/Rank/smoke218.gif
-      219: Resources/Rank/smoke219.gif
-      220: Resources/Rank/smoke220.gif
+      194: Resources/Rank/smoke194.png
+      195: Resources/Rank/smoke195.png
+      196: Resources/Rank/smoke196.png
+      197: Resources/Rank/smoke197.png
+      198: Resources/Rank/smoke198.png
+      199: Resources/Rank/smoke199.png
+      200: Resources/Rank/smoke200.png
+      201: Resources/Rank/smoke201.png
+      202: Resources/Rank/smoke202.png
+      203: Resources/Rank/smoke203.png
+      204: Resources/Rank/smoke204.png
+      215: Resources/Rank/smoke215.png
+      216: Resources/Rank/smoke216.png
+      217: Resources/Rank/smoke217.png
+      218: Resources/Rank/smoke218.png
+      219: Resources/Rank/smoke219.png
+      220: Resources/Rank/smoke220.png
       221: Resources/Rank/smoke221.png
       222: Resources/Rank/smoke222.png
       223: Resources/Rank/smoke223.png
@@ -2406,20 +2406,20 @@
     subX: 32
     subY: 40
     files:
-      4: Resources/Sprites/MeleeWhite.gif
-      8: Resources/Sprites/ClawsRed.gif
-      12: Resources/Sprites/ClawsWhite.gif
+      4: Resources/Sprites/MeleeWhite.png
+      8: Resources/Sprites/ClawsRed.png
+      12: Resources/Sprites/ClawsWhite.png
       16: Resources/Sprites/MeleePurple.png
-      20: Resources/Sprites/MeleeRedBlast.gif
-      24: Resources/Sprites/ClawsGreen.gif
-      28: Resources/Sprites/MeleeShock.gif
-      32: Resources/Sprites/Repair.gif
-      36: Resources/Sprites/Bird.gif
-      40: Resources/Sprites/Eagle.gif
-      44: Resources/Sprites/Meleechain.gif
-      48: Resources/Sprites/Meleechainred.gif
-      52: Resources/Sprites/52.gif
-      56: Resources/Sprites/saw.gif
+      20: Resources/Sprites/MeleeRedBlast.png
+      24: Resources/Sprites/ClawsGreen.png
+      28: Resources/Sprites/MeleeShock.png
+      32: Resources/Sprites/Repair.png
+      36: Resources/Sprites/Bird.png
+      40: Resources/Sprites/Eagle.png
+      44: Resources/Sprites/Meleechain.png
+      48: Resources/Sprites/Meleechainred.png
+      52: Resources/Sprites/52.png
+      56: Resources/Sprites/saw.png
       60: Resources/Sprites/Heal.png
       64: Resources/Sprites/64.png
       68: Resources/Sprites/68.png
@@ -2555,251 +2555,251 @@
 
   - type: BIGOBS.PCK                                    #BigOBJECTS #BigOBJECTS #BigOBJECTS #BigOBJECTS #BigOBJECTS
     files:
-      0: Resources/lasgun/LASGUN.gif
-      1: Resources/Bolter/BOLTER.gif
-      2: Resources/Bolter/BOLTERC.gif
-      3: Resources/Boltpistol/BOLTPISTOL.gif
-      4: Resources/Boltpistol/BOLTPISTOLC.gif
-      5: Resources/Laspistol/LASPISTOL.gif
-      6: Resources/Meltagun/MELTAGUN.gif
-      7: Resources/Heavybolter/HEAVYBOLTER.gif
-      8: Resources/Heavybolter/CASE.gif
-      9: Resources/Heavybolter/CASE2.gif
-      10: Resources/Heavybolter/CASE3.gif
-      11: Resources/Sniper/SNIPER.gif
-      12: Resources/Sniper/S1.gif
-      13: Resources/Sniper/S2.gif
-      14: Resources/Sniper/S3.gif
-      15: Resources/Mlauncher/ML.gif
-      16: Resources/Mlauncher/MLEX.gif
-      17: Resources/Mlauncher/MLAP.gif
-      18: Resources/Mlauncher/MLIN.gif
-      19: Resources/Grenade/KGRENADE.gif
-      22: Resources/Grenade/MBOMB.gif
-      23: Resources/Equip/23.gif
-      24: Resources/APOT/HAND.gif
-      25: Resources/Heavyplasma/HPCLIP.gif
-      29: Resources/LIB/TOME.gif
-      30: Resources/Heavyplasma/HPLASMA.gif
-      31: Resources/Mplasma/MPLASMA.gif
-      32: Resources/Lplasma/LPLASMA.gif
-      33: Resources/LIB/TOME2.gif
-      34: Resources/Lplasma/LCLIP.gif
-      35: Resources/Multimelta/CMULTIMELTA.gif
-      36: Resources/Multimelta/CHARGE.gif
-      38: Resources/GravGun/38.gif
-      41: Resources/Mplasma/MCLIP.gif
-      46: Resources/FOES/bigob_46.gif # Cultist
-      47: Resources/FOES/bigob_47.gif # NURGLE
-      48: Resources/FOES/bigob_48.gif # OBLITERATOR /Muton
-      49: Resources/FOES/bigob_49.gif # Marine /Etheral
-      50: Resources/FOES/bigob_50.gif # Traitor Guard /Snakeman
-      51: Resources/FOES/bigob_51.gif # Deamon /silicoid
-      52: Resources/FOES/bigob_49.gif # Chaos Marine / Floater
-      53: Resources/FOES/bigob_53.gif # Sudectress
-      54: Resources/FOES/bigob_54.gif # SORCER
-      57: Resources/Lplasma/LCLIP.gif
+      0: Resources/lasgun/LASGUN_bigob.png
+      1: Resources/Bolter/BOLTER_bigob.png
+      2: Resources/Bolter/BOLTERC_bigob.png
+      3: Resources/Boltpistol/BOLTPISTOL.png
+      4: Resources/Boltpistol/BOLTPISTOLC.png
+      5: Resources/Laspistol/LASPISTOL_bigob.png
+      6: Resources/Meltagun/MELTAGUN_bigob.png
+      7: Resources/Heavybolter/HEAVYBOLTER.png
+      8: Resources/Heavybolter/CASE.png
+      9: Resources/Heavybolter/CASE2.png
+      10: Resources/Heavybolter/CASE3.png
+      11: Resources/Sniper/SNIPER_bigob.png
+      12: Resources/Sniper/S1.png
+      13: Resources/Sniper/S2.png
+      14: Resources/Sniper/S3.png
+      15: Resources/Mlauncher/ML_bigob.png
+      16: Resources/Mlauncher/MLEX.png
+      17: Resources/Mlauncher/MLAP.png
+      18: Resources/Mlauncher/MLIN.png
+      19: Resources/Grenade/KGRENADE_bigob.png
+      22: Resources/Grenade/MBOMB_bigob.png
+      23: Resources/Equip/23.png
+      24: Resources/APOT/HAND.png
+      25: Resources/Heavyplasma/HPCLIP.png
+      29: Resources/LIB/TOME.png
+      30: Resources/Heavyplasma/HPLASMA_bigob.png
+      31: Resources/Mplasma/MPLASMA_bigob.png
+      32: Resources/Lplasma/LPLASMA_bigob.png
+      33: Resources/LIB/TOME2.png
+      34: Resources/Lplasma/LCLIP.png
+      35: Resources/Multimelta/CMULTIMELTA.png
+      36: Resources/Multimelta/CHARGE.png
+      38: Resources/GravGun/38.png
+      41: Resources/Mplasma/MCLIP.png
+      46: Resources/FOES/bigob_46.png # Cultist
+      47: Resources/FOES/bigob_47.png # NURGLE
+      48: Resources/FOES/bigob_48.png # OBLITERATOR /Muton
+      49: Resources/FOES/bigob_49.png # Marine /Etheral
+      50: Resources/FOES/bigob_50.png # Traitor Guard /Snakeman
+      51: Resources/FOES/bigob_51.png # Deamon /silicoid
+      52: Resources/FOES/bigob_49.png # Chaos Marine / Floater
+      53: Resources/FOES/bigob_53.png # Sudectress
+      54: Resources/FOES/bigob_54.png # SORCER
+      57: Resources/Lplasma/LCLIP.png
       91: Resources/Support/GENERIC/91.png
       92: Resources/Support/GUARD/92.png
       93: Resources/CPATH/93.png
       94: Resources/CPATH/94.png
       95: Resources/CPATH/95.png
-      96: Resources/GravGun/96.gif
-      97: Resources/Bolter/97.gif
-      98: Resources/Bolter/98.gif
+      96: Resources/GravGun/96.png
+      97: Resources/Bolter/97.png
+      98: Resources/Bolter/98.png
       99: Resources/Support/99.png
-      100: Resources/Heavyplasma/100.gif
+      100: Resources/Heavyplasma/100.png
       101: Resources/Grenade/krakk_grenade.png
 #197 to 197 CHAPTER CHANGE
 #199 CHAPTER CHANGE
 #200 CHAPTER CHANGE
 #201 to 205 CHAPTER CHANGE
-      206: Resources/Orbital/B1.gif
+      206: Resources/Orbital/B1.png
 #207 CHAPTER CHANGE
 #208 CHAPTER CHANGE
 #209 CHAPTER CHANGE
 #210 CHAPTER CHANGE
 #211 CHAPTER CHANGE
 #212 CHAPTER CHANGE
-      213: Resources/FOES/priest.gif #Priest
-      214: Resources/Meltagun/CHARGE.gif
-      215: Resources/Mflamer/MFLAMER.gif
-      216: Resources/Mflamer/FUEL.gif
-      217: Resources/Assc/ASSC.gif
-      218: Resources/Assc/ASSCC.gif
-      219: Resources/Heavyplasma/HPLASMAT.gif
-      220: Resources/Mplasma/MPLASMAT.gif
-      221: Resources/Lplasma/LPLASMAT.gif
-      222: Resources/Chainsword/CHAINS.gif
+      213: Resources/FOES/priest.png #Priest
+      214: Resources/Meltagun/CHARGE.png
+      215: Resources/Mflamer/MFLAMER_bigob.png
+      216: Resources/Mflamer/FUEL.png
+      217: Resources/Assc/ASSC_bigob.png
+      218: Resources/Assc/ASSCC.png
+      219: Resources/Heavyplasma/HPLASMAT_bigob.png
+      220: Resources/Mplasma/MPLASMAT_bigob.png
+      221: Resources/Lplasma/LPLASMAT_bigob.png
+      222: Resources/Chainsword/CHAINS_bigob.png
 #223 CHAPTER CHANGE
-      224: Resources/Powerfist/POWERFIST.gif
-      225: Resources/Psword/PSWORDT.gif
-      226: Resources/Thammer/THAMMER.gif
-      227: Resources/Shotgun/SHOTGUN.gif
-      228: Resources/Psword/PK.gif
-      229: Resources/Stormbolter/HB.gif
-      230: Resources/Stormbolter/BOLTERC.gif
+      224: Resources/Powerfist/POWERFIST_bigob.png
+      225: Resources/Psword/PSWORDT.png
+      226: Resources/Thammer/THAMMER_bigob.png
+      227: Resources/Shotgun/Shotgun_bigob.png
+      228: Resources/Psword/PK_bigob.png
+      229: Resources/Stormbolter/HB.png
+      230: Resources/Stormbolter/BOLTERC.png
 #231 CHAPTER CHANGE
-      232: Resources/Thammer/SS.gif
+      232: Resources/Thammer/SS.png
       233: Resources/Bolter/BOLTERCH.png
-      235: Resources/Shotgun/SHOTGUN.gif
-      236: Resources/Shotgun/SHOTGUNA.gif
-      237: Resources/FOES/lord.gif
-      238: Resources/FOES/CB.gif
-      239: Resources/Grenade/MGRENADE.gif
-      240: Resources/Boltpistol/MCBOLTPISTOL.gif
-      241: Resources/Bolter/MCBOLTER.gif
-      242: Resources/Shotgun/MCSHOTGUN.gif
-      243: Resources/Lplasma/MCLPLASMA.gif
-      244: Resources/Lascan/LASCAN.gif
-      245: Resources/Lasgun/MCLASGUN.gif
-      246: Resources_IG/Bigobs/lasgun_clip.png #Resources/Lasgun/LASGUNCLIP.gif
-      247: Resources/Lascan/LASCANCLIP.gif
-      248: Resources/Multimelta/MULTIMELTA.gif
-      249: Resources/GUARD/GUARD.gif
-      250: Resources/Mplasma/MCPLASMA.gif
-      251: Resources/Psword/DSWORD.gif
-      252: Resources/Psword/NSWORD.gif
-      253: Resources/CHAP/CROZIUS.gif
+      235: Resources/Shotgun/Shotgun_bigob.png
+      236: Resources/Shotgun/SHOTGUNA.png
+      237: Resources/FOES/lord.png
+      238: Resources/FOES/CB.png
+      239: Resources/Grenade/MGRENADE_bigob.png
+      240: Resources/Boltpistol/MCBOLTPISTOL.png
+      241: Resources/Bolter/MCBOLTER_bigob.png
+      242: Resources/Shotgun/MCSHOTGUN_bigob.png
+      243: Resources/Lplasma/MCLPLASMA_bigob.png
+      244: Resources/Lascan/LASCAN_bigob.png
+      245: Resources/Lasgun/MCLASGUN_bigob.png
+      246: Resources_IG/Bigobs/lasgun_clip.png #Resources/Lasgun/LASGUNCLIP.png
+      247: Resources/Lascan/LASCANCLIP.png
+      248: Resources/Multimelta/MULTIMELTA.png
+      249: Resources/GUARD/GUARD_bigob.png
+      250: Resources/Mplasma/MCPLASMA.png
+      251: Resources/Psword/DSWORD.png
+      252: Resources/Psword/NSWORD.png
+      253: Resources/CHAP/CROZIUS.png
 #254 CHAPTER CHANGE
 #255 CHAPTER CHANGE
-      256: Resources/GravGun/CGG.gif
-      257: Resources/GravGun/GG.gif
-      258: Resources/FOES/bigob_258.gif
-      259: Resources/FOES/bigob_259.gif
+      256: Resources/GravGun/CGG.png
+      257: Resources/GravGun/GG.png
+      258: Resources/FOES/bigob_258.png
+      259: Resources/FOES/bigob_259.png
 #260 CHAPTER CHANGE
 #261 CHAPTER CHANGE
-      262: Resources/Terminator/262.gif
-      263: Resources/Heavybolter/263.gif
-      264: Resources/Bolter/264.gif
-      265: Resources/Boltpistol/265.gif
-      266: Resources/Heavyplasma/266.gif
-      267: Resources/AX/267.gif
-      268: Resources/Tech/268.gif
+      262: Resources/Terminator/262.png
+      263: Resources/Heavybolter/263.png
+      264: Resources/Bolter/264.png
+      265: Resources/Boltpistol/265.png
+      266: Resources/Heavyplasma/266.png
+      267: Resources/AX/267.png
+      268: Resources/Tech/268.png
 #269 CHAPTER CHANGE
       270: Resources/NULL/A.png
       271: Resources/NULL/A2.png
       272: Resources/NULL/P272.png
       273: Resources/NULL/P273.png
       274: Resources/NULL/P274.png
-      280: Resources/HeavyF/280.gif
-      281: Resources/HeavyF/281.gif
-      282: Resources/PMaul/282.gif
-      283: Resources/LIB/283.gif
-      284: Resources/LIB/284.gif
-      285: Resources/LIB/285.gif
-      286: Resources/LIB/286.gif
-      287: Resources/Grenade/287.gif
-      288: Resources/Grenade/288.gif
-      289: Resources/FOES/bigob_289.gif
-      291: Resources/Support/active.gif
-      292: Resources/Support/damage.gif
-      293: Resources/FOES/bigob_293.gif
-      294: Resources/OBL/294.gif
-      295: Resources/OBL/295.gif
-      296: Resources/Lasgun/296.gif
-      297: Resources_IG/Bigobs/lasgun_cadian.png #Resources/Lasgun/297.gif
-      298: Resources/Laspistol/298.gif
-      299: Resources/Laspistol/299.gif
-      300: Resources/Support/300.gif
-      301: Resources/Support/301.gif
-      302: Resources/Support/302.gif
-      303: Resources/Support/303.gif
-      304: Resources/Support/304.gif
-      305: Resources/Support/305.gif
+      280: Resources/HeavyF/280.png
+      281: Resources/HeavyF/281.png
+      282: Resources/PMaul/282.png
+      283: Resources/LIB/283.png
+      284: Resources/LIB/284.png
+      285: Resources/LIB/285.png
+      286: Resources/LIB/286.png
+      287: Resources/Grenade/287.png
+      288: Resources/Grenade/288.png
+      289: Resources/FOES/bigob_289.png
+      291: Resources/Support/active.png
+      292: Resources/Support/damage.png
+      293: Resources/FOES/bigob_293.png
+      294: Resources/OBL/294.png
+      295: Resources/OBL/295.png
+      296: Resources/Lasgun/296.png
+      297: Resources_IG/Bigobs/lasgun_cadian.png #Resources/Lasgun/297.png
+      298: Resources/Laspistol/298.png
+      299: Resources/Laspistol/299.png
+      300: Resources/Support/300.png
+      301: Resources/Support/301.png
+      302: Resources/Support/302.png
+      303: Resources/Support/303.png
+      304: Resources/Support/304.png
+      305: Resources/Support/305.png
 #306 CHAPTER CHANGE
-      307: Resources/Support/307.gif
-      308: Resources/Support/308.gif
-      309: Resources/Support/309.gif
-      310: Resources/Support/310.gif
-      311: Resources/Support/311.gif
-      312: Resources/Support/312.gif
-      313: Resources/Support/313.gif
-      314: Resources/FOES/314.gif # BOLTER
-      315: Resources/FOES/315.gif # BOLTER
-      316: Resources/FOES/316.gif # PLASMA
-      317: Resources/FOES/317.gif # LAS
-      318: Resources/FOES/318.gif # RAPTOR
-      319: Resources/FOES/319.gif # WARPT
-      320: Resources/FOES/320.gif # WARPT
-      321: Resources/FOES/321.gif # WARPT
-      322: Resources/Support/322.gif
-      323: Resources/Support/323.gif
-      324: Resources/Support/324.gif
-      325: Resources/Chainsword/325.gif
-      326: Resources/Tech/326.gif
-      327: Resources/Support/327.gif
-      328: Resources/Support/328.gif
+      307: Resources/Support/307.png
+      308: Resources/Support/308.png
+      309: Resources/Support/309.png
+      310: Resources/Support/310.png
+      311: Resources/Support/311.png
+      312: Resources/Support/312.png
+      313: Resources/Support/313.png
+      314: Resources/FOES/314.png # BOLTER
+      315: Resources/FOES/315.png # BOLTER
+      316: Resources/FOES/316.png # PLASMA
+      317: Resources/FOES/317.png # LAS
+      318: Resources/FOES/318.png # RAPTOR
+      319: Resources/FOES/319.png # WARPT
+      320: Resources/FOES/320.png # WARPT
+      321: Resources/FOES/321.png # WARPT
+      322: Resources/Support/322.png
+      323: Resources/Support/323.png
+      324: Resources/Support/324.png
+      325: Resources/Chainsword/325.png
+      326: Resources/Tech/326.png
+      327: Resources/Support/327.png
+      328: Resources/Support/328.png
 #329 CHAPTER CHANGE
-      330: Resources/Cent/330.gif
-      331: Resources/Support/331.gif
-      332: Resources/Stormbolter/332.gif
-      333: Resources/Assc/333.gif
+      330: Resources/Cent/330.png
+      331: Resources/Support/331.png
+      332: Resources/Stormbolter/332.png
+      333: Resources/Assc/333.png
 #334 CHAPTER CHANGE
-      335: Resources/Tarantula/335.gif
-      336: Resources/Meltagun/336.gif
-      337: Resources/Mlauncher/337.gif
-      338: Resources/FOES/338.gif
-      339: Resources/Bolter/339.gif
-      340: Resources/Bolter/340.gif
-      341: Resources/Boltpistol/341.gif
-      342: Resources/Lplasma/342.gif
-      343: Resources/Shotgun/343.gif
-      344: Resources/Meltagun/344.gif
-      345: Resources/Mflamer/345.gif
+      335: Resources/Tarantula/335.png
+      336: Resources/Meltagun/336.png
+      337: Resources/Mlauncher/337.png
+      338: Resources/FOES/338.png
+      339: Resources/Bolter/339.png
+      340: Resources/Bolter/340.png
+      341: Resources/Boltpistol/341.png
+      342: Resources/Lplasma/342.png
+      343: Resources/Shotgun/343.png
+      344: Resources/Meltagun/344.png
+      345: Resources/Mflamer/345.png
       346: Resources/Adeptas/346.png
-      347: Resources_IG/Bigobs/laspistol_clip.png #Resources/Laspistol/347.gif
-      348: Resources/Bolter/348.gif
-      349: Resources/Laspistol/349.gif
-      350: Resources/Bolter/350.gif
-      351: Resources/Boltpistol/351.gif
-      352: Resources/Bolter/352.gif
-      353: Resources/Boltpistol/353.gif
-      354: Resources/Boltpistol/354.gif
-      355: Resources/Lasgun/355.gif
-      356: Resources/Boltpistol/356.gif
+      347: Resources_IG/Bigobs/laspistol_clip.png #Resources/Laspistol/347.png
+      348: Resources/Bolter/348.png
+      349: Resources/Laspistol/349.png
+      350: Resources/Bolter/350.png
+      351: Resources/Boltpistol/351.png
+      352: Resources/Bolter/352.png
+      353: Resources/Boltpistol/353.png
+      354: Resources/Boltpistol/354.png
+      355: Resources/Lasgun/355.png
+      356: Resources/Boltpistol/356.png
       357: Resources/NULL/357.png
-      358: Resources/bike/358.gif
+      358: Resources/bike/358.png
       359: Resources/Bolter/359.png
       360: Resources/Bolter/360.png
-      361: Resources/Lascan/361.gif
-      362: Resources/Lascan/362.gif
-      363: Resources/FOES/363.gif
-      364: Resources/FOES/364.gif
-      365: Resources/FOES/365.gif
-      366: Resources/FOES/366.gif
-      367: Resources/FOES/367.gif
-      368: Resources/FOES/368.gif
-      369: Resources/Mlauncher/369.gif
-      370: Resources/FOES/370.gif
-      371: Resources/FOES/371.gif
-      372: Resources/FOES/372.gif
-      373: Resources/FOES/373.gif
-      374: Resources/Mflamer/374.gif
-      375: Resources/Assc/375.gif
-      376: Resources/FOES/376.gif
-      377: Resources/FOES/377.gif
-      378: Resources/Psword/378.gif
-      379: Resources/Psword/379.gif
-      380: Resources/FOES/380.gif
+      361: Resources/Lascan/361.png
+      362: Resources/Lascan/362.png
+      363: Resources/FOES/363.png
+      364: Resources/FOES/364.png
+      365: Resources/FOES/365.png
+      366: Resources/FOES/366.png
+      367: Resources/FOES/367.png
+      368: Resources/FOES/368.png
+      369: Resources/Mlauncher/369.png
+      370: Resources/FOES/370.png
+      371: Resources/FOES/371.png
+      372: Resources/FOES/372.png
+      373: Resources/FOES/373.png
+      374: Resources/Mflamer/374.png
+      375: Resources/Assc/375.png
+      376: Resources/FOES/376.png
+      377: Resources/FOES/377.png
+      378: Resources/Psword/378.png
+      379: Resources/Psword/379.png
+      380: Resources/FOES/380.png
       381: Resources/GUARD/381.png
-      382: Resources/GUARD/382.gif
-      383: Resources/GUARD/383.gif
-      384: Resources/dread/384.gif
-      385: Resources/Support/385.gif
-      386: Resources/FOES/386.gif
-      387: Resources/FOES/387.gif
-      388: Resources/Eldar/388.gif
-      389: Resources/Eldar/389.gif
-      390: Resources/Eldar/390.gif
-      391: Resources/Eldar/391.gif
-      392: Resources/Eldar/392.gif
-      393: Resources/Eldar/393.gif
-      394: Resources/Eldar/394.gif
+      382: Resources/GUARD/382.png
+      383: Resources/GUARD/383.png
+      384: Resources/dread/384.png
+      385: Resources/Support/385.png
+      386: Resources/FOES/386.png
+      387: Resources/FOES/387.png
+      388: Resources/Eldar/388.png
+      389: Resources/Eldar/389.png
+      390: Resources/Eldar/390.png
+      391: Resources/Eldar/391.png
+      392: Resources/Eldar/392.png
+      393: Resources/Eldar/393.png
+      394: Resources/Eldar/394.png
       395: Resources/Eldar/395.png
-      396: Resources/SONIC/396.gif
-      397: Resources/Eldar/397.gif
-      398: Resources/Eldar/398.gif
+      396: Resources/SONIC/396.png
+      397: Resources/Eldar/397.png
+      398: Resources/Eldar/398.png
       399: Resources/Eldar/399.png
       400: Resources/Eldar/400.png
       401: Resources/Eldar/401.png
@@ -2813,11 +2813,11 @@
       409: Resources/Eldar/409.png
       410: Resources/Eldar/410.png
       449: Resources/Adeptas/449.png
-      450: Resources/Support/450.gif
+      450: Resources/Support/450.png
 #451 CHAPTER CHANGE
-      452: Resources/Equip/452.gif
-      453: Resources/Lascan/453.gif
-      454: Resources/Cent/454.gif
+      452: Resources/Equip/452.png
+      453: Resources/Lascan/453.png
+      454: Resources/Cent/454.png
       455: Resources/Adeptas/455.png
 #456 CHAPTER CHANGE
 #457 CHAPTER CHANGE
@@ -2828,22 +2828,22 @@
       462: Resources/GREY/462.png
       463: Resources/GREY/463.png
       464: Resources/GREY/464.png
-      497: Resources/ORK/497.gif
-      498: Resources/ORK/498.gif
-      499: Resources/ORK/499.gif
-      500: Resources/ORK/500.gif
-      501: Resources/ORK/501.gif
-      502: Resources/ORK/502.gif
+      497: Resources/ORK/497.png
+      498: Resources/ORK/498.png
+      499: Resources/ORK/499.png
+      500: Resources/ORK/500.png
+      501: Resources/ORK/501.png
+      502: Resources/ORK/502.png
       503: Resources/ORK/503.png
-      504: Resources/ORK/504.gif
-      505: Resources/ORK/505.gif
-      506: Resources/ORK/506.gif
-      507: Resources/ORK/507.gif
-      508: Resources/ORK/508.gif
-      509: Resources/ORK/509.gif
-      510: Resources/Stormbolter/510.gif
-      511: Resources/Thammer/511.gif
-      512: Resources/Thammer/512.gif
+      504: Resources/ORK/504.png
+      505: Resources/ORK/505.png
+      506: Resources/ORK/506.png
+      507: Resources/ORK/507.png
+      508: Resources/ORK/508.png
+      509: Resources/ORK/509.png
+      510: Resources/Stormbolter/510.png
+      511: Resources/Thammer/511.png
+      512: Resources/Thammer/512.png
       550: Resources/Bolter/bolter_deaz.png
       551: Resources/Bolter/bolter_deaz_mc_ns.png
       552: Resources/Bolter/bolter_enforcer.png
@@ -2858,14 +2858,14 @@
       599: Resources/Zombies/ADEPTAS/599.png
       600: Resources/Boltpistol/boltpistol_chaos_variant0.png
       601: Resources/Boltpistol/boltpistol_chaos_variant1.png
-      602: Resources/ORK/602.gif
-      603: Resources/ORK/603.gif
+      602: Resources/ORK/602.png
+      603: Resources/ORK/603.png
       604: Resources/ORK/604.png
       605: Resources/ORK/605.png
       606: Resources/ORK/606.png
       607: Resources/ORK/607.png
-      608: Resources/Psword/608.gif
-      609: Resources/Psword/609.gif
+      608: Resources/Psword/608.png
+      609: Resources/Psword/609.png
       610: Resources/Adeptas/610.png
       611: Resources/Adeptas/611.png
       612: Resources/Adeptas/612.png
@@ -2944,12 +2944,12 @@
       811: Resources/FOES/811.png
       812: Resources/FOES/812.png
       813: Resources/FOES/813.png
-      814: Resources/FOES/814.gif
+      814: Resources/FOES/814.png
       815: Resources/Tarantula/GK/815.png
       816: Resources/FOES/816.png
       817: Resources/FOES/817.png
-      818: Resources/CPATH/818.gif
-      819: Resources/Support/819.gif
+      818: Resources/CPATH/818.png
+      819: Resources/Support/819.png
       820: Resources/NULL/Null_Void_1x1.png
       821: Resources/NULL/Null_Void_2x1.png
       822: Resources/NULL/Null_Void_1x2.png
@@ -2966,220 +2966,220 @@
 #FLOOR
   - type: FLOOROB.PCK                            #FLOOR FLOOR FLOOR FLOOR FLOOR FLOOR
     files:
-      0: Resources/Lasgun/floorob_0.gif      #inc
-      1: Resources/BOLTER/floorob_1.gif
-      2: Resources/BOLTER/floorob_2.gif
-      3: Resources/Boltpistol/floorob_3.gif
-      4: Resources/Boltpistol/floorob_4.gif
-      5: Resources/Laspistol/floorob_5.gif     #inc
-      6: Resources/Meltagun/floorob_6.gif     #inc
-      7: Resources/Heavybolter/floorob_7.gif
-      8: Resources/Heavybolter/floorob_8.gif
-      9: Resources/Heavybolter/floorob_8.gif
-      10: Resources/Heavybolter/floorob_8.gif
-      11: Resources/Sniper/floorob_11.gif
-      12: Resources/Sniper/floorob_12.gif
-      13: Resources/Sniper/floorob_12.gif
-      14: Resources/Sniper/floorob_12.gif
-      15: Resources/Mlauncher/floorob_15.gif
-      16: Resources/Mlauncher/floorob_16.gif
-      17: Resources/Mlauncher/floorob_17.gif
-      18: Resources/Mlauncher/floorob_18.gif
-      19: Resources/Grenade/floorob_19.gif
-      20: Resources/Grenade/floorob_20.gif
-      21: Resources/Grenade/floorob_21.gif
-      22: Resources/Grenade/floorob_22.gif
-      29: Resources/Heavyplasma/floorob_29.gif
-      30: Resources/Mplasma/floorob_30.gif
-      31: Resources/Lplasma/floorob_31.gif
-      33: Resources/Heavyplasma/floorob_33.gif
-      34: Resources/Multimelta/floorob_34.gif
-      35: Resources/Multimelta/floorob_35.gif
-      36: Resources/GravGun/floorob_36.gif
-      37: Resources/GravGun/floorob_37.gif
-      42: Resources/FOES/floorob_42.gif # culist sectoid
-      43: Resources/FOES/floorob_43.gif # Nurgle selicoid
-      44: Resources/FOES/floorob_44.gif # Chaos obli muton
-      45: Resources/FOES/floorob_45.gif # Chaos marine etheral
-      46: Resources/FOES/floorob_46.gif # Traitor guard snake man
-      47: Resources/FOES/floorob_47.gif # melatoid
-      48: Resources/FOES/floorob_45.gif # Chaos marine Raptor
-      49: Resources/FOES/floorob_49.gif # tezch seductress
-      50: Resources/GUARD/floorob_50.gif # CIV 1
-      51: Resources/GUARD/floorob_50.gif # CIV 2
-      52: Resources/FOES/floorob_52.gif
-      53: Resources/FOES/floorob_53.gif
-      54: Resources/FOES/floorob_54.gif
-      55: Resources/FOES/floorob_55.gif
-      56: Resources/FOES/floorob_56.gif
-      57: Resources/FOES/floorob_57.gif
-      58: Resources/FOES/floorob_58.gif
-      59: Resources/FOES/floorob_59.gif
-      60: Resources/FOES/floorob_60.gif #Sectopod
-      61: Resources/FOES/floorob_61.gif #Sectopod
-      62: Resources/FOES/floorob_62.gif #Sectopod
-      63: Resources/FOES/floorob_63.gif #Sectopod
+      0: Resources/Lasgun/floorob_0.png      #inc
+      1: Resources/BOLTER/floorob_1.png
+      2: Resources/BOLTER/floorob_2.png
+      3: Resources/Boltpistol/floorob_3.png
+      4: Resources/Boltpistol/floorob_4.png
+      5: Resources/Laspistol/floorob_5.png     #inc
+      6: Resources/Meltagun/floorob_6.png     #inc
+      7: Resources/Heavybolter/floorob_7.png
+      8: Resources/Heavybolter/floorob_8.png
+      9: Resources/Heavybolter/floorob_8.png
+      10: Resources/Heavybolter/floorob_8.png
+      11: Resources/Sniper/floorob_11.png
+      12: Resources/Sniper/floorob_12.png
+      13: Resources/Sniper/floorob_12.png
+      14: Resources/Sniper/floorob_12.png
+      15: Resources/Mlauncher/floorob_15.png
+      16: Resources/Mlauncher/floorob_16.png
+      17: Resources/Mlauncher/floorob_17.png
+      18: Resources/Mlauncher/floorob_18.png
+      19: Resources/Grenade/floorob_19.png
+      20: Resources/Grenade/floorob_20.png
+      21: Resources/Grenade/floorob_21.png
+      22: Resources/Grenade/floorob_22.png
+      29: Resources/Heavyplasma/floorob_29.png
+      30: Resources/Mplasma/floorob_30.png
+      31: Resources/Lplasma/floorob_31.png
+      33: Resources/Heavyplasma/floorob_33.png
+      34: Resources/Multimelta/floorob_34.png
+      35: Resources/Multimelta/floorob_35.png
+      36: Resources/GravGun/floorob_36.png
+      37: Resources/GravGun/floorob_37.png
+      42: Resources/FOES/floorob_42.png # culist sectoid
+      43: Resources/FOES/floorob_43.png # Nurgle selicoid
+      44: Resources/FOES/floorob_44.png # Chaos obli muton
+      45: Resources/FOES/floorob_45.png # Chaos marine etheral
+      46: Resources/FOES/floorob_46.png # Traitor guard snake man
+      47: Resources/FOES/floorob_47.png # melatoid
+      48: Resources/FOES/floorob_45.png # Chaos marine Raptor
+      49: Resources/FOES/floorob_49.png # tezch seductress
+      50: Resources/GUARD/floorob_50.png # CIV 1
+      51: Resources/GUARD/floorob_50.png # CIV 2
+      52: Resources/FOES/floorob_52.png
+      53: Resources/FOES/floorob_53.png
+      54: Resources/FOES/floorob_54.png
+      55: Resources/FOES/floorob_55.png
+      56: Resources/FOES/floorob_56.png
+      57: Resources/FOES/floorob_57.png
+      58: Resources/FOES/floorob_58.png
+      59: Resources/FOES/floorob_59.png
+      60: Resources/FOES/floorob_60.png #Sectopod
+      61: Resources/FOES/floorob_61.png #Sectopod
+      62: Resources/FOES/floorob_62.png #Sectopod
+      63: Resources/FOES/floorob_63.png #Sectopod
       70: Resources/Grenade/floorob_krakk_grenade.png
-      71: Resources/GravGun/floorob_71.gif
+      71: Resources/GravGun/floorob_71.png
 #82-85 Chapter change
 #86-93 Chapter change
-      94: Resources/Orbital/floorob_94.gif
+      94: Resources/Orbital/floorob_94.png
 #95 Chapter change
 #96 Chapter change
 #97 Chapter change
 #98 Chapter change
 #99 Chapter change
 #100 Chapter change
-      101: Resources/FOES/floorob_101.gif
-      102: Resources/MFLAMER/floorob_102.gif
-      103: Resources/MFLAMER/floorob_103.gif
-      104: Resources/ASSC/floorob_104.gif
-      105: Resources/ASSC/floorob_105.gif
-      106: Resources/Heavyplasma/floorob_106.gif
-      107: Resources/Mplasma/floorob_107.gif
-      108: Resources/Lplasma/floorob_108.gif
+      101: Resources/FOES/floorob_101.png
+      102: Resources/MFLAMER/floorob_102.png
+      103: Resources/MFLAMER/floorob_103.png
+      104: Resources/ASSC/floorob_104.png
+      105: Resources/ASSC/floorob_105.png
+      106: Resources/Heavyplasma/floorob_106.png
+      107: Resources/Mplasma/floorob_107.png
+      108: Resources/Lplasma/floorob_108.png
 #109 Chapter change
-      110: Resources/Chainsword/floorob_110.gif
-      111: Resources/Powerfist/floorob_111.gif
-      112: Resources/Psword/floorob_112.gif
-      113: Resources/Psword/floorob_113.gif
-      114: Resources/Thammer/floorob_114.gif
-      115: Resources/Stormbolter/floorob_115.gif
-      116: Resources/Stormbolter/floorob_116.gif
+      110: Resources/Chainsword/floorob_110.png
+      111: Resources/Powerfist/floorob_111.png
+      112: Resources/Psword/floorob_112.png
+      113: Resources/Psword/floorob_113.png
+      114: Resources/Thammer/floorob_114.png
+      115: Resources/Stormbolter/floorob_115.png
+      116: Resources/Stormbolter/floorob_116.png
 #117 Chapter change
-      118: Resources/Shotgun/FloorS.gif
-      119: Resources/Shotgun/FloorSA.gif
-      120: Resources/FOES/floorob_lord.gif
-      121: Resources/FOES/floorob_B.gif
-      122: Resources/Grenade/floorob_122.gif
-      123: Resources/Boltpistol/floorob_MCBP.gif
-      124: Resources/BOLTER/floorob_MCB.gif
-      125: Resources/Shotgun/Floorob_MCS.gif
-      126: Resources/Lplasma/floorob_MCLP.gif
-      127: Resources/Lascan/floorob_LAS.gif #LASCLIPS
-      128: Resources/Lascan/floorob_LCC.gif
-      129: Resources_IG/Floorobs/floorob_lasgun_clip.png #Resources/Lasgun/floorob_LCR.gif
-      130: Resources_IG/Floorobs/floorob_laspistol_clip.png #Resources/Laspistol/floorob_LC.gif
-      131: Resources/Lasgun/floorob_MCLAS.gif
-      132: Resources/Multimelta/floorob_132.gif
-      133: Resources/Mplasma/floorob_133.gif
-      134: Resources/CHAP/floorob_134.gif
-      135: Resources/CHAP/floorob_135.gif
+      118: Resources/Shotgun/FloorS.png
+      119: Resources/Shotgun/FloorSA.png
+      120: Resources/FOES/floorob_lord.png
+      121: Resources/FOES/floorob_B.png
+      122: Resources/Grenade/floorob_122.png
+      123: Resources/Boltpistol/floorob_MCBP.png
+      124: Resources/BOLTER/floorob_MCB.png
+      125: Resources/Shotgun/Floorob_MCS.png
+      126: Resources/Lplasma/floorob_MCLP.png
+      127: Resources/Lascan/floorob_LAS.png #LASCLIPS
+      128: Resources/Lascan/floorob_LCC.png
+      129: Resources_IG/Floorobs/floorob_lasgun_clip.png #Resources/Lasgun/floorob_LCR.png
+      130: Resources_IG/Floorobs/floorob_laspistol_clip.png #Resources/Laspistol/floorob_LC.png
+      131: Resources/Lasgun/floorob_MCLAS.png
+      132: Resources/Multimelta/floorob_132.png
+      133: Resources/Mplasma/floorob_133.png
+      134: Resources/CHAP/floorob_134.png
+      135: Resources/CHAP/floorob_135.png
 #136 Chapter change
-      137: Resources/GravGun/floorob_137.gif
-      138: Resources/FOES/floorob_138.gif
-      139: Resources/FOES/floorob_139.gif
-      140: Resources/FOES/floorob_140.gif
-      141: Resources/FOES/floorob_141.gif
-      142: Resources/FOES/floorob_142.gif
-      143: Resources/FOES/floorob_143.gif
-      144: Resources/FOES/floorob_144.gif
+      137: Resources/GravGun/floorob_137.png
+      138: Resources/FOES/floorob_138.png
+      139: Resources/FOES/floorob_139.png
+      140: Resources/FOES/floorob_140.png
+      141: Resources/FOES/floorob_141.png
+      142: Resources/FOES/floorob_142.png
+      143: Resources/FOES/floorob_143.png
+      144: Resources/FOES/floorob_144.png
 #145 Chapter change
-      146: Resources/FOES/floorob_146.gif
-      147: Resources/FOES/floorob_147.gif
-      148: Resources/FOES/floorob_148.gif
-      149: Resources/FOES/floorob_149.gif
-      150: Resources/AX/floorob_150.gif
+      146: Resources/FOES/floorob_146.png
+      147: Resources/FOES/floorob_147.png
+      148: Resources/FOES/floorob_148.png
+      149: Resources/FOES/floorob_149.png
+      150: Resources/AX/floorob_150.png
 #151 Chapter change
-      152: Resources/LIB/floorob_152.gif
-      153: Resources/FOES/floorob_153.gif
-      154: Resources/HeavyF/floorob_154.gif
-      155: Resources/HeavyF/floorob_155.gif
-      156: Resources/PMaul/floorob_156.gif
-      157: Resources/Equip/floorob_157.gif
-      158: Resources/FOES/floorob_158.gif
-      159: Resources/Support/floorob_159.gif
-      160: Resources/Support/floorob_160.gif
-      161: Resources/FOES/floorob_161.gif
-      162: Resources/Laspistol/floorob_162.gif
-      163: Resources/Laspistol/floorob_163.gif
-      164: Resources/Lasgun/floorob_164.gif
-      165: Resources/Lasgun/floorob_165.gif
-      166: Resources/Support/floorob_166.gif
-      167: Resources/Support/floorob_167.gif
-      168: Resources/Support/floorob_168.gif
-      169: Resources/Support/floorob_169.gif
-      170: Resources/Support/floorob_170.gif
+      152: Resources/LIB/floorob_152.png
+      153: Resources/FOES/floorob_153.png
+      154: Resources/HeavyF/floorob_154.png
+      155: Resources/HeavyF/floorob_155.png
+      156: Resources/PMaul/floorob_156.png
+      157: Resources/Equip/floorob_157.png
+      158: Resources/FOES/floorob_158.png
+      159: Resources/Support/floorob_159.png
+      160: Resources/Support/floorob_160.png
+      161: Resources/FOES/floorob_161.png
+      162: Resources/Laspistol/floorob_162.png
+      163: Resources/Laspistol/floorob_163.png
+      164: Resources/Lasgun/floorob_164.png
+      165: Resources/Lasgun/floorob_165.png
+      166: Resources/Support/floorob_166.png
+      167: Resources/Support/floorob_167.png
+      168: Resources/Support/floorob_168.png
+      169: Resources/Support/floorob_169.png
+      170: Resources/Support/floorob_170.png
 #171 Chapter change
-      172: Resources/Support/floorob_172.gif
-      173: Resources/Support/floorob_173.gif
-      174: Resources/FOES/floorob_174.gif
-      175: Resources/FOES/floorob_175.gif
-      176: Resources/FOES/floorob_176.gif
-      177: Resources/FOES/floorob_177.gif
-      178: Resources/FOES/floorob_178.gif
-      179: Resources/FOES/floorob_179.gif
-      180: Resources/Heavyplasma/floorob_180.gif
-      181: Resources/Support/floorob_181.gif
-      182: Resources/Support/floorob_182.gif
-      183: Resources/Support/floorob_183.gif
-      184: Resources/FOES/floorob_184.gif
-      185: Resources/FOES/floorob_185.gif
-      186: Resources/FOES/floorob_186.gif
-      187: Resources/FOES/floorob_187.gif
-      188: Resources/Chainsword/floorob_188.gif
-      189: Resources/Support/floorob_189.gif
-      190: Resources/Support/floorob_190.gif
+      172: Resources/Support/floorob_172.png
+      173: Resources/Support/floorob_173.png
+      174: Resources/FOES/floorob_174.png
+      175: Resources/FOES/floorob_175.png
+      176: Resources/FOES/floorob_176.png
+      177: Resources/FOES/floorob_177.png
+      178: Resources/FOES/floorob_178.png
+      179: Resources/FOES/floorob_179.png
+      180: Resources/Heavyplasma/floorob_180.png
+      181: Resources/Support/floorob_181.png
+      182: Resources/Support/floorob_182.png
+      183: Resources/Support/floorob_183.png
+      184: Resources/FOES/floorob_184.png
+      185: Resources/FOES/floorob_185.png
+      186: Resources/FOES/floorob_186.png
+      187: Resources/FOES/floorob_187.png
+      188: Resources/Chainsword/floorob_188.png
+      189: Resources/Support/floorob_189.png
+      190: Resources/Support/floorob_190.png
 #191 to 194 Chapter change
-      195: Resources/Stormbolter/floorob_195.gif
-      196: Resources/ASSC/floorob_196.gif
-      197: Resources/Meltagun/floorob_197.gif
-      198: Resources/Mlauncher/floorob_198.gif
-      199: Resources/FOES/floorob_199.gif
+      195: Resources/Stormbolter/floorob_195.png
+      196: Resources/ASSC/floorob_196.png
+      197: Resources/Meltagun/floorob_197.png
+      198: Resources/Mlauncher/floorob_198.png
+      199: Resources/FOES/floorob_199.png
       200: Resources/Adeptas/floorob_200.png
-      201: Resources/BOLTER/floorob_201.gif
-      202: Resources/Boltpistol/floorob_202.gif
-      203: Resources/BOLTER/floorob_203.gif
-      204: Resources/BOLTER/floorob_204.gif
-      205: Resources/Laspistol/floorob_205.gif
-      206: Resources/Boltpistol/floorob_206.gif
-      207: Resources/Boltpistol/floorob_207.gif
-      208: Resources/NULL/floorob_208.gif
-      209: Resources/BOLTER/floorob_209.gif
-      210: Resources/BOLTER/floorob_210.gif
-      211: Resources/BOLTER/floorob_211.gif
-      212: Resources/FOES/floorob_212.gif
-      213: Resources/FOES/floorob_213.gif
-      214: Resources/FOES/floorob_214.gif
+      201: Resources/BOLTER/floorob_201.png
+      202: Resources/Boltpistol/floorob_202.png
+      203: Resources/BOLTER/floorob_203.png
+      204: Resources/BOLTER/floorob_204.png
+      205: Resources/Laspistol/floorob_205.png
+      206: Resources/Boltpistol/floorob_206.png
+      207: Resources/Boltpistol/floorob_207.png
+      208: Resources/NULL/floorob_208.png
+      209: Resources/BOLTER/floorob_209.png
+      210: Resources/BOLTER/floorob_210.png
+      211: Resources/BOLTER/floorob_211.png
+      212: Resources/FOES/floorob_212.png
+      213: Resources/FOES/floorob_213.png
+      214: Resources/FOES/floorob_214.png
       215: Resources/FOES/floorob_215.png
       216: Resources/FOES/floorob_216.png
       217: Resources/FOES/floorob_217.png
-      218: Resources/FOES/floorob_218.gif
+      218: Resources/FOES/floorob_218.png
       219: Resources/FOES/floorob_219.png
-      220: Resources/Mflamer/floorob_220.gif
-      221: Resources/Assc/floorob_221.gif
-      222: Resources/FOES/floorob_222.gif
-      223: Resources/FOES/floorob_223.gif
-      224: Resources/FOES/floorob_224.gif
-      225: Resources/Psword/floorob_225.gif
-      226: Resources/Psword/floorob_226.gif
-      227: Resources/FOES/floorob_227.gif
-      228: Resources/GUARD/floorob_228.gif
-      229: Resources/GUARD/floorob_229.gif
-      230: Resources/GUARD/floorob_230.gif
-      231: Resources/GUARD/floorob_231.gif
-      232: Resources/GUARD/floorob_232.gif
+      220: Resources/Mflamer/floorob_220.png
+      221: Resources/Assc/floorob_221.png
+      222: Resources/FOES/floorob_222.png
+      223: Resources/FOES/floorob_223.png
+      224: Resources/FOES/floorob_224.png
+      225: Resources/Psword/floorob_225.png
+      226: Resources/Psword/floorob_226.png
+      227: Resources/FOES/floorob_227.png
+      228: Resources/GUARD/floorob_228.png
+      229: Resources/GUARD/floorob_229.png
+      230: Resources/GUARD/floorob_230.png
+      231: Resources/GUARD/floorob_231.png
+      232: Resources/GUARD/floorob_232.png
       233: Resources/GUARD/floorob_233.png
       234: Resources/GUARD/floorob_234.png
       235: Resources/GUARD/floorob_235.png
       236: Resources/GUARD/floorob_236.png
-      237: Resources/dread/floorob_237.gif
-      238: Resources/Support/floorob_238.gif
-      239: Resources/FOES/floorob_239.gif
-      240: Resources/Eldar/floorob_240.gif
-      241: Resources/Eldar/floorob_241.gif
-      242: Resources/Eldar/floorob_242.gif
-      243: Resources/Eldar/floorob_243.gif
-      244: Resources/Eldar/floorob_244.gif
-      245: Resources/Eldar/floorob_245.gif
-      246: Resources/Eldar/floorob_246.gif
-      247: Resources/SONIC/floorob_247.gif
-      248: Resources/Eldar/floorob_248.gif
-      249: Resources/Eldar/floorob_249.gif
-      250: Resources/Eldar/floorob_250.gif
-      251: Resources/Eldar/floorob_251.gif
-      252: Resources/Eldar/floorob_252.gif
-      253: Resources/Eldar/floorob_253.gif
+      237: Resources/dread/floorob_237.png
+      238: Resources/Support/floorob_238.png
+      239: Resources/FOES/floorob_239.png
+      240: Resources/Eldar/floorob_240.png
+      241: Resources/Eldar/floorob_241.png
+      242: Resources/Eldar/floorob_242.png
+      243: Resources/Eldar/floorob_243.png
+      244: Resources/Eldar/floorob_244.png
+      245: Resources/Eldar/floorob_245.png
+      246: Resources/Eldar/floorob_246.png
+      247: Resources/SONIC/floorob_247.png
+      248: Resources/Eldar/floorob_248.png
+      249: Resources/Eldar/floorob_249.png
+      250: Resources/Eldar/floorob_250.png
+      251: Resources/Eldar/floorob_251.png
+      252: Resources/Eldar/floorob_252.png
+      253: Resources/Eldar/floorob_253.png
       254: Resources/Eldar/floorob_254.png
       255: Resources/Eldar/floorob_255.png
       256: Resources/Eldar/floorob_256.png
@@ -3187,40 +3187,40 @@
       258: Resources/Eldar/floorob_258.png
       259: Resources/Eldar/floorob_259.png
 #271 to 281 Chapter change
-      282: Resources/Equip/floorob_282.gif
-      283: Resources/Equip/floorob_283.gif
-      284: Resources/Equip/floorob_284.gif
-      285: Resources/Equip/floorob_285.gif
-      286: Resources/Equip/floorob_286.gif
-      287: Resources/Equip/floorob_287.gif
-      288: Resources/Equip/floorob_288.gif
-      289: Resources/Equip/floorob_289.gif
-      290: Resources/Equip/floorob_290.gif
-      291: Resources/Equip/floorob_291.gif
-      292: Resources/Equip/floorob_292.gif
-      293: Resources/Equip/floorob_293.gif
-      294: Resources/FOES/floorob_294.gif
-      295: Resources/FOES/floorob_295.gif
-      296: Resources/FOES/floorob_296.gif
-      297: Resources/FOES/floorob_297.gif
+      282: Resources/Equip/floorob_282.png
+      283: Resources/Equip/floorob_283.png
+      284: Resources/Equip/floorob_284.png
+      285: Resources/Equip/floorob_285.png
+      286: Resources/Equip/floorob_286.png
+      287: Resources/Equip/floorob_287.png
+      288: Resources/Equip/floorob_288.png
+      289: Resources/Equip/floorob_289.png
+      290: Resources/Equip/floorob_290.png
+      291: Resources/Equip/floorob_291.png
+      292: Resources/Equip/floorob_292.png
+      293: Resources/Equip/floorob_293.png
+      294: Resources/FOES/floorob_294.png
+      295: Resources/FOES/floorob_295.png
+      296: Resources/FOES/floorob_296.png
+      297: Resources/FOES/floorob_297.png
       298: Resources/Adeptas/floorob_298.png
 #299 Chapter change
-      300: Resources/ORK/floorob_300.gif
-      301: Resources/ORK/floorob_301.gif
-      302: Resources/ORK/floorob_302.gif
-      303: Resources/ORK/floorob_303.gif
-      304: Resources/ORK/floorob_304.gif
-      305: Resources/ORK/floorob_305.gif
-      306: Resources/ORK/floorob_306.gif
-      307: Resources/ORK/floorob_307.gif
-      308: Resources/ORK/floorob_308.gif
-      309: Resources/ORK/floorob_309.gif
-      310: Resources/ORK/floorob_310.gif
-      311: Resources/ORK/floorob_311.gif
-      312: Resources/ORK/floorob_312.gif
-      313: Resources/ORK/floorob_313.gif
-      314: Resources/ORK/floorob_314.gif
-      315: Resources/ORK/floorob_315.gif
+      300: Resources/ORK/floorob_300.png
+      301: Resources/ORK/floorob_301.png
+      302: Resources/ORK/floorob_302.png
+      303: Resources/ORK/floorob_303.png
+      304: Resources/ORK/floorob_304.png
+      305: Resources/ORK/floorob_305.png
+      306: Resources/ORK/floorob_306.png
+      307: Resources/ORK/floorob_307.png
+      308: Resources/ORK/floorob_308.png
+      309: Resources/ORK/floorob_309.png
+      310: Resources/ORK/floorob_310.png
+      311: Resources/ORK/floorob_311.png
+      312: Resources/ORK/floorob_312.png
+      313: Resources/ORK/floorob_313.png
+      314: Resources/ORK/floorob_314.png
+      315: Resources/ORK/floorob_315.png
       316: Resources/ORK/floorob_316.png
       317: Resources/ORK/floorob_317.png
       318: Resources/ORK/floorob_318.png
@@ -3234,10 +3234,10 @@
       326: Resources/ORK/floorob_326.png
       327: Resources/ORK/floorob_327.png
       328: Resources/ORK/floorob_328.png
-      329: Resources/ORK/floorob_329.gif
-      330: Resources/ORK/floorob_330.gif
-      331: Resources/ORK/floorob_331.gif
-      332: Resources/ORK/floorob_332.gif
+      329: Resources/ORK/floorob_329.png
+      330: Resources/ORK/floorob_330.png
+      331: Resources/ORK/floorob_331.png
+      332: Resources/ORK/floorob_332.png
       333: Resources/GENE/floorob_333.png
       334: Resources/GENE/floorob_334.png
 #350-353 Chapter change
@@ -3246,13 +3246,13 @@
       356: Resources/Stormraven/GK/floorob_356.png
       357: Resources/Stormraven/GK/floorob_357.png
       358: Resources/GREY/floorob_358.png
-      359: Resources/GREY/floorob_359.gif
+      359: Resources/GREY/floorob_359.png
       360: Resources/GREY/floorob_360.png
-      361: Resources/Support/floorob_361.gif
-      362: Resources/CPATH/floorob_362.gif
+      361: Resources/Support/floorob_361.png
+      362: Resources/CPATH/floorob_362.png
       363: Resources/CPATH/floorob_363.png
-      364: Resources/CPATH/floorob_364.gif
-      365: Resources/CPATH/floorob_365.gif
+      364: Resources/CPATH/floorob_364.png
+      365: Resources/CPATH/floorob_365.png
       366: Resources/Tarantula/GK/floorob_366.png
       367: Resources/Tarantula/GK/floorob_367.png
       368: Resources/Tarantula/GK/floorob_368.png
@@ -3315,11 +3315,11 @@
       602: Resources/Support/floorob_602.png
       603: Resources/Support/floorob_603.png
       604: Resources/Support/floorob_604.png
-      605: Resources/Stormbolter/floorob_605.gif
-      606: Resources/Psword/floorob_606.gif
-      607: Resources/Thammer/floorob_607.gif
-      608: Resources/Thammer/floorob_608.gif
-      609: Resources/Psword/floorob_609.gif
+      605: Resources/Stormbolter/floorob_605.png
+      606: Resources/Psword/floorob_606.png
+      607: Resources/Thammer/floorob_607.png
+      608: Resources/Thammer/floorob_608.png
+      609: Resources/Psword/floorob_609.png
       610: Resources/Eviscerator/floorob_610.png
       611: Resources/Stormraven/ADEPTAS/floorob_611.png
       612: Resources/Stormraven/ADEPTAS/floorob_612.png
@@ -3458,16 +3458,16 @@
       34: Resources/Basebits/basebits34.png
       35: Resources/Basebits/basebits35.png
       36: Resources/Basebits/basebits36.png
-      38: Resources/Rank/basebits38.gif
-      39: Resources/Rank/basebits39.gif
-      40: Resources/Rank/basebits40.gif
-      41: Resources/Rank/basebits41.gif
-      42: Resources/Rank/basebits42.gif
-      43: Resources/Rank/basebits43.gif
-      44: Resources/Rank/basebits44.gif
-      45: Resources/Rank/basebits45.gif
-      46: Resources/Rank/basebits46.gif
-      47: Resources/Rank/basebits47.gif
+      38: Resources/Rank/basebits38.png
+      39: Resources/Rank/basebits39.png
+      40: Resources/Rank/basebits40.png
+      41: Resources/Rank/basebits41.png
+      42: Resources/Rank/basebits42.png
+      43: Resources/Rank/basebits43.png
+      44: Resources/Rank/basebits44.png
+      45: Resources/Rank/basebits45.png
+      46: Resources/Rank/basebits46.png
+      47: Resources/Rank/basebits47.png
       48: Resources/CW/MN.png                           #craft weapon
       49: Resources/CW/MP.png                           #craft weapon
       50: Resources/CW/Bbase.png                        #craft weapon
@@ -3482,31 +3482,31 @@
       76: Resources/Rank/basebits76.png
       77: Resources/Rank/basebits77.png
       78: Resources/Rank/basebits78.png
-      79: Resources/Rank/basebits79.gif
-      80: Resources/Rank/basebits80.gif
-      81: Resources/Rank/basebits81.gif
-      82: Resources/Rank/basebits82.gif
-      83: Resources/Rank/basebits83.gif
-      84: Resources/Rank/basebits84.gif
-      85: Resources/Rank/basebits85.gif
-      100: Resources/Rank/basebits100.gif             #RANKS NEW
-      101: Resources/Rank/basebits101.gif
-      102: Resources/Rank/basebits102.gif
-      103: Resources/Rank/basebits103.gif
-      104: Resources/Rank/basebits104.gif
-      115: Resources/Rank/basebits115.gif
-      116: Resources/Rank/basebits116.gif
-      117: Resources/Rank/basebits117.gif
-      118: Resources/Rank/basebits118.gif
-      119: Resources/Rank/basebits119.gif
-      120: Resources/Rank/basebits120.gif
+      79: Resources/Rank/basebits79.png
+      80: Resources/Rank/basebits80.png
+      81: Resources/Rank/basebits81.png
+      82: Resources/Rank/basebits82.png
+      83: Resources/Rank/basebits83.png
+      84: Resources/Rank/basebits84.png
+      85: Resources/Rank/basebits85.png
+      100: Resources/Rank/basebits100.png             #RANKS NEW
+      101: Resources/Rank/basebits101.png
+      102: Resources/Rank/basebits102.png
+      103: Resources/Rank/basebits103.png
+      104: Resources/Rank/basebits104.png
+      115: Resources/Rank/basebits115.png
+      116: Resources/Rank/basebits116.png
+      117: Resources/Rank/basebits117.png
+      118: Resources/Rank/basebits118.png
+      119: Resources/Rank/basebits119.png
+      120: Resources/Rank/basebits120.png
 ##120-126
-      127: Resources/Rank/basebits127.gif
-      128: Resources/Rank/basebits128.gif
-      129: Resources/Rank/basebits129.gif
-      130: Resources/Rank/basebits130.gif
-      131: Resources/Rank/basebits131.gif
-      132: Resources/Rank/basebits132.gif
+      127: Resources/Rank/basebits127.png
+      128: Resources/Rank/basebits128.png
+      129: Resources/Rank/basebits129.png
+      130: Resources/Rank/basebits130.png
+      131: Resources/Rank/basebits131.png
+      132: Resources/Rank/basebits132.png
 ##133
       134: Resources/Valkyrie/Valkyrie_base.png
       308: Resources/Basebits/basebits308.png          #Facility
@@ -3519,24 +3519,24 @@
       315: Resources/Basebits/COMB3.png
       316: Resources/Basebits/COMB4.png
       317: Resources/Basebits/ARMOR.png
-      318: Resources/Basebits/M1.gif
-      319: Resources/Basebits/M2.gif
-      320: Resources/Basebits/M3.gif
-      321: Resources/Basebits/M4.gif
-      322: Resources/Basebits/M5.gif
-      323: Resources/Basebits/M6.gif
-      324: Resources/Basebits/M7.gif
-      325: Resources/Basebits/M8.gif
-      326: Resources/Basebits/M9.gif
-      327: Resources/Basebits/C1.gif
-      328: Resources/Basebits/C2.gif
-      329: Resources/Basebits/C3.gif
-      330: Resources/Basebits/C4.gif
-      331: Resources/Basebits/C5.gif
-      332: Resources/Basebits/C6.gif
-      333: Resources/Basebits/C7.gif
-      334: Resources/Basebits/C8.gif
-      335: Resources/Basebits/C9.gif
+      318: Resources/Basebits/M1.png
+      319: Resources/Basebits/M2.png
+      320: Resources/Basebits/M3.png
+      321: Resources/Basebits/M4.png
+      322: Resources/Basebits/M5.png
+      323: Resources/Basebits/M6.png
+      324: Resources/Basebits/M7.png
+      325: Resources/Basebits/M8.png
+      326: Resources/Basebits/M9.png
+      327: Resources/Basebits/C1.png
+      328: Resources/Basebits/C2.png
+      329: Resources/Basebits/C3.png
+      330: Resources/Basebits/C4.png
+      331: Resources/Basebits/C5.png
+      332: Resources/Basebits/C6.png
+      333: Resources/Basebits/C7.png
+      334: Resources/Basebits/C8.png
+      335: Resources/Basebits/C9.png
       336: Resources/Basebits/Basebits336.png
       337: Resources/Basebits/Basebits337.png
       338: Resources/Basebits/Basebits338.png
@@ -3555,7 +3555,7 @@
       539: Resources/Thunderhawk/ADEPTAS/Basebits539.png
       540: Resources/Thunderbolt/Basebits540.png
       541: Resources/Avenger/Basebits541.png
-      572: Resources/Army/ADEPTAS/army_base.gif
+      572: Resources/Army/ADEPTAS/army_base.png
       573: Resources/Stormraven/ADEPTAS/Stormraven_base.png
       574: Resources/Rhino/ADEPTAS/Rhino.png
       575: Resources/Stormeagle/ADEPTAS/Stormeagle_base.png
@@ -3716,12 +3716,12 @@
       812: Resources/CW/HEMbase.png
       813: Resources/CW/WAVbase.png
 #RANK  Canoness
-      850: Resources/Rank/basebits850.gif
-      851: Resources/Rank/basebits851.gif
-      852: Resources/Rank/basebits852.gif
-      853: Resources/Rank/basebits853.gif
-      854: Resources/Rank/basebits854.gif
-      855: Resources/Rank/basebits855.gif
+      850: Resources/Rank/basebits850.png
+      851: Resources/Rank/basebits851.png
+      852: Resources/Rank/basebits852.png
+      853: Resources/Rank/basebits853.png
+      854: Resources/Rank/basebits854.png
+      855: Resources/Rank/basebits855.png
 #RANK  PD
       856: Resources/Rank/basebits856.png
       857: Resources/Rank/basebits857.png
@@ -3848,55 +3848,55 @@
       8: Resources/CW/Meltadog.png
       9: Resources/CW/LASdog.png
       10: Resources/CW/Pdog.png
-      22: Resources/Thunderhawk/Thunderhawk_minimised.gif
-      23: Resources/Droppod/Droppod_minimised.gif
-      24: Resources/Rhino/Rhino_minimised.gif
-      25: Resources/Stormeagle/Stormeagle_minimised.gif
-      26: Resources/Stormtalon/Stormtalon_minimised.gif
-      27: Resources/Stormraven/Stormraven_minimised.gif
-      28: Resources/Droppod/Droppod_minimised.gif
-      29: Resources/Droppod/Droppod_minimised.gif
-      30: Resources/LANDSPEEDER/Speed_minimised.gif
-      31: Resources/Stormhawk/Stormhawk_minimised.gif
-      32: Resources/Army/army_minimised.gif
-      33: Resources/Thunderhawk/Thunderhawk_dogfight.gif
-      34: Resources/Droppod/Droppod_dogfight.gif
-      35: Resources/Rhino/Rhino_dogfight.gif
-      36: Resources/Stormeagle/Stormeagle_dogfight.gif
-      37: Resources/Stormtalon/Stormtalon_dogfight.gif
-      38: Resources/Stormraven/Stormraven_dogfight.gif
-      39: Resources/Droppod/Droppod_dogfight.gif
-      40: Resources/Droppod/Droppod_dogfight.gif
-      41: Resources/LANDSPEEDER/Speed_dogfight.gif
-      42: Resources/Stormhawk/Stormhawk_dogfight.gif
-      43: Resources/Army/army_dogfight.gif
-      100: Resources/Stormhawk/Stormhawk_minimised.gif
+      22: Resources/Thunderhawk/Thunderhawk_minimised.png
+      23: Resources/Droppod/Droppod_minimised.png
+      24: Resources/Rhino/Rhino_minimised.png
+      25: Resources/Stormeagle/Stormeagle_minimised.png
+      26: Resources/Stormtalon/Stormtalon_minimised.png
+      27: Resources/Stormraven/Stormraven_minimised.png
+      28: Resources/Droppod/Droppod_minimised.png
+      29: Resources/Droppod/Droppod_minimised.png
+      30: Resources/LANDSPEEDER/Speed_minimised.png
+      31: Resources/Stormhawk/Stormhawk_minimised.png
+      32: Resources/Army/army_minimised.png
+      33: Resources/Thunderhawk/Thunderhawk_dogfight.png
+      34: Resources/Droppod/Droppod_dogfight.png
+      35: Resources/Rhino/Rhino_dogfight.png
+      36: Resources/Stormeagle/Stormeagle_dogfight.png
+      37: Resources/Stormtalon/Stormtalon_dogfight.png
+      38: Resources/Stormraven/Stormraven_dogfight.png
+      39: Resources/Droppod/Droppod_dogfight.png
+      40: Resources/Droppod/Droppod_dogfight.png
+      41: Resources/LANDSPEEDER/Speed_dogfight.png
+      42: Resources/Stormhawk/Stormhawk_dogfight.png
+      43: Resources/Army/army_dogfight.png
+      100: Resources/Stormhawk/Stormhawk_minimised.png
       101: Resources/Valkyrie/Valkyrie_minimised.png
-      111: Resources/Stormhawk/Stormhawk_dogfight.gif
+      111: Resources/Stormhawk/Stormhawk_dogfight.png
       112: Resources/Valkyrie/Valkyrie_dogfight.png
-      500: Resources/Rhino/Rhino_minimised.gif
-      501: Resources/Rhino/Rhino_minimised.gif
-      502: Resources/Rhino/Rhino_minimised.gif
-      503: Resources/Rhino/Rhino_minimised.gif
-      504: Resources/Thunderhawk/Thunderhawk_minimised.gif
+      500: Resources/Rhino/Rhino_minimised.png
+      501: Resources/Rhino/Rhino_minimised.png
+      502: Resources/Rhino/Rhino_minimised.png
+      503: Resources/Rhino/Rhino_minimised.png
+      504: Resources/Thunderhawk/Thunderhawk_minimised.png
       505: Resources/Corvus/Corvus_minimised.png
-      506: Resources/Thunderhawk/Thunderhawk_minimised.gif
+      506: Resources/Thunderhawk/Thunderhawk_minimised.png
       507: Resources/Thunderbolt/Thunderbolt_minimised.png
       508: Resources/Avenger/Avenger_minimised.png
-      511: Resources/Rhino/Rhino_dogfight.gif
-      512: Resources/Rhino/Rhino_dogfight.gif
-      513: Resources/Rhino/Rhino_dogfight.gif
-      514: Resources/Rhino/Rhino_dogfight.gif
-      515: Resources/Thunderhawk/Thunderhawk_dogfight.gif
+      511: Resources/Rhino/Rhino_dogfight.png
+      512: Resources/Rhino/Rhino_dogfight.png
+      513: Resources/Rhino/Rhino_dogfight.png
+      514: Resources/Rhino/Rhino_dogfight.png
+      515: Resources/Thunderhawk/Thunderhawk_dogfight.png
       516: Resources/Corvus/Corvus_dogfight.png
-      517: Resources/Thunderhawk/Thunderhawk_dogfight.gif
+      517: Resources/Thunderhawk/Thunderhawk_dogfight.png
       518: Resources/Thunderbolt/Thunderbolt_dogfight.png
       519: Resources/Avenger/Avenger_dogfight.png
 #
-      539: Resources/Army/ADEPTAS/army_minimised.gif                    #Army Adeptas
-      540: Resources/Stormraven/Stormraven_minimised.gif
-      541: Resources/Rhino/Rhino_minimised.gif                          #Rhino Adeptas
-      542: Resources/Stormeagle/Stormeagle_minimised.gif
+      539: Resources/Army/ADEPTAS/army_minimised.png                    #Army Adeptas
+      540: Resources/Stormraven/Stormraven_minimised.png
+      541: Resources/Rhino/Rhino_minimised.png                          #Rhino Adeptas
+      542: Resources/Stormeagle/Stormeagle_minimised.png
       543: Resources/Arvus/arvus_minimised.png                          #GK
       544: Resources/Arvus/arvus_minimised.png                          #ARBITES 1< - sprite index
       545: Resources/CHIMERA/CHI_minimised.png                          #ARBITES 2
@@ -3905,10 +3905,10 @@
       548: Resources/CHIMERA/CHIH_minimised.png                         #ARBITES 5
       549: Resources/TAUROX/Taurox_minimised.png                        #ARBITES 6
 # PLUS 11 DOG FIGHT
-      550: Resources/Army/ADEPTAS/army_dogfight.gif                     #Army Adeptas
-      551: Resources/Stormraven/Stormraven_dogfight.gif
-      552: Resources/Rhino/Rhino_dogfight.gif                           #Rhino Adeptas
-      553: Resources/Stormeagle/Stormeagle_dogfight.gif
+      550: Resources/Army/ADEPTAS/army_dogfight.png                     #Army Adeptas
+      551: Resources/Stormraven/Stormraven_dogfight.png
+      552: Resources/Rhino/Rhino_dogfight.png                           #Rhino Adeptas
+      553: Resources/Stormeagle/Stormeagle_dogfight.png
       554: Resources/Arvus/arvus_dogfight.png                          #GK
       555: Resources/Arvus/arvus_dogfight.png                          #ARBITES 1
       556: Resources/CHIMERA/CHI_dogfight.png                          #ARBITES 2
@@ -3932,51 +3932,51 @@
       769: Resources/CW/HEMdog.png      
       770: Resources/CW/WAVdog.png   
 #
-      878: Resources/Thunderhawk/Thunderhawk_minimised.gif             #MARINES  0
-      879: Resources/Thunderhawk/Thunderhawk_minimised.gif             #MARINES  1
-      880: Resources/Thunderhawk/Thunderhawk_minimised.gif             #MARINES  2
-      881: Resources/Thunderhawk/Thunderhawk_minimised.gif             #MARINES  3
-      882: Resources/Impulsor/repulsor_minimised.gif                   #MARINES  4
-      883: Resources/Impulsor/repulsor_minimised.gif                   #MARINES  5
-      884: Resources/Impulsor/repulsor_minimised.gif                   #MARINES  6
+      878: Resources/Thunderhawk/Thunderhawk_minimised.png             #MARINES  0
+      879: Resources/Thunderhawk/Thunderhawk_minimised.png             #MARINES  1
+      880: Resources/Thunderhawk/Thunderhawk_minimised.png             #MARINES  2
+      881: Resources/Thunderhawk/Thunderhawk_minimised.png             #MARINES  3
+      882: Resources/Impulsor/repulsor_minimised.png                   #MARINES  4
+      883: Resources/Impulsor/repulsor_minimised.png                   #MARINES  5
+      884: Resources/Impulsor/repulsor_minimised.png                   #MARINES  6
       885: Resources/Xiphon/Xiphon_minimised.png                       #MARINES  7
-      886: Resources/Impulsor/impulsor_minimised.gif                   #MARINES  8
-      887: Resources/Impulsor/repulsor_minimised.gif                   #MARINES  9
-      888: Resources/Impulsor/repulsord_minimised.gif                  #MARINES  10
+      886: Resources/Impulsor/impulsor_minimised.png                   #MARINES  8
+      887: Resources/Impulsor/repulsor_minimised.png                   #MARINES  9
+      888: Resources/Impulsor/repulsord_minimised.png                  #MARINES  10
 # PLUS 11 DOG FIGHT
-      889: Resources/Thunderhawk/Thunderhawk_dogfight.gif                   #MARINES 0
-      890: Resources/Thunderhawk/Thunderhawk_dogfight.gif                   #MARINES 1
-      891: Resources/Thunderhawk/Thunderhawk_dogfight.gif                   #MARINES 2
-      892: Resources/Thunderhawk/Thunderhawk_dogfight.gif                   #MARINES 3
-      893: Resources/Impulsor/repulsor_dogfight.gif                         #MARINES 4
-      894: Resources/Impulsor/repulsor_dogfight.gif                         #MARINES 5
-      895: Resources/Impulsor/repulsor_dogfight.gif                         #MARINES 6
+      889: Resources/Thunderhawk/Thunderhawk_dogfight.png                   #MARINES 0
+      890: Resources/Thunderhawk/Thunderhawk_dogfight.png                   #MARINES 1
+      891: Resources/Thunderhawk/Thunderhawk_dogfight.png                   #MARINES 2
+      892: Resources/Thunderhawk/Thunderhawk_dogfight.png                   #MARINES 3
+      893: Resources/Impulsor/repulsor_dogfight.png                         #MARINES 4
+      894: Resources/Impulsor/repulsor_dogfight.png                         #MARINES 5
+      895: Resources/Impulsor/repulsor_dogfight.png                         #MARINES 6
       896: Resources/Xiphon/Xiphon_dogfight.png                             #MARINES 7
-      897: Resources/Impulsor/impulsor_dogfight.gif                         #MARINES 8
-      898: Resources/Impulsor/repulsor_dogfight.gif                         #MARINES 9
-      899: Resources/Impulsor/repulsord_dogfight.gif                        #MARINES 10
+      897: Resources/Impulsor/impulsor_dogfight.png                         #MARINES 8
+      898: Resources/Impulsor/repulsor_dogfight.png                         #MARINES 9
+      899: Resources/Impulsor/repulsord_dogfight.png                        #MARINES 10
 #  ADEPTA ADDON
-      1678: Resources/Rhino/Rhino_minimised.gif                    #ADEPTAS ADDON 0 < - sprite index
-      1679: Resources/Rhino/Rhino_minimised.gif                    #ADEPTAS ADDON 1
-      1680: Resources/Rhino/Rhino_minimised.gif                    #ADEPTAS ADDON 2
-      1681: Resources/Rhino/Rhino_minimised.gif                    #ADEPTAS ADDON 3
-      1682: Resources/Rhino/Rhino_minimised.gif                    #ADEPTAS ADDON 4
-      1683: Resources/Rhino/Rhino_minimised.gif                    #ADEPTAS ADDON 5
-      1684: Resources/Rhino/Rhino_minimised.gif                    #ADEPTAS ADDON 6
-      1685: Resources/Rhino/Rhino_minimised.gif                    #ADEPTAS ADDON 7   
-      1686: Resources/Rhino/Rhino_minimised.gif                    #ADEPTAS ADDON 8  
-      1687: Resources/Rhino/Rhino_minimised.gif                    #ADEPTAS ADDON 9        
+      1678: Resources/Rhino/Rhino_minimised.png                    #ADEPTAS ADDON 0 < - sprite index
+      1679: Resources/Rhino/Rhino_minimised.png                    #ADEPTAS ADDON 1
+      1680: Resources/Rhino/Rhino_minimised.png                    #ADEPTAS ADDON 2
+      1681: Resources/Rhino/Rhino_minimised.png                    #ADEPTAS ADDON 3
+      1682: Resources/Rhino/Rhino_minimised.png                    #ADEPTAS ADDON 4
+      1683: Resources/Rhino/Rhino_minimised.png                    #ADEPTAS ADDON 5
+      1684: Resources/Rhino/Rhino_minimised.png                    #ADEPTAS ADDON 6
+      1685: Resources/Rhino/Rhino_minimised.png                    #ADEPTAS ADDON 7   
+      1686: Resources/Rhino/Rhino_minimised.png                    #ADEPTAS ADDON 8  
+      1687: Resources/Rhino/Rhino_minimised.png                    #ADEPTAS ADDON 9        
 # PLUS 11 DOG FIGHT      
-      1689: Resources/Rhino/Rhino_dogfight.gif                   #ADEPTAS ADDON 0
-      1690: Resources/Rhino/Rhino_dogfight.gif                   #ADEPTAS ADDON 1
-      1691: Resources/Rhino/Rhino_dogfight.gif                   #ADEPTAS ADDON 2
-      1692: Resources/Rhino/Rhino_dogfight.gif                   #ADEPTAS ADDON 3
-      1693: Resources/Rhino/Rhino_dogfight.gif                   #ADEPTAS ADDON 4
-      1694: Resources/Rhino/Rhino_dogfight.gif                   #ADEPTAS ADDON 5
-      1695: Resources/Rhino/Rhino_dogfight.gif                   #ADEPTAS ADDON 6
-      1696: Resources/Rhino/Rhino_dogfight.gif                   #ADEPTAS ADDON 7
-      1697: Resources/Rhino/Rhino_dogfight.gif                   #ADEPTAS ADDON 8      
-      1698: Resources/Rhino/Rhino_dogfight.gif                   #ADEPTAS ADDON 9
+      1689: Resources/Rhino/Rhino_dogfight.png                   #ADEPTAS ADDON 0
+      1690: Resources/Rhino/Rhino_dogfight.png                   #ADEPTAS ADDON 1
+      1691: Resources/Rhino/Rhino_dogfight.png                   #ADEPTAS ADDON 2
+      1692: Resources/Rhino/Rhino_dogfight.png                   #ADEPTAS ADDON 3
+      1693: Resources/Rhino/Rhino_dogfight.png                   #ADEPTAS ADDON 4
+      1694: Resources/Rhino/Rhino_dogfight.png                   #ADEPTAS ADDON 5
+      1695: Resources/Rhino/Rhino_dogfight.png                   #ADEPTAS ADDON 6
+      1696: Resources/Rhino/Rhino_dogfight.png                   #ADEPTAS ADDON 7
+      1697: Resources/Rhino/Rhino_dogfight.png                   #ADEPTAS ADDON 8      
+      1698: Resources/Rhino/Rhino_dogfight.png                   #ADEPTAS ADDON 9
 #  ELDAR ADDON
       1700: Resources/EPATH/waveserpent_minimised.png                    #ELDAR ADDON 0 < - sprite index
       1701: Resources/EPATH/waveserpent_minimised.png                    #ELDAR ADDON 1 < - sprite index
@@ -4004,10 +4004,10 @@
       1779: Resources/Xiphon/Xiphon_minimised.png                     #CHAMBER 1
       1780: Resources/Arvus/arvus_minimised.png                       #CHAMBER 2
       1781: Resources/Arvus/arvus_minimised.png                       #CHAMBER 3
-      1782: Resources/Stormraven/Stormraven_minimised.gif             #CHAMBER 4
-      1783: Resources/Stormraven/Stormraven_minimised.gif             #CHAMBER 5
-      1784: Resources/Thunderhawk/Thunderhawk_minimised.gif           #CHAMBER 6
-      1785: Resources/Stormeagle/Stormeagle_minimised.gif           #CHAMBER 7
+      1782: Resources/Stormraven/Stormraven_minimised.png             #CHAMBER 4
+      1783: Resources/Stormraven/Stormraven_minimised.png             #CHAMBER 5
+      1784: Resources/Thunderhawk/Thunderhawk_minimised.png           #CHAMBER 6
+      1785: Resources/Stormeagle/Stormeagle_minimised.png           #CHAMBER 7
       1786: Resources/Xiphon/Xiphon_minimised.png                     #CHAMBER 8
       1787: Resources/Xiphon/Xiphon_minimised.png                     #CHAMBER 9
       1788: Resources/Xiphon/Xiphon_minimised.png                     #CHAMBER 10
@@ -4016,10 +4016,10 @@
       1790: Resources/Xiphon/Xiphon_dogfight.png                        #CHAMBER 1
       1791: Resources/Arvus/arvus_dogfight.png                          #CHAMBER 2
       1792: Resources/Arvus/arvus_dogfight.png                          #CHAMBER 3
-      1793: Resources/Stormraven/Stormraven_dogfight.gif                #CHAMBER 4
-      1794: Resources/Stormraven/Stormraven_dogfight.gif                #CHAMBER 5
-      1795: Resources/Thunderhawk/Thunderhawk_dogfight.gif              #CHAMBER 6
-      1796: Resources/Stormeagle/Stormeagle_dogfight.gif              #CHAMBER 7
+      1793: Resources/Stormraven/Stormraven_dogfight.png                #CHAMBER 4
+      1794: Resources/Stormraven/Stormraven_dogfight.png                #CHAMBER 5
+      1795: Resources/Thunderhawk/Thunderhawk_dogfight.png              #CHAMBER 6
+      1796: Resources/Stormeagle/Stormeagle_dogfight.png              #CHAMBER 7
       1797: Resources/Xiphon/Xiphon_dogfight.png                     #CHAMBER 8
       1798: Resources/Xiphon/Xiphon_dogfight.png                     #CHAMBER 9
       1799: Resources/Xiphon/Xiphon_dogfight.png                     #CHAMBER 10
@@ -4053,16 +4053,16 @@
     subX: 3
     subY: 3
     files:
-      385: Resources/Sprites/terranplasma_bullet.gif #11
-      420: Resources/Sprites/LAS.gif   #12
-      455: Resources/Sprites/LAS3.gif  #13
-      490: Resources/Sprites/GRAV.gif  #14
-      525: Resources/Sprites/double.gif         #15
-      560: Resources/Sprites/16Melta.gif        #16
-      595: Resources/Sprites/17heavyplasma.gif  #17
-      630: Resources/Sprites/18Melta.gif        #18
-      665: Resources/Sprites/19spell.gif        #19
-      700: Resources/Sprites/20shuriken.gif     #20
+      385: Resources/Sprites/terranplasma_bullet.png #11
+      420: Resources/Sprites/LAS.png   #12
+      455: Resources/Sprites/LAS3.png  #13
+      490: Resources/Sprites/GRAV.png  #14
+      525: Resources/Sprites/double.png         #15
+      560: Resources/Sprites/16Melta.png        #16
+      595: Resources/Sprites/17heavyplasma.png  #17
+      630: Resources/Sprites/18Melta.png        #18
+      665: Resources/Sprites/19spell.png        #19
+      700: Resources/Sprites/20shuriken.png     #20
       735: Resources/Sprites/21WEB.png          #21
       770: Resources/Sprites/22ZERO.png         #22
       805: Resources/Sprites/23GAUSS.png         #23
@@ -6021,37 +6021,37 @@
     width: 320
     height: 200
     files:
-      0: Resources/CW/M1.gif
+      0: Resources/CW/M1.png
   - type: UP007.SPK #Bmissele
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/CW/M2.gif
+      0: Resources/CW/M2.png
   - type: UP008.SPK #Bolter
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/CW/BOLTER.gif
+      0: Resources/CW/BOLTER.png
   - type: UP009.SPK #FUsion
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/CW/MULTI.gif
+      0: Resources/CW/MULTI.png
   - type: UP010.SPK #Laser
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/CW/LASER.gif
+      0: Resources/CW/LASER.png
   - type: UP011.SPK #Plasma
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/CW/PLASMA.gif
+      0: Resources/CW/PLASMA.png
   - type: UP024.SPK #sectoid V
     singleImage: true
     width: 320
@@ -6375,49 +6375,49 @@
     width: 320
     height: 200
     files:
-      0: Resources/Eldar/UP111.GIF
+      0: Resources/Eldar/UP111.png
   - type: UP112.SPK #ELDAR
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Eldar/UP112.GIF
+      0: Resources/Eldar/UP112.png
   - type: UP113.SPK #ELDAR
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Eldar/UP113.GIF
+      0: Resources/Eldar/UP113.png
   - type: UP114.SPK #ELDAR
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Eldar/UP114.GIF
+      0: Resources/Eldar/UP114.png
   - type: UP115.SPK #ELDAR
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Eldar/UP115.GIF
+      0: Resources/Eldar/UP115.png
   - type: UP116.SPK #ELDAR
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Eldar/UP116.GIF
+      0: Resources/Eldar/UP116.png
   - type: UP117.SPK #ELDAR
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Eldar/UP117.GIF
+      0: Resources/Eldar/UP117.png
   - type: UP118.SPK #ELDAR
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/Eldar/UP118.GIF
+      0: Resources/Eldar/UP118.png
   - type: UP119.SPK #ELDAR
     singleImage: true
     width: 320
@@ -6483,19 +6483,19 @@
     width: 320
     height: 200
     files:
-      0: Resources/GREY/UP129.GIF
+      0: Resources/GREY/UP129.png
   - type: UP130.SPK #GREY
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/GREY/UP130.GIF
+      0: Resources/GREY/UP130.png
   - type: UP131.SPK #GREY
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/GREY/UP131.GIF
+      0: Resources/GREY/UP131.png
   - type: UP132.SPK #ORK
     singleImage: true
     width: 320
@@ -6844,7 +6844,7 @@
       96: Resources/Sprites/XSOUND.png
       104: Resources/Sprites/XSmoke.png
       112: Resources/Sprites/XPLASMA.png
-      120: Resources/Sprites/120.png
+      120: Resources/Sprites/121.png
       128: Resources/Sprites/128EX.png
       136: Resources/Sprites/136XDROP.png
       144: Resources/Sprites/XPLAT.png
@@ -6924,7 +6924,7 @@
     subX: 12
     subY: 20
     files:
-      0: Resources/UnitUI/GUI_Aux.gif
+      0: Resources/UnitUI/GUI_Aux.png
   - type: AvatarBackground
     singleImage: true
     files:
