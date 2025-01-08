@@ -425,7 +425,7 @@ facilities:
     placeSound: 98
     requiresBaseFunc: [BASE]
     spriteShape: 3
-    spriteFacility: 03
+    spriteFacility: 3
     buildCost: 20000
     buildTime: 1
     monthlyCost: 1000
@@ -482,7 +482,7 @@ facilities:
     requiresBaseFunc: [BASE]
     requires:
       - STR_DEATHWATCH
-    ufopediaType: STR_LIVING_QUARTERS
+    # ufopediaType: STR_LIVING_QUARTERS  # FIXME
     provideBaseFunc: [IMPERIUM, ULTRA]
     spriteShape: 1
     spriteFacility: 730
@@ -498,7 +498,7 @@ facilities:
     requiresBaseFunc: [BASE]
     requires:
       - STR_DEATHWATCH
-    ufopediaType: STR_LIVING_QUARTERS
+    # ufopediaType: STR_LIVING_QUARTERS  # FIXME
     provideBaseFunc: [IMPERIUM, IF]
     spriteShape: 1
     spriteFacility: 731
@@ -514,7 +514,7 @@ facilities:
     requiresBaseFunc: [BASE]
     requires:
       - STR_DEATHWATCH
-    ufopediaType: STR_LIVING_QUARTERS
+    # ufopediaType: STR_LIVING_QUARTERS  # FIXME
     provideBaseFunc: [IMPERIUM, BA]
     spriteShape: 1
     spriteFacility: 732
@@ -530,7 +530,7 @@ facilities:
     requiresBaseFunc: [BASE]
     requires:
       - STR_DEATHWATCH
-    ufopediaType: STR_LIVING_QUARTERS
+    # ufopediaType: STR_LIVING_QUARTERS  # FIXME
     provideBaseFunc: [IMPERIUM, SALA]
     spriteShape: 1
     spriteFacility: 733
@@ -546,7 +546,7 @@ facilities:
     requiresBaseFunc: [BASE]
     requires:
       - STR_DEATHWATCH
-    ufopediaType: STR_LIVING_QUARTERS
+    # ufopediaType: STR_LIVING_QUARTERS  # FIXME
     provideBaseFunc: [IMPERIUM, BT]
     spriteShape: 1
     spriteFacility: 734
@@ -562,7 +562,7 @@ facilities:
     requiresBaseFunc: [BASE]
     requires:
       - STR_DEATHWATCH
-    ufopediaType: STR_LIVING_QUARTERS
+    # ufopediaType: STR_LIVING_QUARTERS  # FIXME
     provideBaseFunc: [IMPERIUM, WS]
     spriteShape: 1
     spriteFacility: 735
@@ -578,7 +578,7 @@ facilities:
     requiresBaseFunc: [BASE]
     requires:
       - STR_DEATHWATCH
-    ufopediaType: STR_LIVING_QUARTERS
+    # ufopediaType: STR_LIVING_QUARTERS  # FIXME
     provideBaseFunc: [IMPERIUM, SW]
     spriteShape: 1
     spriteFacility: 736
@@ -594,7 +594,7 @@ facilities:
     requiresBaseFunc: [BASE]
     requires:
       - STR_DEATHWATCH
-    ufopediaType: STR_LIVING_QUARTERS
+    # ufopediaType: STR_LIVING_QUARTERS  # FIXME
     provideBaseFunc: [IMPERIUM, DA]
     spriteShape: 1
     spriteFacility: 737
@@ -610,7 +610,7 @@ facilities:
     requiresBaseFunc: [BASE]
     requires:
       - STR_DEATHWATCH
-    ufopediaType: STR_LIVING_QUARTERS
+    # ufopediaType: STR_LIVING_QUARTERS  # FIXME
     provideBaseFunc: [IMPERIUM, CF]
     spriteShape: 1
     spriteFacility: 738
@@ -627,7 +627,7 @@ facilities:
     requires:
       - STR_DEATHWATCH
       - STR_GENERALLOCK
-    ufopediaType: STR_LIVING_QUARTERS
+    # ufopediaType: STR_LIVING_QUARTERS  # FIXME
     provideBaseFunc: [IMPERIUM, ULTRA]
     spriteShape: 1
     spriteFacility: 730
@@ -676,13 +676,13 @@ facilities:
     radarChance: 20
     mapName: XBASE_60
     storageTiles:
-            - [24, 6, 1]
-            - [25, 6, 1]
-            - [27, 6, 1]
-            - [22, 4, 1]
-            - [34, 10, 1]
-            - [28, 3, 1]
-            - [27, 3, 2]
+      - [24, 6, 1]
+      - [25, 6, 1]
+      - [27, 6, 1]
+      - [22, 4, 1]
+      - [34, 10, 1]
+      - [28, 3, 1]
+      - [27, 3, 2]
     verticalLevels:
       - type: ground
         terrain: baseTerrain
@@ -716,13 +716,13 @@ facilities:
     radarChance: 20
     mapName: XBASE_60
     storageTiles:
-            - [24, 6, 1]
-            - [25, 6, 1]
-            - [27, 6, 1]
-            - [22, 4, 1]
-            - [34, 10, 1]
-            - [28, 3, 1]
-            - [27, 3, 2]
+      - [24, 6, 1]
+      - [25, 6, 1]
+      - [27, 6, 1]
+      - [22, 4, 1]
+      - [34, 10, 1]
+      - [28, 3, 1]
+      - [27, 3, 2]
     verticalLevels:
       - type: ground
         terrain: baseTerrain
@@ -756,13 +756,13 @@ facilities:
     radarChance: 20
     mapName: XBASE_60
     storageTiles:
-            - [24, 6, 1]
-            - [25, 6, 1]
-            - [27, 6, 1]
-            - [22, 4, 1]
-            - [34, 10, 1]
-            - [28, 3, 1]
-            - [27, 3, 2]
+      - [24, 6, 1]
+      - [25, 6, 1]
+      - [27, 6, 1]
+      - [22, 4, 1]
+      - [34, 10, 1]
+      - [28, 3, 1]
+      - [27, 3, 2]
     verticalLevels:
       - type: ground
         terrain: baseTerrain
@@ -796,13 +796,13 @@ facilities:
     radarChance: 20
     mapName: XBASE_60
     storageTiles:
-            - [24, 6, 1]
-            - [25, 6, 1]
-            - [27, 6, 1]
-            - [22, 4, 1]
-            - [34, 10, 1]
-            - [28, 3, 1]
-            - [27, 3, 2]
+      - [24, 6, 1]
+      - [25, 6, 1]
+      - [27, 6, 1]
+      - [22, 4, 1]
+      - [34, 10, 1]
+      - [28, 3, 1]
+      - [27, 3, 2]
     verticalLevels:
       - type: ground
         terrain: baseTerrain
@@ -836,13 +836,13 @@ facilities:
     radarChance: 20
     mapName: XBASE_60
     storageTiles:
-            - [24, 6, 1]
-            - [25, 6, 1]
-            - [27, 6, 1]
-            - [22, 4, 1]
-            - [34, 10, 1]
-            - [28, 3, 1]
-            - [27, 3, 2]
+      - [24, 6, 1]
+      - [25, 6, 1]
+      - [27, 6, 1]
+      - [22, 4, 1]
+      - [34, 10, 1]
+      - [28, 3, 1]
+      - [27, 3, 2]
     verticalLevels:
       - type: ground
         terrain: baseTerrain
@@ -926,7 +926,7 @@ facilities:
     buildCost: 50000
     buildTime: 0
     monthlyCost: 0
-    maxAllowedPerBase:  3
+    maxAllowedPerBase: 3
     mapName: XBASE_55
     listOrder: 6
     verticalLevels:
@@ -954,13 +954,13 @@ facilities:
     provideBaseFunc: [TRAIN, IMPERIUM]
     mapName: XBASE_59
     storageTiles:
-            - [21, 6, 1]
-            - [20, 6, 1]
-            - [22, 3, 1]
-            - [21, 10, 1]
-            - [21, 12, 1]
-            - [21, 13, 1]
-            - [21, 4, 2]
+      - [21, 6, 1]
+      - [20, 6, 1]
+      - [22, 3, 1]
+      - [21, 10, 1]
+      - [21, 12, 1]
+      - [21, 13, 1]
+      - [21, 4, 2]
     verticalLevels:
       - type: ground
         terrain: baseTerrain
@@ -984,13 +984,13 @@ facilities:
     monthlyCost: 20000
     rightClickActionType: 7
     storageTiles:
-            - [23, 13, 1]
-            - [12, 12, 1]
-            - [18, 13, 1]
-            - [14, 17, 1]
-            - [25, 17, 1]
-            - [26, 17, 1]
-            - [26, 13, 1]
+      - [23, 13, 1]
+      - [12, 12, 1]
+      - [18, 13, 1]
+      - [14, 17, 1]
+      - [25, 17, 1]
+      - [26, 17, 1]
+      - [26, 13, 1]
     provideBaseFunc: [TRADE, IMPERIUM]
     mapName: XBASE_58
     verticalLevels:
@@ -1169,13 +1169,13 @@ facilities:
     provideBaseFunc: [TRAIN]
     mapName: XBASE_64
     storageTiles:
-            - [21, 6, 1]
-            - [20, 6, 1]
-            - [22, 3, 1]
-            - [21, 10, 1]
-            - [21, 12, 1]
-            - [21, 13, 1]
-            - [21, 4, 2]
+      - [21, 6, 1]
+      - [20, 6, 1]
+      - [22, 3, 1]
+      - [21, 10, 1]
+      - [21, 12, 1]
+      - [21, 13, 1]
+      - [21, 4, 2]
     verticalLevels:
       - type: ground
         terrain: baseTerrain
@@ -1210,10 +1210,10 @@ facilities:
     storage: 25
     mapName: XBASE_57
     storageTiles:
-            - [3, 2, 1]
-            - [3, 3, 1]
-            - [3, 4, 1]
-            - [3, 5, 1]
+      - [3, 2, 1]
+      - [3, 3, 1]
+      - [3, 4, 1]
+      - [3, 5, 1]
     listOrder: 8
     verticalLevels:
       - type: ground
@@ -2320,14 +2320,14 @@ terrains:
         width: 20
         length: 20
         randomizedItems:
-              - position: [8, 11, 1]
-                amount: 1
-                mixed: true
-                itemList: [STR_RIFLEB, STR_RIFLEC, STR_RIFLED, STR_PISTOLB, STR_PISTOLH, STR_PISTOLS]
-              - position: [8, 12, 1]
-                amount: 3
-                mixed: true
-                itemList: [STR_RIFLE_CLIP_AP, STR_RIFLE_CLIP_EX, STR_PISTOL_CLIP_EX, STR_PISTOL_CLIP_AP]
+          - position: [8, 11, 1]
+            amount: 1
+            mixed: true
+            itemList: [STR_RIFLEB, STR_RIFLEC, STR_RIFLED, STR_PISTOLB, STR_PISTOLH, STR_PISTOLS]
+          - position: [8, 12, 1]
+            amount: 3
+            mixed: true
+            itemList: [STR_RIFLE_CLIP_AP, STR_RIFLE_CLIP_EX, STR_PISTOL_CLIP_EX, STR_PISTOL_CLIP_AP]
       - name: POLAR14 #15
         width: 20
         length: 20
@@ -2443,14 +2443,14 @@ terrains:
         width: 10
         length: 10
         randomizedItems:
-              - position: [4, 4, 0]
-                amount: 1
-                mixed: true
-                itemList: [STR_RIFLEB, STR_RIFLEC, STR_RIFLED, STR_PISTOLB, STR_PISTOLH, STR_PISTOLS]
-              - position: [4, 5, 0]
-                amount: 3
-                mixed: true
-                itemList: [STR_RIFLE_CLIP_AP, STR_RIFLE_CLIP_EX, STR_PISTOL_CLIP_EX, STR_PISTOL_CLIP_AP]
+          - position: [4, 4, 0]
+            amount: 1
+            mixed: true
+            itemList: [STR_RIFLEB, STR_RIFLEC, STR_RIFLED, STR_PISTOLB, STR_PISTOLH, STR_PISTOLS]
+          - position: [4, 5, 0]
+            amount: 3
+            mixed: true
+            itemList: [STR_RIFLE_CLIP_AP, STR_RIFLE_CLIP_EX, STR_PISTOL_CLIP_EX, STR_PISTOL_CLIP_AP]
       - name: JUNGLE12
         width: 10
         length: 10
@@ -2563,14 +2563,14 @@ terrains:
         width: 20
         length: 20
         randomizedItems:
-              - position: [8, 11, 0]
-                amount: 1
-                mixed: true
-                itemList: [STR_RIFLEB, STR_RIFLEC, STR_RIFLED, STR_PISTOLB, STR_PISTOLH, STR_PISTOLS]
-              - position: [8, 12, 0]
-                amount: 3
-                mixed: true
-                itemList: [STR_RIFLE_CLIP_AP, STR_RIFLE_CLIP_EX, STR_PISTOL_CLIP_EX, STR_PISTOL_CLIP_AP]
+          - position: [8, 11, 0]
+            amount: 1
+            mixed: true
+            itemList: [STR_RIFLEB, STR_RIFLEC, STR_RIFLED, STR_PISTOLB, STR_PISTOLH, STR_PISTOLS]
+          - position: [8, 12, 0]
+            amount: 3
+            mixed: true
+            itemList: [STR_RIFLE_CLIP_AP, STR_RIFLE_CLIP_EX, STR_PISTOL_CLIP_EX, STR_PISTOL_CLIP_AP]
       - name: FOREST12
         width: 20
         length: 20
@@ -3595,14 +3595,14 @@ terrains:
         width: 20
         length: 20
         randomizedItems:
-              - position: [7, 7, 0]
-                amount: 1
-                mixed: true
-                itemList: [STR_RIFLEB, STR_RIFLEC, STR_RIFLED, STR_PISTOLB, STR_PISTOLH, STR_PISTOLS]
-              - position: [7, 8, 0]
-                amount: 3
-                mixed: true
-                itemList: [STR_RIFLE_CLIP_AP, STR_RIFLE_CLIP_EX, STR_PISTOL_CLIP_EX, STR_PISTOL_CLIP_AP]
+          - position: [7, 7, 0]
+            amount: 1
+            mixed: true
+            itemList: [STR_RIFLEB, STR_RIFLEC, STR_RIFLED, STR_PISTOLB, STR_PISTOLH, STR_PISTOLS]
+          - position: [7, 8, 0]
+            amount: 3
+            mixed: true
+            itemList: [STR_RIFLE_CLIP_AP, STR_RIFLE_CLIP_EX, STR_PISTOL_CLIP_EX, STR_PISTOL_CLIP_AP]
       - name: DESERT12
         width: 20
         length: 20
@@ -3698,18 +3698,18 @@ terrains:
         width: 10
         length: 10
         randomizedItems:
-              - position: [3, 4, 1]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
-              - position: [3, 5, 1]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
-              - position: [3, 6, 1]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [3, 4, 1]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [3, 5, 1]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [3, 6, 1]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
       - name: FUELD06
         width: 10
         length: 10
@@ -3720,10 +3720,10 @@ terrains:
         width: 10
         length: 10
         randomizedItems:
-              - position: [4, 3, 1]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [4, 3, 1]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
       - name: FUELD09
         width: 10
         length: 10
@@ -3804,18 +3804,18 @@ terrains:
         width: 10
         length: 10
         randomizedItems:
-              - position: [3, 4, 1]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
-              - position: [3, 5, 1]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
-              - position: [3, 6, 1]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [3, 4, 1]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [3, 5, 1]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [3, 6, 1]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
       - name: FUELD06
         width: 10
         length: 10
@@ -3826,10 +3826,10 @@ terrains:
         width: 10
         length: 10
         randomizedItems:
-              - position: [4, 3, 1]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [4, 3, 1]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
       - name: FUELD09
         width: 10
         length: 10
@@ -3919,18 +3919,18 @@ terrains:
         width: 10
         length: 10
         randomizedItems:
-              - position: [3, 4, 1]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
-              - position: [3, 5, 1]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
-              - position: [3, 6, 1]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [3, 4, 1]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [3, 5, 1]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [3, 6, 1]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
       - name: HANGAR06
         width: 10
         length: 10
@@ -3941,10 +3941,10 @@ terrains:
         width: 10
         length: 10
         randomizedItems:
-              - position: [4, 3, 1]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [4, 3, 1]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
       - name: HANGAR09
         width: 10
         length: 10
@@ -4022,18 +4022,18 @@ terrains:
         width: 10
         length: 10
         randomizedItems:
-              - position: [3, 4, 1]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
-              - position: [3, 5, 1]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
-              - position: [3, 6, 1]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [3, 4, 1]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [3, 5, 1]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [3, 6, 1]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
       - name: HANGAR06
         width: 10
         length: 10
@@ -4044,10 +4044,10 @@ terrains:
         width: 10
         length: 10
         randomizedItems:
-              - position: [4, 3, 1]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [4, 3, 1]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
       - name: HANGAR09_OBJ
         width: 10
         length: 10
@@ -4108,20 +4108,20 @@ terrains:
         width: 20
         length: 20
         randomizedItems:
-              - position: [13, 8, 0]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [13, 8, 0]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
         fuseTimers:
           STR_MUNITORIUM_SPAWNER: [0, 0]
       - name: MUNI01
         width: 20
         length: 20
         randomizedItems:
-              - position: [12, 12, 0]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [12, 12, 0]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
         items:
           STR_MUNITORIUM_SPAWNER:
             - [10, 10, 0]
@@ -4131,10 +4131,10 @@ terrains:
         width: 20
         length: 20
         randomizedItems:
-              - position: [9, 9, 0]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [9, 9, 0]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
         items:
           STR_MUNITORIUM_SPAWNER:
             - [9, 9, 0]
@@ -4153,10 +4153,10 @@ terrains:
         width: 10
         length: 10
         randomizedItems:
-              - position: [6, 6, 0]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [6, 6, 0]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
         items:
           STR_MUNITORIUM_SPAWNER:
             - [4, 4, 0]
@@ -4169,18 +4169,18 @@ terrains:
         width: 10
         length: 10
         randomizedItems:
-              - position: [4, 3, 1]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [4, 3, 1]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
       - name: MUNI09
         width: 10
         length: 10
         randomizedItems:
-              - position: [4, 9, 0]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [4, 9, 0]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
         items:
           STR_MUNITORIUM_SPAWNER:
             - [2, 7, 0]
@@ -4222,10 +4222,10 @@ terrains:
         width: 30
         length: 30
         randomizedItems:
-              - position: [14, 14, 0]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [14, 14, 0]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
         items:
           STR_MUNITORIUM_SPAWNER:
             - [12, 12, 0]
@@ -6978,22 +6978,22 @@ terrains:
         length: 50
         revealedFloors: [0, 1, 2, 3, 4]
         randomizedItems:
-              - position: [49, 12, 0]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
-              - position: [5, 5, 0]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
-              - position: [54, 5, 0]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE]
-              - position: [53, 5, 0]
-                amount: 1
-                mixed: true
-                itemList: [STR_POWERCORE, STR_FUELCORE]
+          - position: [49, 12, 0]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [5, 5, 0]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE, STR_CPUCORE]
+          - position: [54, 5, 0]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE]
+          - position: [53, 5, 0]
+            amount: 1
+            mixed: true
+            itemList: [STR_POWERCORE, STR_FUELCORE]
     script: SM
   - name: ORK_BASE #OLD BOMBARDMENT
     mapDataSets:
@@ -7491,11 +7491,11 @@ terrains:
         length: 10
         items:
           STR_BULLGRYN_SLAB_SPAWNER:
-              - [0, 8, 0]
-              - [9, 9, 0]
+            - [0, 8, 0]
+            - [9, 9, 0]
           STR_BULLGRYN_BUCKLER_SPAWNER:
-              - [1, 0, 0]
-              - [9, 1, 0]
+            - [1, 0, 0]
+            - [9, 1, 0]
         fuseTimers:
           STR_BULLGRYN_SLAB_SPAWNER: [0, 0]
           STR_BULLGRYN_BUCKLER_SPAWNER: [0, 0]
@@ -7567,7 +7567,7 @@ terrains:
             - [13, 13, 1]
             - [16, 3, 1]
           STR_REQUISITION_BOUNTY_500K:
-              - [0, 0, 0]
+            - [0, 0, 0]
         fuseTimers:
           STR_CCASSIUM_BOLTER_LEFT1_SPAWNER: [0, 0]
           STR_CCASSIUM_BOLTER_LEFT2_SPAWNER: [0, 0]

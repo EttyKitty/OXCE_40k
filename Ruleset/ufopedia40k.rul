@@ -2914,7 +2914,7 @@ ufopaedia:
     image_id: 0GU.SPK
     text: STR_GUARD_ARMORSM_UFOPEDIA
     requires:
-        - STR_ARBITES
+      - STR_ARBITES
     listOrder: 6649
 
   - id: STR_GUARD_ARMORH_UC                #6700   #ARMOR
@@ -2923,7 +2923,7 @@ ufopaedia:
     image_id: 0GU2.SPK
     text: STR_GUARD_ARMORH_UC_UFOPEDIA
     requires:
-        - STR_GUARD_SUPORT
+      - STR_GUARD_SUPORT
     listOrder: 6700
   - id: STR_SENTINEL_ARMOR_UC              #6800   #ARMOR
     type_id: 15
@@ -2938,7 +2938,7 @@ ufopaedia:
     image_id: 0GU4.SPK
     text: STR_GUARD_ARMORP_UFOPEDIA
     requires:
-        - STR_GUARD_SUPORT
+      - STR_GUARD_SUPORT
     listOrder: 6900
 
   - id: STR_ENFORCER_ARMOR_UC                  #6910   # ARBITES ARMOR

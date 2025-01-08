@@ -458,7 +458,7 @@ items:
     meleeHitSound: 772 # 772 powerfist hit
     meleeAnimation: 28 # 28 bolt anitmation
     power: 100
-    damageAlter:     #DA POWER
+    damageAlter:    #DA POWER
       ArmorEffectiveness: 0.7
       ToArmorPre: 0.2
       ToHealth: 0.9

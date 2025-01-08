@@ -667,7 +667,7 @@ regions:
     cost: 500000
     missionRegion: STR_ANTARCTICA
     areas:
-      - [330, 5, 0,  15]
+      - [330, 5, 0, 15]
       - [325, 5, 15, 60]
       - [5, 55, 40, 60]
   - type: STR_INDIAN_OCEAN

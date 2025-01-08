@@ -9,7 +9,7 @@ crafts:
     requiresBuyBaseFunc: [HANGAR]
     sprite: 1487
     maxSkinIndex: 2            # default 0
-    skinSprites: [1488,1500] # default empty, contains all sprites except for the first (index zero)
+    skinSprites: [1488, 1500] # default empty, contains all sprites except for the first (index zero)
     fuelMax: 1000
     damageMax: 1000
     speedMax: 90
@@ -81,7 +81,7 @@ crafts:
     requiresBuyBaseFunc: [HANGAR]
     marker: 39
     maxSkinIndex: 3              # default 0
-    skinSprites: [1586,1587,1588]   # default empty, contains all sprites except for the first (index zero)
+    skinSprites: [1586, 1587, 1588]   # default empty, contains all sprites except for the first (index zero)
     sprite: 1585
     fuelMax: 1000
     damageMax: 150
@@ -127,7 +127,7 @@ crafts:
     requiresBuyBaseFunc: [HANGAR]
     marker: 40
     maxSkinIndex: 6              # default 0
-    skinSprites: [1479,1480,1481,1482,1483,1484]   # default empty, contains all sprites except for the first (index zero)
+    skinSprites: [1479, 1480, 1481, 1482, 1483, 1484]   # default empty, contains all sprites except for the first (index zero)
     sprite: 1478
     fuelMax: 1000
     damageMax: 450
@@ -178,7 +178,7 @@ crafts:
     speedMax: 600
     accel: 2
     weapons: 3         #weapon number increased to 3.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -226,14 +226,14 @@ crafts:
       - STR_IMPERIAL_GUARD_HIGHTIER
     sprite: 1685
     maxSkinIndex: 2            # default 0
-    skinSprites: [1686,1687] # default empty, contains all sprites except for the first (index zero)
+    skinSprites: [1686, 1687] # default empty, contains all sprites except for the first (index zero)
     fuelMax: 1000
     damageMax: 1440
     speedMax: 75
     maxAltitude: 1
     accel: 1
     weapons: 3         #weapon number increased to 3.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -332,7 +332,7 @@ crafts:
     maxAltitude: 1
     accel: 1
     weapons: 3         #weapon number increased to 3.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - 0               #slot 2 accepts weapons with type 0.
@@ -484,7 +484,7 @@ crafts:
       - STR_IMPERIAL_GUARD_MIDTIER
     sprite: 1578
     maxSkinIndex: 3              # default 0
-    skinSprites: [1579,1580,1581]   # default empty, contains all sprites except for the first (index zero)
+    skinSprites: [1579, 1580, 1581]   # default empty, contains all sprites except for the first (index zero)
     fuelMax: 1000
     damageMax: 720
     speedMax: 180
@@ -618,7 +618,7 @@ crafts:
     requiresBuyBaseFunc: [HANGAR]
     sprite: 1582
     maxSkinIndex: 2              # default 0
-    skinSprites: [1583,1584]   # default empty, contains all sprites except for the first (index zero)
+    skinSprites: [1583, 1584]   # default empty, contains all sprites except for the first (index zero)
     fuelMax: 1800
     damageMax: 400
     speedMax: 600
@@ -840,7 +840,7 @@ crafts:
     maxAltitude: 1
     accel: 1
     weapons: 4        #weapon number increased to 3.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - 0               #slot 2 accepts weapons with type 0.
@@ -930,7 +930,7 @@ crafts:
     takeoffSound: 56 #TURBINE SOUND
     sprite: 1786
     maxSkinIndex: 2            # default 0
-    skinSprites: [1787,1788] # default empty, contains all sprites except for the first (index zero)
+    skinSprites: [1787, 1788] # default empty, contains all sprites except for the first (index zero)
     marker: 73
     fuelMax: 1000
     refuelRate: 200
@@ -938,7 +938,7 @@ crafts:
     speedMax: 2100
     accel: 3
     weapons: 4
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -987,7 +987,7 @@ crafts:
     speedMax: 4200
     accel: 9
     weapons: 4          #weapon number increased to 4.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -1046,7 +1046,7 @@ crafts:
     speedMax: 1600
     accel: 6
     weapons: 4          #weapon number increased to 4.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -1157,7 +1157,7 @@ crafts:
     speedMax: 6700
     accel: 12
     weapons: 4          #weapon number increased to 4.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [0, 4, 5]      #slot 3 accepts weapons with type 0, 4 and 5.
@@ -1218,7 +1218,7 @@ crafts:
     speedMax: 300
     accel: 2
     weapons: 4          #weapon number increased to 4.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -1265,7 +1265,7 @@ crafts:
     speedMax: 300
     accel: 2
     weapons: 2        #weapon number increased to 2.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
     weaponStrings:
@@ -1319,7 +1319,7 @@ crafts:
     speedMax: 300
     accel: 2
     weapons: 3         #weapon number increased to 3.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -1355,7 +1355,7 @@ crafts:
       - [5, 8, 1, 0]
       - [4, 9, 1, 0]
       - [5, 9, 1, 0]
-    craftInventoryTile: [4,6,1]
+    craftInventoryTile: [4, 6, 1]
     spacecraft: true
   - type: STR_DW_TT          #DEATHWATCH NOT USED    TIER III       RR 200
     costRent: 800000          #TIER III
@@ -1433,7 +1433,7 @@ crafts:
     maxAltitude: 1
     accel: 10
     weapons: 4          #weapon number increased to 4.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [0, 4, 5]      #slot 3 accepts weapons with type 0, 4 and 5.
@@ -1501,7 +1501,7 @@ crafts:
     speedMax: 1600
     accel: 6
     weapons: 4          #weapon number increased to 4.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -1572,7 +1572,7 @@ crafts:
     speedMax: 1000
     accel: 4
     weapons: 2         #weapon number increased to 3.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
     weaponStrings:
@@ -1626,7 +1626,7 @@ crafts:
     speedMax: 4200
     accel: 9
     weapons: 4          #weapon number increased to 4.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -1687,7 +1687,7 @@ crafts:
     speedMax: 6700
     accel: 12
     weapons: 4          #weapon number increased to 4.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [0, 4, 5]      #slot 3 accepts weapons with type 0, 4 and 5.
@@ -1780,7 +1780,7 @@ crafts:
       - [2, 3, 0, 4]
       - [3, 3, 0, 4]
       - [2, 2, 0, 4]
-      - [3, 2, 0, 4] # was duplicate of 2,2 #raider
+      - [3, 2, 0, 4] # was duplicate of 2, 2 #raider
       - [1, 14, 0, 0]
       - [2, 14, 0, 0]
       - [1, 15, 0, 0]
@@ -1818,7 +1818,7 @@ crafts:
     speedMax: 1600
     accel: 6
     weapons: 4          #weapon number increased to 4.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -1912,7 +1912,7 @@ crafts:
     requiresBuyBaseFunc: [HANGAR]
     marker: 40
     maxSkinIndex: 6              # default 0
-    skinSprites: [1479,1480,1481,1482,1483,1484]   # default empty, contains all sprites except for the first (index zero)
+    skinSprites: [1479, 1480, 1481, 1482, 1483, 1484]   # default empty, contains all sprites except for the first (index zero)
     sprite: 1478
     fuelMax: 1000
     damageMax: 450
@@ -2029,7 +2029,7 @@ crafts:
     maxAltitude: 1
     accel: 10
     weapons: 4          #weapon number increased to 4.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [0, 4, 5]      #slot 3 accepts weapons with type 0, 4 and 5.
@@ -2093,7 +2093,7 @@ crafts:
     speedMax: 300
     accel: 2
     weapons: 4          #weapon number increased to 4.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -2140,7 +2140,7 @@ crafts:
     speedMax: 300
     accel: 2
     weapons: 2        #weapon number increased to 2.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
     weaponStrings:
@@ -2194,7 +2194,7 @@ crafts:
     speedMax: 300
     accel: 2
     weapons: 3         #weapon number increased to 3.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -2230,7 +2230,7 @@ crafts:
       - [5, 8, 1, 0]
       - [4, 9, 1, 0]
       - [5, 9, 1, 0]
-    craftInventoryTile: [4,6,1]
+    craftInventoryTile: [4, 6, 1]
     spacecraft: true
   - type: STR_IMPULSORS    #                         TIER I         RR 600
     takeoffSound: 58 #MAGNETIC SOUND
@@ -2249,7 +2249,7 @@ crafts:
     speedMax: 300
     accel: 2
     weapons: 3         #weapon number increased to 3.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -2290,7 +2290,7 @@ crafts:
       - [5, 8, 1, 0]
       - [4, 9, 1, 0]
       - [5, 9, 1, 0]
-    craftInventoryTile: [4,6,1]
+    craftInventoryTile: [4, 6, 1]
     spacecraft: true
 #MARINES
   - type: STR_DROPPODS  #dropod´s                         TIER II
@@ -2462,7 +2462,7 @@ crafts:
     speedMax: 6700
     accel: 12
     weapons: 4          #weapon number increased to 4.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [0, 4, 5]      #slot 3 accepts weapons with type 0, 4 and 5.
@@ -2526,7 +2526,7 @@ crafts:
     speedMax: 4200
     accel: 9
     weapons: 4          #weapon number increased to 4.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -2583,7 +2583,7 @@ crafts:
     speedMax: 2100
     accel: 3
     weapons: 3
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -2627,7 +2627,7 @@ crafts:
     speedMax: 2100
     accel: 3
     weapons: 3
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -2669,7 +2669,7 @@ crafts:
     speedMax: 2200
     accel: 3
     weapons: 3
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -3028,7 +3028,7 @@ crafts:
     maxAltitude: 2
     accel: 10
     weapons: 3
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -3136,7 +3136,7 @@ crafts:
       - STR_THUNDERHAWKTYPE2
     requiresBuyBaseFunc: [HANGAR]
     maxSkinIndex: 4            # default 0
-    skinSprites: [878,879,880,881] # default empty, contains all sprites except for the first (index zero)
+    skinSprites: [878, 879, 880, 881] # default empty, contains all sprites except for the first (index zero)
     sprite: 22
     marker: 12
     fuelMax: 1400
@@ -3144,7 +3144,7 @@ crafts:
     speedMax: 1600
     accel: 6
     weapons: 4          #weapon number increased to 4.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -3214,7 +3214,7 @@ crafts:
     speedMax: 1600
     accel: 6
     weapons: 4          #weapon number increased to 4.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -3281,7 +3281,7 @@ crafts:
       - STR_THUNDERHAWKTYPE1
     requiresBuyBaseFunc: [HANGAR]
     maxSkinIndex: 4            # default 0
-    skinSprites: [878,879,880,881] # default empty, contains all sprites except for the first (index zero)
+    skinSprites: [878, 879, 880, 881] # default empty, contains all sprites except for the first (index zero)
     sprite: 22
     marker: 12
     fuelMax: 1400
@@ -3289,7 +3289,7 @@ crafts:
     speedMax: 1600
     accel: 6
     weapons: 4          #weapon number increased to 4.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -3363,7 +3363,7 @@ crafts:
     speedMax: 1600
     accel: 6
     weapons: 4          #weapon number increased to 4.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -3426,7 +3426,7 @@ crafts:
     maxAltitude: 1
     accel: 1
     weapons: 3         #weapon number increased to 3.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - 0               #slot 2 accepts weapons with type 0.
@@ -3501,7 +3501,7 @@ crafts:
     maxAltitude: 1
     accel: 1
     weapons: 3         #weapon number increased to 3.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -3644,7 +3644,7 @@ crafts:
       - STR_NEW_FIGHTER_PD
     requiresBuyBaseFunc: [HANGAR]
     marker: 40
-    skinSprites: [1479,1480,1481,1482,1483,1484]   # default empty, contains all sprites except for the first (index zero)
+    skinSprites: [1479, 1480, 1481, 1482, 1483, 1484]   # default empty, contains all sprites except for the first (index zero)
     sprite: 1478
     fuelMax: 1000
     damageMax: 450
@@ -3689,7 +3689,7 @@ crafts:
     requires:
       - STR_ARBITES
     maxSkinIndex: 2              # default 0
-    skinSprites: [1887,1888]   # default empty, contains all sprites except for the first (index zero)
+    skinSprites: [1887, 1888]   # default empty, contains all sprites except for the first (index zero)
     marker: 36
     sprite: 1886
     fuelMax: 1800
@@ -3697,7 +3697,7 @@ crafts:
     speedMax: 600
     accel: 2
     weapons: 3         #weapon number increased to 3.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -3960,7 +3960,7 @@ crafts:
     requiresBuyBaseFunc: [HANGAR]
     marker: 36
     maxSkinIndex: 2              # default 0
-    skinSprites: [1884,1885]   # default empty, contains all sprites except for the first (index zero)
+    skinSprites: [1884, 1885]   # default empty, contains all sprites except for the first (index zero)
     sprite: 1883
     fuelMax: 1800
     damageMax: 400
@@ -4012,7 +4012,7 @@ crafts:
     requires:
       - STR_ARBITES
     maxSkinIndex: 2              # default 0
-    skinSprites: [546,547]   # default empty, contains all sprites except for the first (index zero)
+    skinSprites: [546, 547]   # default empty, contains all sprites except for the first (index zero)
     sprite: 545
     fuelMax: 1000
     damageMax: 1000
@@ -4076,9 +4076,9 @@ crafts:
     requiresBuyBaseFunc: [ELDAROUT]
     requires:
       - STR_SCORPION_R
-    requiresBuy:
-      - STR_SCORPION_R
-      - STR_ELDAR_PATH
+    # requiresBuy:  # FIXME: requiresBuy is not part of crafts
+    #   - STR_SCORPION_R
+    #   - STR_ELDAR_PATH
     groups: [77, 78] #BOMBARD 2
     marker: 90
     maxSkinIndex: 0              # default 0
@@ -4088,7 +4088,7 @@ crafts:
     speedMax: 600
     accel: 2
     weapons: 3         #weapon number increased to 3.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -4146,9 +4146,9 @@ crafts:
     requiresBuyBaseFunc: [ELDAROUT]
     requires:
       - STR_ELDAR_HEMLOCK_UFO_DATA
-    requiresBuy:
-      - STR_ELDAR_PATH
-      - STR_ELDAR_HEMLOCK_UFO_DATA
+    # requiresBuy:  # FIXME: requiresBuy is not part of crafts
+    #   - STR_ELDAR_PATH
+    #   - STR_ELDAR_HEMLOCK_UFO_DATA
     maxSkinIndex: 0              # default 0
     marker: 91
     sprite: 1704
@@ -4157,7 +4157,7 @@ crafts:
     speedMax: 1200
     accel: 2
     weapons: 3         #weapon number increased to 3.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
@@ -4196,9 +4196,9 @@ crafts:
     requiresBuyBaseFunc: [ELDAROUT]
     requires:
       - STR_ELDAR_WAVESERPENT_UFO_DATA
-    requiresBuy:
-      - STR_ELDAR_WAVESERPENT_UFO_DATA
-      - STR_ELDAR_PATH
+    # requiresBuy:  # FIXME: requiresBuy is not part of crafts
+    #   - STR_ELDAR_WAVESERPENT_UFO_DATA
+    #   - STR_ELDAR_PATH
     marker: 90
     maxSkinIndex: 0              # default 0
     sprite: 1700
@@ -4207,7 +4207,7 @@ crafts:
     speedMax: 600
     accel: 2
     weapons: 2         #weapon number increased to 3.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
     weaponStrings:
@@ -4258,9 +4258,9 @@ crafts:
     requiresBuyBaseFunc: [ELDAROUT]
     requires:
       - STR_ELDAR_COBRA_UFO_DATA
-    requiresBuy:
-      - STR_ELDAR_COBRA_UFO_DATA
-      - STR_ELDAR_PATH
+    # requiresBuy:  # FIXME: requiresBuy is not part of crafts
+    #   - STR_ELDAR_COBRA_UFO_DATA
+    #   - STR_ELDAR_PATH
     marker: 90
     maxSkinIndex: 0              # default 0
     sprite: 1706
@@ -4269,7 +4269,7 @@ crafts:
     speedMax: 600
     accel: 2
     weapons: 2         #weapon number increased to 3.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.
     weaponStrings:
@@ -4314,9 +4314,9 @@ crafts:
     requiresBuyBaseFunc: [ELDAROUT]
     requires:
       - STR_ELDAR_HORNET_UFO_DATA
-    requiresBuy:
-      - STR_ELDAR_HORNET_UFO_DATA
-      - STR_ELDAR_PATH
+    # requiresBuy:  # FIXME: requiresBuy is not part of crafts
+    #   - STR_ELDAR_HORNET_UFO_DATA
+    #   - STR_ELDAR_PATH
     sprite: 1702
     marker: 89
     fuelMax: 1000
@@ -4324,7 +4324,7 @@ crafts:
     speedMax: 2100
     accel: 3
     weapons: 3         #weapon number increased to 3.
-    weaponTypes:        #definition of allowed weapon types in craft. Max 4 different types per slot.
+    weaponTypes:       #definition of allowed weapon types in craft. Max 4 different types per slot.
       - 0               #slot 1 accepts weapons with type 0. This is default.
       - 0               #slot 2 accepts weapons with type 0.
       - [4, 5, 13]      #slot 3 accepts weapons with type 4, 5 and 13.

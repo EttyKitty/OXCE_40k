@@ -390,13 +390,13 @@ craftWeapons:
 items: #craft Related
   - delete: STR_CANNON_ROUNDS_X50
   - type: STR_HMISSILE_LAUNCHER         #S 1     Lo 1251 FIXED
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 1
     costSell: 12750
     transferTime: 48
     listOrder: 1251
   - type: STR_HEAVY_MISSILES          #S 1.5   Lo 1252
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     requiresBuy:
       - STR_GUARD_AND_ARBITES
     size: 2
@@ -407,7 +407,7 @@ items: #craft Related
     clipSize: 1
     listOrder: 1252
   - type: STR_THUNDER_CANNON              #S 3
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     requires:
       - STR_NEW_FIGHTER_TRANSPORTER
     size: 3.0
@@ -415,7 +415,7 @@ items: #craft Related
     transferTime: 48
     listOrder: 1700
   - type: STR_ASSCANNON               #S 1
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     requires:
       - STR_CASSC
     size: 1.0
@@ -423,7 +423,7 @@ items: #craft Related
     transferTime: 48
     listOrder: 1750
   - type: STR_STINGRAY_LAUNCHER           #S 2     Lo 1100
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     ufopediaType: STR_STINGRAY
     size: 0.8
     requiresBuyBaseFunc: [HANGAR]
@@ -432,7 +432,7 @@ items: #craft Related
     transferTime: 48
     listOrder: 1100
   - type: STR_STINGRAY_MISSILES           #S 0.4   Lo 1150
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     ufopediaType: STR_STINGRAY
     size: 0.4
     requiresBuyBaseFunc: [HANGAR]
@@ -442,7 +442,7 @@ items: #craft Related
     clipSize: 1
     listOrder: 1150
   - type: STR_AVALANCHE_LAUNCHER          #S 1     Lo 1200
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     ufopediaType: STR_AVALANCHE
     size: 1
     requiresBuyBaseFunc: [HANGAR]
@@ -451,7 +451,7 @@ items: #craft Related
     transferTime: 48
     listOrder: 1200
   - type: STR_AVALANCHE_MISSILES          #S 1.5   Lo 1250
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     ufopediaType: STR_AVALANCHE
     size: 1.5
     requiresBuyBaseFunc: [HANGAR]
@@ -461,7 +461,7 @@ items: #craft Related
     clipSize: 1
     listOrder: 1250
   - type: STR_CANNON                      #S 1.5   Lo 1300
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 1.5
     requiresBuyBaseFunc: [HANGAR]
     costBuy: 30000
@@ -469,7 +469,7 @@ items: #craft Related
     transferTime: 48
     listOrder: 1300
 #  - type: STR_CANNON_ROUNDS_X50           #S 0.1
-#    categories: [ STR_CRAFT_WEAPONS]
+#    categories: [STR_CRAFT_WEAPONS]
 #    requiresBuyBaseFunc: [HANGAR]
 #    size: 0.1
 #    costBuy: 1240
@@ -478,104 +478,104 @@ items: #craft Related
 #    clipSize: 50
 #    listOrder: 1350
   - type: STR_FUSION_BALL_LAUNCHER        #S 2
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 2.0
     costSell: 28000
     transferTime: 48
     listOrder: 1400
   - type: STR_FUSION_BALL                 #S 0.6
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 0.6
     costSell: 20300
     transferTime: 48
     clipSize: 1
     listOrder: 1450
   - type: STR_LASER_CANNON                #S 2.0
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 2.0
     costSell: 21000
     transferTime: 48
     listOrder: 1500
   - type: STR_PLASMA_BEAM                 #S 1.2
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 1.2
     costSell: 26300
     transferTime: 48
     listOrder: 1600
   - type: STR_THRUSTER
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 2
     costSell: 250000
     transferTime: 48
     listOrder: 1800
   - type: STR_TARGETER
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 0.5
     costSell: 25000
     transferTime: 48
     listOrder: 1810
   - type: STR_HULL_PLATING
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 4
     costSell: 25000
     transferTime: 48
     listOrder: 1820
   - type: STR_FLARE_LAUNCH
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 1
     costSell: 50000
     transferTime: 48
     listOrder: 1830
   - type: STR_SCANNER
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 2
     costSell: 25000
     transferTime: 48
     listOrder: 1840
   - type: STR_RETICULE
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 0.5
     costSell: 25000
     transferTime: 48
     listOrder: 1850
   - type: STR_CRAFT_SHIELD
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 0.5
     costSell: 25000
     transferTime: 48
     listOrder: 1851
   - type: STR_ELDAR_SHIELD
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 0.5
     costSell: 25000
     transferTime: 48
     listOrder: 1852
   - type: STR_LANCE_CANNON                      #S 1.5
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 1.5
     costSell: 22500
     transferTime: 48
     listOrder: 1853
   - type: STR_COBRA_CANNON                      #S 1.5
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 1.5
     costSell: 22500
     transferTime: 48
     listOrder: 1853
   - type: STR_HEAVYDSCYTHES                      #S 1.5
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 1.5
     costSell: 22500
     transferTime: 48
     listOrder: 1853
   - type: STR_DSTARCANNON                      #S 1.5
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 1.5
     costSell: 22500
     transferTime: 48
     listOrder: 1853
   - type: STR_SCORPION_PULSAR                   #S 1.5
-    categories: [ STR_CRAFT_WEAPONS]
+    categories: [STR_CRAFT_WEAPONS]
     size: 1.5
     costSell: 22500
     transferTime: 48

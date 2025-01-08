@@ -1580,7 +1580,7 @@ research:
 
   - name: STR_INTERROGATION_COMPLETED
     dependencies:
-        - STR_GENERALLOCK
+      - STR_GENERALLOCK
 
 
   - name: STR_GENE_CULTIST   #GENE CULT
@@ -1890,7 +1890,7 @@ research:
     needItem: true
     destroyItem: true
     getOneFree:
-        - STR_ETHEREAL_SOLDIER
+      - STR_ETHEREAL_SOLDIER
     #unlocks:
     #  - STR_ALIEN_ORIGINS
     #  - STR_PSI_LAB

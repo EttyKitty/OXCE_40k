@@ -24,7 +24,7 @@ turnAIUseBlaster: 1
 maxViewDistance: 60
 #Penaltys:
 oneHandedPenaltyGlobal: 50
-flagByKills: [9,19,29,39,49,59,69,79,89,99,109,119,129,139,149,159,169,179,189,199]
+flagByKills: [9, 19, 29, 39, 49, 59, 69, 79, 89, 99, 109, 119, 129, 139, 149, 159, 169, 179, 189, 199]
 # bughunt stuff:
 bughuntMinTurn: 20
 bughuntMaxEnemies: 3

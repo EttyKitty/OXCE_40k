@@ -96,7 +96,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 0.9 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 5
     builtInWeapons:
       - AUX_WRAITHCANNON
@@ -143,7 +143,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 0.9 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 5
     builtInWeapons:
       - INV_NULL_3X3
@@ -176,12 +176,12 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     units:
       - STR_ELDAR_M
     builtInWeapons:
       - INV_NULL_3X3
-    layersDefaultPrefix: 70
+    layersDefaultPrefix: "70"
     layersSpecificPrefix:
       70: ELDAR
     layersDefinition:
@@ -230,13 +230,13 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     units:
       - STR_ELDAR_M
     builtInWeapons:
       - INV_NULL_3X3
       - AUX_ELDAR_SHIELD
-    layersDefaultPrefix: 70
+    layersDefaultPrefix: "70"
     layersSpecificPrefix:
       70: ELDAR
     layersDefinition:
@@ -279,12 +279,12 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     units:
       - STR_ELDAR_F
     builtInWeapons:
       - INV_NULL_3X3
-    layersDefaultPrefix: 70
+    layersDefaultPrefix: "70"
     layersSpecificPrefix:
       70: ELDAR
     layersDefinition:
@@ -333,13 +333,13 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     units:
       - STR_ELDAR_F
     builtInWeapons:
       - INV_NULL_3X3
       - AUX_ELDAR_SHIELD
-    layersDefaultPrefix: 70
+    layersDefaultPrefix: "70"
     layersSpecificPrefix:
       70: ELDAR
     layersDefinition:
@@ -383,13 +383,13 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     units:
       - STR_ELDAR_F
     builtInWeapons:
       - INV_NULL_3X3
       - AUX_ELDAR_KIT
-    layersDefaultPrefix: 70
+    layersDefaultPrefix: "70"
     layersSpecificPrefix:
       70: ELDAR
     layersDefinition:
@@ -433,12 +433,12 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     units:
       - STR_ELDAR_BANSHEE_F
     builtInWeapons:
       - INV_NULL_3X3
-    layersDefaultPrefix: 70
+    layersDefaultPrefix: "70"
     layersSpecificPrefix:
       70: ELDAR
     layersDefinition:
@@ -489,13 +489,13 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     units:
       - STR_ELDAR_BANSHEE_F
     builtInWeapons:
       - INV_NULL_3X3
       - AUX_ELDAR_SHIELD
-    layersDefaultPrefix: 70
+    layersDefaultPrefix: "70"
     layersSpecificPrefix:
       70: ELDAR
     layersDefinition:
@@ -540,13 +540,13 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     specialWeapon: STR_ELDAR_LIGHT
     units:
       - STR_ELDAR_SEER_F
     builtInWeapons:
       - INV_NULL_3X3
-    layersDefaultPrefix: 70
+    layersDefaultPrefix: "70"
     layersSpecificPrefix:
       70: ELDAR
     layersDefinition:
@@ -597,14 +597,14 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     specialWeapon: STR_ELDAR_LIGHT
     units:
       - STR_ELDAR_SEER_F
     builtInWeapons:
       - INV_NULL_3X3
       - AUX_ELDAR_SHIELD
-    layersDefaultPrefix: 70
+    layersDefaultPrefix: "70"
     layersSpecificPrefix:
       70: ELDAR
     layersDefinition:
@@ -647,12 +647,12 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     units:
       - STR_ELDAR_SCORPION_M
     builtInWeapons:
       - INV_NULL_3X3
-    layersDefaultPrefix: 70
+    layersDefaultPrefix: "70"
     layersSpecificPrefix:
       70: ELDAR
     layersDefinition:
@@ -701,13 +701,13 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     units:
       - STR_ELDAR_SCORPION_M
     builtInWeapons:
       - INV_NULL_3X3
       - AUX_ELDAR_SHIELD
-    layersDefaultPrefix: 70
+    layersDefaultPrefix: "70"
     layersSpecificPrefix:
       70: ELDAR
     layersDefinition:
@@ -749,12 +749,12 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     units:
       - STR_ELDAR_AVANGER_MF
     builtInWeapons:
       - INV_NULL_3X3
-    layersDefaultPrefix: 70
+    layersDefaultPrefix: "70"
     layersSpecificPrefix:
       70: ELDAR
     layersDefinition:
@@ -802,13 +802,13 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     units:
       - STR_ELDAR_AVANGER_MF
     builtInWeapons:
       - INV_NULL_3X3
       - AUX_ELDAR_SHIELD
-    layersDefaultPrefix: 70
+    layersDefaultPrefix: "70"
     layersSpecificPrefix:
       70: ELDAR
     layersDefinition:
@@ -853,13 +853,13 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     units:
       - STR_ELDAR_REAPER_M
     builtInWeapons:
       - STR_ELDAR_LAUNCHER
       - INV_NULL_3X3
-    layersDefaultPrefix: 70
+    layersDefaultPrefix: "70"
     layersSpecificPrefix:
       70: ELDAR
     layersDefinition:
@@ -910,13 +910,13 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     units:
       - STR_ELDAR_REAPER_M
     builtInWeapons:
       - AUX_ELDAR_SHIELD
       - INV_NULL_3X3
-    layersDefaultPrefix: 70
+    layersDefaultPrefix: "70"
     layersSpecificPrefix:
       70: ELDAR
     layersDefinition:
@@ -986,7 +986,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.2 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
   - type: ELDAR_TURRET_ARMOR_P
     visibilityAtDay: 60
     visibilityAtDark: 60
@@ -1003,7 +1003,7 @@ armors:
     bleedImmune: true
     fearImmune: true
     painImmune: true
-    corpseGeo:  STR_ELDARTURRET2_CORPSE
+    corpseGeo: STR_ELDARTURRET2_CORPSE
     corpseBattle:
       - ELDART_CORPSE1_P
       - ELDART_CORPSE2_P
@@ -1027,7 +1027,7 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.2 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 3
     allowsMoving: false
 #                 #                                        #                      #
@@ -1377,9 +1377,9 @@ soldiers:
       psiSkill: 100
       melee: 80
     dogfightExperience:
-        bravery: 10
-        reactions: 30
-        firing: 25
+      bravery: 10
+      reactions: 30
+      firing: 25
     armor: STR_ELDAR_ARMOR4_P
     allowPiloting: true
     allowPromotion: true
@@ -1456,9 +1456,9 @@ soldiers:
       psiSkill: 100
       melee: 80
     dogfightExperience:
-        bravery: 10
-        reactions: 30
-        firing: 25
+      bravery: 10
+      reactions: 30
+      firing: 25
     armor: STR_ELDAR_ARMOR3_P
     allowPiloting: true
     allowPromotion: true
@@ -1536,9 +1536,9 @@ soldiers:
       psiSkill: 100
       melee: 80
     dogfightExperience:
-        bravery: 10
-        reactions: 30
-        firing: 25
+      bravery: 10
+      reactions: 30
+      firing: 25
     armor: STR_ELDAR_ARMOR2_P
     allowPiloting: true
     allowPromotion: true
@@ -1615,9 +1615,9 @@ soldiers:
       psiSkill: 100
       melee: 80
     dogfightExperience:
-        bravery: 10
-        reactions: 30
-        firing: 25
+      bravery: 10
+      reactions: 30
+      firing: 25
     armor: STR_ELDAR_ARMOR6_P
     allowPiloting: true
     allowPromotion: true
@@ -1694,9 +1694,9 @@ soldiers:
       psiSkill: 100
       melee: 80
     dogfightExperience:
-        bravery: 10
-        reactions: 30
-        firing: 25
+      bravery: 10
+      reactions: 30
+      firing: 25
     armor: STR_ELDAR_ARMOR5_P
     allowPiloting: true
     allowPromotion: true
@@ -1774,9 +1774,9 @@ soldiers:
       psiSkill: 100
       melee: 80
     dogfightExperience:
-        bravery: 10
-        reactions: 30
-        firing: 25
+      bravery: 10
+      reactions: 30
+      firing: 25
     armor: STR_ELDAR_ARMOR_M
     allowPiloting: true
     allowPromotion: true
@@ -1855,9 +1855,9 @@ soldiers:
       psiSkill: 100
       melee: 80
     dogfightExperience:
-        bravery: 10
-        reactions: 30
-        firing: 25
+      bravery: 10
+      reactions: 30
+      firing: 25
     armor: STR_ELDAR_ARMOR_F
     allowPiloting: true
     allowPromotion: true
@@ -1943,7 +1943,7 @@ soldiers:
     rankTinySprite: 187
 soldierTransformation:
   - name: STR_PROMOTE_TO_SCORPION
-    requiresBuyBaseFunc: [ASPECT]
+    # requiresBuyBaseFunc: [ASPECT]  # FIXME: requiresBuy is not part of soldierTransformation
     requires:
       - STR_ELDAR_PATH
       - STR_ELDAR_SCORPION
@@ -1961,19 +1961,19 @@ soldierTransformation:
       strength: 20
       melee: 40
     percentOverallStatChange:
-       tu: 10
-       stamina: 20
-       health: 0
-       bravery: 0
-       reactions: 20
-       firing: 0
-       throwing: 0
-       strength: 0
-       psiStrength: 0
-       psiSkill: 0
-       melee: 20
+      tu: 10
+      stamina: 20
+      health: 0
+      bravery: 0
+      reactions: 20
+      firing: 0
+      throwing: 0
+      strength: 0
+      psiStrength: 0
+      psiSkill: 0
+      melee: 20
   - name: STR_PROMOTE_TO_BANSHEE
-    requiresBuyBaseFunc: [ASPECT]
+    # requiresBuyBaseFunc: [ASPECT]  # FIXME: requiresBuy is not part of soldierTransformation
     requires:
       - STR_ELDAR_PATH
       - STR_ELDAR_BANSHEE
@@ -1991,19 +1991,19 @@ soldierTransformation:
       strength: 20
       melee: 40
     percentOverallStatChange:
-       tu: 10
-       stamina: 20
-       health: 0
-       bravery: 0
-       reactions: 20
-       firing: -10
-       throwing: 0
-       strength: 0
-       psiStrength: 0
-       psiSkill: 0
-       melee: 30
+      tu: 10
+      stamina: 20
+      health: 0
+      bravery: 0
+      reactions: 20
+      firing: -10
+      throwing: 0
+      strength: 0
+      psiStrength: 0
+      psiSkill: 0
+      melee: 30
   - name: STR_PROMOTE_TO_REAPER
-    requiresBuyBaseFunc: [ASPECT]
+    # requiresBuyBaseFunc: [ASPECT]  # FIXME: requiresBuy is not part of soldierTransformation
     requires:
       - STR_ELDAR_PATH
       - STR_ELDAR_REAPER
@@ -2022,19 +2022,19 @@ soldierTransformation:
       strength: 20
       firing: 40
     percentOverallStatChange:
-       tu: 10
-       stamina: 10
-       health: 20
-       bravery: 0
-       reactions: 0
-       firing: 20
-       throwing: 0
-       strength: 20
-       psiStrength: 10
-       psiSkill: 10
-       melee: -20
+      tu: 10
+      stamina: 10
+      health: 20
+      bravery: 0
+      reactions: 0
+      firing: 20
+      throwing: 0
+      strength: 20
+      psiStrength: 10
+      psiSkill: 10
+      melee: -20
   - name: STR_PROMOTE_TO_DIREAVENGER
-    requiresBuyBaseFunc: [ASPECT]
+    # requiresBuyBaseFunc: [ASPECT]  # FIXME: requiresBuy is not part of soldierTransformation
     requires:
       - STR_ELDAR_PATH
       - STR_ELDAR_DAVENGER
@@ -2053,19 +2053,19 @@ soldierTransformation:
       strength: 10
       firing: 30
     percentOverallStatChange:
-       tu: 10
-       stamina: 0
-       health: 0
-       bravery: 0
-       reactions: 0
-       firing: 10
-       throwing: 0
-       strength: 10
-       psiStrength: 0
-       psiSkill: 0
-       melee: 0
+      tu: 10
+      stamina: 0
+      health: 0
+      bravery: 0
+      reactions: 0
+      firing: 10
+      throwing: 0
+      strength: 10
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
   - name: STR_PROMOTE_TO_SEER
-    requiresBuyBaseFunc: [ASPECT]
+    # requiresBuyBaseFunc: [ASPECT]  # FIXME: requiresBuy is not part of soldierTransformation
     requires:
       - STR_ELDAR_PATH
       - STR_ELDAR_SEER
@@ -2084,17 +2084,17 @@ soldierTransformation:
       strength: 30
       melee: 50
     percentOverallStatChange:
-       tu: 20
-       stamina: 20
-       health: 20
-       bravery: 30
-       reactions: 30
-       firing: 20
-       throwing: 20
-       strength: 20
-       psiStrength: 20
-       psiSkill: 20
-       melee: 20
+      tu: 20
+      stamina: 20
+      health: 20
+      bravery: 30
+      reactions: 30
+      firing: 20
+      throwing: 20
+      strength: 20
+      psiStrength: 20
+      psiSkill: 20
+      melee: 20
   - name: STR_RESURRECT_ELDAR
     requires:
       - STR_ELDAR_PATH

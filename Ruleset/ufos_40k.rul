@@ -826,7 +826,7 @@ ufos:
       name: VESSEL
       mapDataSets:
         - BLANKS
-        - 001
+        - "001"
         - 001EXTRA
       mapBlocks:
         - name: VESSEL
@@ -1479,10 +1479,10 @@ ufos:
           width: 30
           length: 30
           randomizedItems:
-              - position: [8, 9, 1]
-                amount: 2
-                mixed: true
-                itemList: [STR_MAP1, STR_MAP2, STR_MAP3]
+            - position: [8, 9, 1]
+              amount: 2
+              mixed: true
+              itemList: [STR_MAP1, STR_MAP2, STR_MAP3]
   - type: STR_CAT
     marker: 1
     markerLand: 33

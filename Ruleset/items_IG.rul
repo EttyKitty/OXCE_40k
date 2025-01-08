@@ -478,7 +478,7 @@ items:
     categories: [STR_CAT_AUTO]
     requiresBuyBaseFunc: [IMPERIUM]
     requiresBuy:
-        - STR_GUARD_SUPORT
+      - STR_GUARD_SUPORT
     size: 0.3
     dropoff: 5
     costBuy: 9000
@@ -1165,7 +1165,7 @@ items:
     listOrder: 11880
 
   - type: STR_PHOTON_GRENADE
-    categories: [ STR_CAT_GRENADES, STR_CAT_TACTICAL]
+    categories: [STR_CAT_GRENADES, STR_CAT_TACTICAL]
     requiresBuyBaseFunc: [IMPERIUM]
     requiresBuy:
       - STR_PHOTON_GRENADE_REQUISITION
@@ -2519,7 +2519,7 @@ items:
       RandomType: 2
       ResistType: 6
       ToStun: 1.0
-      RandomWound: False
+      RandomWound: false
       ToWound: 0.05
     confSnap:
       ammoSlot: 0

@@ -47,7 +47,7 @@ armors:
       - 0.8
       - 1.2
       - 0.0
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 5
     moveSound: 14
     builtInWeapons:
@@ -59,16 +59,16 @@ armors:
 
   - &STR_MKX_LIB_UC
     type: STR_MKX_LIB_LV1_UC
-    selectUnitMale:     [1011, 1012, 1013, 1014, 1015]
-    selectUnitFemale:   [1011, 1012, 1013, 1014, 1015]
-    startMovingMale:    [1006, 1007, 1008, 1009, 1010]
-    startMovingFemale:  [1006, 1007, 1008, 1009, 1010]
-    selectWeaponMale:   [1001, 1002, 1003, 1004, 1005]
-    selectWeaponFemale: [1001, 1002, 1003, 1004, 1005]
-    annoyedMale:        [1016, 1017, 1018, 1019, 1020]
-    annoyedFemale:      [1016, 1017, 1018, 1019, 1020]
-    deathMale:     [1021, 1022, 1023, 1024, 1025]
-    deathFemale:   [1021, 1022, 1023, 1024, 1025]
+    selectUnitMale:       [1011, 1012, 1013, 1014, 1015]  # yamllint disable-line rule:colons
+    selectUnitFemale:     [1011, 1012, 1013, 1014, 1015]  # yamllint disable-line rule:colons
+    startMovingMale:      [1006, 1007, 1008, 1009, 1010]  # yamllint disable-line rule:colons
+    startMovingFemale:    [1006, 1007, 1008, 1009, 1010]  # yamllint disable-line rule:colons
+    selectWeaponMale:     [1001, 1002, 1003, 1004, 1005]  # yamllint disable-line rule:colons
+    selectWeaponFemale:   [1001, 1002, 1003, 1004, 1005]  # yamllint disable-line rule:colons
+    annoyedMale:          [1016, 1017, 1018, 1019, 1020]  # yamllint disable-line rule:colons
+    annoyedFemale:        [1016, 1017, 1018, 1019, 1020]  # yamllint disable-line rule:colons
+    deathMale:            [1021, 1022, 1023, 1024, 1025]  # yamllint disable-line rule:colons
+    deathFemale:          [1021, 1022, 1023, 1024, 1025]  # yamllint disable-line rule:colons
     ufopediaType: STR_MKX_LIB_LV1_UC
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -78,15 +78,15 @@ armors:
     corpseGeo: STR_FALLEN_CORPSE
     specialWeapon: STR_LIBRARIAN_SPECIAL_WEAPON
     stats:
-       tu: 0
-       stamina: 0
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       firing: 0
-       throwing: 0
-       strength: 0
-       melee: 0
+      tu: 0
+      stamina: 0
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 0
+      melee: 0
     frontArmor: 110
     sideArmor: 90
     rearArmor: 80
@@ -104,7 +104,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     forcedTorso: 1
     builtInWeapons:
       - INV_NULL_3X3
@@ -124,45 +124,45 @@ armors:
       - STR_LOCKDOWN_TOME
       - INV_NULL_3X3
     stats:
-       tu: 0
-       stamina: 20
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       firing: -10
-       throwing: 0
-       strength: 0
-       melee: 10
+      tu: 0
+      stamina: 20
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      firing: -10
+      throwing: 0
+      strength: 0
+      melee: 10
   - type: STR_MKX_LIB_LV3_UC
     refNode: *STR_MKX_LIB_UC
     spriteSheet: PRIMLIBLV3.PCK
     units:
       - STR_PRIMARISLV5
     stats:
-       tu: 0
-       stamina: 30
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       firing: -20
-       throwing: 0
-       strength: 0
-       melee: 20
+      tu: 0
+      stamina: 30
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      firing: -20
+      throwing: 0
+      strength: 0
+      melee: 20
     builtInWeapons:
       - STR_PATCHSPEED
       - STR_SHIELD_TOME
       - INV_NULL_3X3
   - type: STR_MKX_APO_UC
-    selectUnitMale:     [1276, 1277, 1278, 1279, 1280]
-    selectUnitFemale:   [1276, 1277, 1278, 1279, 1280]
-    startMovingMale:    [1271, 1272, 1273, 1274, 1275]
-    startMovingFemale:  [1271, 1272, 1273, 1274, 1275]
-    selectWeaponMale:   [1266, 1267, 1268, 1269, 1270]
-    selectWeaponFemale: [1266, 1267, 1268, 1269, 1270]
-    annoyedMale:        [1281, 1282, 1283, 1284, 1285]
-    annoyedFemale:      [1281, 1282, 1283, 1284, 1285]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:       [1276, 1277, 1278, 1279, 1280]  # yamllint disable-line rule:colons
+    selectUnitFemale:     [1276, 1277, 1278, 1279, 1280]  # yamllint disable-line rule:colons
+    startMovingMale:      [1271, 1272, 1273, 1274, 1275]  # yamllint disable-line rule:colons
+    startMovingFemale:    [1271, 1272, 1273, 1274, 1275]  # yamllint disable-line rule:colons
+    selectWeaponMale:     [1266, 1267, 1268, 1269, 1270]  # yamllint disable-line rule:colons
+    selectWeaponFemale:   [1266, 1267, 1268, 1269, 1270]  # yamllint disable-line rule:colons
+    annoyedMale:          [1281, 1282, 1283, 1284, 1285]  # yamllint disable-line rule:colons
+    annoyedFemale:        [1281, 1282, 1283, 1284, 1285]  # yamllint disable-line rule:colons
+    deathMale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:          [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
     spriteSheet: PRIMAPO.PCK
     ufopediaType: STR_MKX_APO_UC
     visibilityAtDay: 40
@@ -173,15 +173,15 @@ armors:
     corpseGeo: STR_FALLEN_CORPSE
     specialWeapon: STR_UNARMED_GAUNTLET_PLUS
     stats:
-       tu: 0
-       stamina: 30
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       firing: -20
-       throwing: 0
-       strength: 0
-       melee: 20
+      tu: 0
+      stamina: 30
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      firing: -20
+      throwing: 0
+      strength: 0
+      melee: 20
     frontArmor: 110
     sideArmor: 90
     rearArmor: 80
@@ -199,7 +199,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     forcedTorso: 1
     units:
       - STR_PRIMARISLV2
@@ -210,16 +210,16 @@ armors:
       - AUX_MEDI_KIT
   - &STR_MKX_TEC_UC
     type: STR_MKX_TEC_LV1_UC
-    selectUnitMale:     [1296, 1297, 1298, 1299, 1300]
-    selectUnitFemale:   [1296, 1297, 1298, 1299, 1300]
-    startMovingMale:    [1291, 1292, 1293, 1294, 1295]
-    startMovingFemale:  [1291, 1292, 1293, 1294, 1295]
-    selectWeaponMale:   [1286, 1287, 1288, 1289, 1290]
-    selectWeaponFemale: [1286, 1287, 1288, 1289, 1290]
-    annoyedMale:        [1301, 1302, 1303, 1304, 1305]
-    annoyedFemale:      [1301, 1302, 1303, 1304, 1305]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:       [1296, 1297, 1298, 1299, 1300]  # yamllint disable-line rule:colons
+    selectUnitFemale:     [1296, 1297, 1298, 1299, 1300]  # yamllint disable-line rule:colons
+    startMovingMale:      [1291, 1292, 1293, 1294, 1295]  # yamllint disable-line rule:colons
+    startMovingFemale:    [1291, 1292, 1293, 1294, 1295]  # yamllint disable-line rule:colons
+    selectWeaponMale:     [1286, 1287, 1288, 1289, 1290]  # yamllint disable-line rule:colons
+    selectWeaponFemale:   [1286, 1287, 1288, 1289, 1290]  # yamllint disable-line rule:colons
+    annoyedMale:          [1301, 1302, 1303, 1304, 1305]  # yamllint disable-line rule:colons
+    annoyedFemale:        [1301, 1302, 1303, 1304, 1305]  # yamllint disable-line rule:colons
+    deathMale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:          [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
     ufopediaType: STR_MKX_TEC_LV1_UC
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -228,15 +228,15 @@ armors:
     storeItem: STR_MKX_TEC_ARMOR
     corpseGeo: STR_FALLEN_CORPSE
     stats:
-       tu: 0
-       stamina: 0
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       firing: 0
-       throwing: 0
-       strength: 0
-       melee: 0
+      tu: 0
+      stamina: 0
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 0
+      melee: 0
     frontArmor: 110
     sideArmor: 90
     rearArmor: 80
@@ -254,7 +254,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     forcedTorso: 1
     specialWeapon: AUX_PROBE
   - type: STR_MKX_TEC_LV1_UC
@@ -281,16 +281,16 @@ armors:
       - STR_PRIMARISLV4
 #
   - type: STR_MKX_CHP_UC
-    selectUnitMale:     [1256, 1257, 1258, 1259, 1260]
-    selectUnitFemale:   [1256, 1257, 1258, 1259, 1260]
-    startMovingMale:    [1251, 1252, 1253, 1254, 1255]
-    startMovingFemale:  [1251, 1252, 1253, 1254, 1255]
-    selectWeaponMale:   [1246, 1247, 1248, 1249, 1250]
-    selectWeaponFemale: [1246, 1247, 1248, 1249, 1250]
-    annoyedMale:        [1261, 1262, 1263, 1264, 1265]
-    annoyedFemale:      [1261, 1262, 1263, 1264, 1265]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:       [1256, 1257, 1258, 1259, 1260]  # yamllint disable-line rule:colons
+    selectUnitFemale:     [1256, 1257, 1258, 1259, 1260]  # yamllint disable-line rule:colons
+    startMovingMale:      [1251, 1252, 1253, 1254, 1255]  # yamllint disable-line rule:colons
+    startMovingFemale:    [1251, 1252, 1253, 1254, 1255]  # yamllint disable-line rule:colons
+    selectWeaponMale:     [1246, 1247, 1248, 1249, 1250]  # yamllint disable-line rule:colons
+    selectWeaponFemale:   [1246, 1247, 1248, 1249, 1250]  # yamllint disable-line rule:colons
+    annoyedMale:          [1261, 1262, 1263, 1264, 1265]  # yamllint disable-line rule:colons
+    annoyedFemale:        [1261, 1262, 1263, 1264, 1265]  # yamllint disable-line rule:colons
+    deathMale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:          [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
     spriteSheet: PRIMCHP.PCK
     ufopediaType: STR_MKX_CHP_UC
     visibilityAtDay: 40
@@ -301,15 +301,15 @@ armors:
     storeItem: STR_MKX_CHP_ARMOR
     corpseGeo: STR_FALLEN_CORPSE
     stats:
-       tu: 10
-       stamina: 10
-       health: 10
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       firing: 0
-       throwing: 0
-       strength: 0
-       melee: 0
+      tu: 10
+      stamina: 10
+      health: 10
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 0
+      melee: 0
     frontArmor: 110
     sideArmor: 90
     rearArmor: 80
@@ -327,7 +327,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     forcedTorso: 1
     units:
       - STR_PRIMARISLV3
@@ -338,16 +338,16 @@ armors:
     specialWeapon: STR_UNARMED_GAUNTLET_PLUS
   - &STR_MKX_INC_UC
     type: STR_MKX_INC_LV1_UC
-    selectUnitMale:     [511, 512, 513, 514, 515]
-    selectUnitFemale:   [511, 512, 513, 514, 515]
-    startMovingMale:    [506, 507, 508, 509, 510]
-    startMovingFemale:  [506, 507, 508, 509, 510]
-    selectWeaponMale:   [501, 502, 503, 504, 505]
-    selectWeaponFemale: [501, 502, 503, 504, 505]
-    annoyedMale:        [516, 517, 518, 519, 520]
-    annoyedFemale:      [516, 517, 518, 519, 520]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:       [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    selectUnitFemale:     [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    startMovingMale:      [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    startMovingFemale:    [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    selectWeaponMale:     [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    selectWeaponFemale:   [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    annoyedMale:          [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    annoyedFemale:        [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    deathMale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:          [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
     ufopediaType: STR_MKX_INC_LV1_UC
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -374,7 +374,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     forcedTorso: 1
     builtInWeapons:
       - INV_NULL_3X3
@@ -383,60 +383,60 @@ armors:
     units:
       - STR_PRIMARISLV1
     stats:
-       tu: 0
-       stamina: 0
-       reactions: 0
+      tu: 0
+      stamina: 0
+      reactions: 0
   - type: STR_MKX_INC_LV2_UC
     refNode: *STR_MKX_INC_UC
     spriteSheet: PRIMINCLV2.PCK
     units:
       - STR_PRIMARISLV2
     stats:
-       tu: 10
-       stamina: 10
-       reactions: 10
+      tu: 10
+      stamina: 10
+      reactions: 10
   - type: STR_MKX_INC_LV3_UC
     refNode: *STR_MKX_INC_UC
     spriteSheet: PRIMINCLV3.PCK
     units:
       - STR_PRIMARISLV3
     stats:
-       tu: 15
-       stamina: 15
-       reactions: 15
+      tu: 15
+      stamina: 15
+      reactions: 15
   - type: STR_MKX_INC_LV4_UC
     refNode: *STR_MKX_INC_UC
     spriteSheet: PRIMINCLV4.PCK
     units:
       - STR_PRIMARISLV4
     stats:
-       tu: 20
-       stamina: 20
-       reactions: 20
+      tu: 20
+      stamina: 20
+      reactions: 20
   - type: STR_MKX_INC_LV5_UC
     refNode: *STR_MKX_INC_UC
     spriteSheet: PRIMINCLV5.PCK
     units:
       - STR_PRIMARISLV5
     stats:
-       tu: 20
-       stamina: 20
-       reactions: 20
-       health: 10
-       firing: 10
-       strength: 10
+      tu: 20
+      stamina: 20
+      reactions: 20
+      health: 10
+      firing: 10
+      strength: 10
   - &STR_MKX_TAC_UC
     type: STR_MKX_TAC_LV1_UC
-    selectUnitMale:     [511, 512, 513, 514, 515]
-    selectUnitFemale:   [511, 512, 513, 514, 515]
-    startMovingMale:    [506, 507, 508, 509, 510]
-    startMovingFemale:  [506, 507, 508, 509, 510]
-    selectWeaponMale:   [501, 502, 503, 504, 505]
-    selectWeaponFemale: [501, 502, 503, 504, 505]
-    annoyedMale:        [516, 517, 518, 519, 520]
-    annoyedFemale:      [516, 517, 518, 519, 520]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:       [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    selectUnitFemale:     [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    startMovingMale:      [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    startMovingFemale:    [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    selectWeaponMale:     [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    selectWeaponFemale:   [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    annoyedMale:          [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    annoyedFemale:        [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    deathMale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:          [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
     ufopediaType: STR_MKX_TAC_LV1_UC
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -462,7 +462,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     forcedTorso: 1
     builtInWeapons:
       - INV_NULL_3X3
@@ -470,9 +470,9 @@ armors:
     refNode: *STR_MKX_TAC_UC
     spriteSheet: PRIMTACLV2.PCK
     stats:
-       tu: 0
-       stamina: 0
-       health: 10
+      tu: 0
+      stamina: 0
+      health: 10
     units:
       - STR_PRIMARISLV2
   - type: STR_MKX_TAC_LV1_UC
@@ -485,46 +485,46 @@ armors:
     units:
       - STR_PRIMARISLV3
     stats:
-       tu: 0
-       stamina: 0
-       health: 15
+      tu: 0
+      stamina: 0
+      health: 15
   - type: STR_MKX_TAC_LV4_UC
     refNode: *STR_MKX_TAC_UC
     spriteSheet: PRIMTACLV4.PCK
     units:
       - STR_PRIMARISLV4
     stats:
-       tu: 0
-       stamina: 0
-       health: 20
+      tu: 0
+      stamina: 0
+      health: 20
   - type: STR_MKX_TAC_LV5_UC
     refNode: *STR_MKX_TAC_UC
     spriteSheet: PRIMTACLV5.PCK
     units:
       - STR_PRIMARISLV5
     stats:
-       tu: 0
-       stamina: 0
-       health: 20
-       bravery: 10 #always multiples of 10
-       reactions: 10
-       firing: 10
-       throwing: 10
-       strength: 10
-       melee: 10
+      tu: 0
+      stamina: 0
+      health: 20
+      bravery: 10 #always multiples of 10
+      reactions: 10
+      firing: 10
+      throwing: 10
+      strength: 10
+      melee: 10
 
   - &STR_MKX_BIKE_UC
     type: STR_MKX_BIKE_UC
-    selectUnitMale:     [511, 512, 513, 514, 515]
-    selectUnitFemale:   [511, 512, 513, 514, 515]
-    startMovingMale:    [506, 507, 508, 509, 510]
-    startMovingFemale:  [506, 507, 508, 509, 510]
-    selectWeaponMale:   [501, 502, 503, 504, 505]
-    selectWeaponFemale: [501, 502, 503, 504, 505]
-    annoyedMale:        [516, 517, 518, 519, 520]
-    annoyedFemale:      [516, 517, 518, 519, 520]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:       [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    selectUnitFemale:     [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    startMovingMale:      [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    startMovingFemale:    [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    selectWeaponMale:     [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    selectWeaponFemale:   [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    annoyedMale:          [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    annoyedFemale:        [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    deathMale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:          [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
     ufopediaType: STR_MKX_BIKE_UC
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -539,17 +539,17 @@ armors:
       - STR_MKX_BIKE_CORPSE3
       - STR_MKX_BIKE_CORPSE4
     stats:
-       tu: 50
-       stamina: 50
-       firing: 0
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       throwing: 0
-       strength: 0
-       psiStrength: 0
-       psiSkill: 0
-       melee: 0
+      tu: 50
+      stamina: 50
+      firing: 0
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      throwing: 0
+      strength: 0
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
     frontArmor: 120
     sideArmor: 100
     rearArmor: 90
@@ -569,7 +569,7 @@ armors:
       - 1.2 #MELTA
     size: 2
     moveSound: 14
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 20
     builtInWeapons:
       - AUX_PRIMARIS_OUTBOLTER
@@ -603,16 +603,16 @@ armors:
 
   - &STR_MKX_PHB_UC
     type: STR_MKX_PHB_LV1_UC
-    selectUnitMale:     [511, 512, 513, 514, 515]
-    selectUnitFemale:   [511, 512, 513, 514, 515]
-    startMovingMale:    [506, 507, 508, 509, 510]
-    startMovingFemale:  [506, 507, 508, 509, 510]
-    selectWeaponMale:   [501, 502, 503, 504, 505]
-    selectWeaponFemale: [501, 502, 503, 504, 505]
-    annoyedMale:        [516, 517, 518, 519, 520]
-    annoyedFemale:      [516, 517, 518, 519, 520]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:       [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    selectUnitFemale:     [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    startMovingMale:      [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    startMovingFemale:    [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    selectWeaponMale:     [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    selectWeaponFemale:   [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    annoyedMale:          [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    annoyedFemale:        [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    deathMale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:          [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
     ufopediaType: STR_MKX_PHB_LV1_UC
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -638,7 +638,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     forcedTorso: 1
     builtInWeapons:
       - INV_NULL_3X3
@@ -647,60 +647,60 @@ armors:
     units:
       - STR_PRIMARISLV1
     stats:
-       tu: 10
-       stamina: 30
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       firing: -20
-       throwing: 0
-       strength: 0
-       melee: 20
+      tu: 10
+      stamina: 30
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      firing: -20
+      throwing: 0
+      strength: 0
+      melee: 20
   - type: STR_MKX_PHB_LV2_UC
     refNode: *STR_MKX_PHB_UC
     spriteSheet: PRIMPHBLV1.PCK
     units:
       - STR_PRIMARISLV2
     stats:
-       tu: 15
-       stamina: 30
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       firing: -15
-       throwing: 0
-       strength: 0
-       melee: 20
+      tu: 15
+      stamina: 30
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      firing: -15
+      throwing: 0
+      strength: 0
+      melee: 20
   - type: STR_MKX_PHB_LV3_UC
     refNode: *STR_MKX_PHB_UC
     spriteSheet: PRIMTACLV3.PCK
     units:
       - STR_PRIMARISLV3
     stats:
-       tu: 20
-       stamina: 30
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       firing: -10
-       throwing: 0
-       strength: 0
-       melee: 30
+      tu: 20
+      stamina: 30
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      firing: -10
+      throwing: 0
+      strength: 0
+      melee: 30
   - type: STR_MKX_PHB_LV4_UC
     refNode: *STR_MKX_PHB_UC
     spriteSheet: PRIMPHBLV4.PCK
     units:
       - STR_PRIMARISLV4
     stats:
-       tu: 20
-       stamina: 30
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       firing: 0
-       throwing: 0
-       strength: 10
-       melee: 30
+      tu: 20
+      stamina: 30
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 10
+      melee: 30
   - type: STR_MKX_PHB_LV5_UC
     refNode: *STR_MKX_PHB_UC
     spriteSheet: PRIMPHBLV5.PCK
@@ -709,27 +709,27 @@ armors:
     builtInWeapons:
       - STR_HAYWIRE_MINE
     stats:
-       tu: 20
-       stamina: 30
-       health: 10
-       bravery: 0 #always multiples of 10
-       reactions: 10
-       firing: 0
-       throwing: 10
-       strength: 10
-       melee: 20
+      tu: 20
+      stamina: 30
+      health: 10
+      bravery: 0 #always multiples of 10
+      reactions: 10
+      firing: 0
+      throwing: 10
+      strength: 10
+      melee: 20
   - &STR_MKX_GRV_UC
     type: STR_MKX_GRV_LV1_UC
-    selectUnitMale:     [511, 512, 513, 514, 515]
-    selectUnitFemale:   [511, 512, 513, 514, 515]
-    startMovingMale:    [506, 507, 508, 509, 510]
-    startMovingFemale:  [506, 507, 508, 509, 510]
-    selectWeaponMale:   [501, 502, 503, 504, 505]
-    selectWeaponFemale: [501, 502, 503, 504, 505]
-    annoyedMale:        [516, 517, 518, 519, 520]
-    annoyedFemale:      [516, 517, 518, 519, 520]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:       [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    selectUnitFemale:     [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    startMovingMale:      [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    startMovingFemale:    [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    selectWeaponMale:     [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    selectWeaponFemale:   [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    annoyedMale:          [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    annoyedFemale:        [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    deathMale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:          [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
     ufopediaType: STR_MKX_GRV_LV1_UC
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -738,15 +738,15 @@ armors:
     storeItem: STR_MKX_GRV_ARMOR
     corpseGeo: STR_FALLEN_CORPSE
     stats:
-       tu: 0
-       stamina: -20
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       firing: 0
-       throwing: 0
-       strength: 0
-       melee: 0
+      tu: 0
+      stamina: -20
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 0
+      melee: 0
     frontArmor: 120
     sideArmor: 100
     rearArmor: 90
@@ -764,7 +764,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     forcedTorso: 1
   - type: STR_MKX_GRV_LV1_UC
     spriteSheet: PRIMGRVLV1.PCK
@@ -815,12 +815,12 @@ armors:
       - STR_GRAV_BOLTER
       - INV_NULL_3X3
     stats:
-       tu: 0
-       stamina: 0
-       health: 10
-       firing: 10
-       throwing: 10
-       strength: 10
+      tu: 0
+      stamina: 0
+      health: 10
+      firing: 10
+      throwing: 10
+      strength: 10
 #
   - type: STR_MKX_TAC_ZOMBIE
     visibilityAtDay: 40
@@ -847,7 +847,7 @@ armors:
       - 1.0 #ACID
       - 0.0 #SMOKE
       - 0.2 #IMPACT
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     builtInWeapons:
       - INV_NULL_3X3
   - type: STR_MKX_PHB_ZOMBIE
@@ -875,7 +875,7 @@ armors:
       - 1.0 #ACID
       - 0.0 #SMOKE
       - 0.2 #IMPACT
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     builtInWeapons:
       - INV_NULL_3X3
   - type: STR_MKX_GRV_ZOMBIE
@@ -903,7 +903,7 @@ armors:
       - 1.0 #ACID
       - 0.0 #SMOKE
       - 0.2 #IMPACT
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     builtInWeapons:
       - INV_NULL_3X3
       - STR_GRAV_BOLTER
@@ -933,7 +933,7 @@ armors:
       - 1.0 #ACID
       - 0.0 #SMOKE
       - 0.2 #IMPACT
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     builtInWeapons:
       - INV_NULL_3X3
 items:
@@ -966,7 +966,7 @@ items:
     spawnUnit: STR_THUNDERFIRE_P
     primeActionName: STR_ACTIVATE
     spawnUnitFaction: 0
-    categories: [ STR_CAT_EQUIPMENT]
+    categories: [STR_CAT_EQUIPMENT]
     costSell: 500000
     size: 2
     weight: 40
@@ -977,8 +977,8 @@ items:
     ignoreInCraftEquip: true
     fuseType: -3
     fuseTriggerEvents:
-     throwTrigger: true
-     proximityTrigger: true
+      throwTrigger: true
+      proximityTrigger: true
     damageType: 3
     battleType: 4
     blastRadius: 1
@@ -994,7 +994,7 @@ items:
     spawnUnit: STR_T_BOLTER
     primeActionName: STR_ACTIVATE
     spawnUnitFaction: 0
-    categories: [ STR_CAT_EQUIPMENT]
+    categories: [STR_CAT_EQUIPMENT]
     costSell: 500000
     size: 2
     weight: 40
@@ -1005,8 +1005,8 @@ items:
     ignoreInCraftEquip: true
     fuseType: -3
     fuseTriggerEvents:
-     throwTrigger: true
-     proximityTrigger: true
+      throwTrigger: true
+      proximityTrigger: true
     damageType: 3
     battleType: 4
     blastRadius: 1

@@ -1872,7 +1872,7 @@ items:
     fixedWeaponShow: true
     recover: false
   - type: STR_GRAV_FLAMER
-    categories: [ STR_CAT_FLAMER, STR_CAT_TACTICAL]
+    categories: [STR_CAT_FLAMER, STR_CAT_TACTICAL]
     handSprite: 360
     weight: 1
     bigSprite: 922
@@ -2083,7 +2083,7 @@ items:
       ArmorEffectiveness: 0
       IgnoreSelfDestruct: false # default true for HE, fire, smoke, stun, mel
     damageBonus:
-     bravery: 1.5
+      bravery: 1.5
     clipSize: -1
     bulletSpeed: 50
     explosionSpeed: 10
@@ -2185,7 +2185,7 @@ items:
     fixedWeapon: true
     recover: false
   - type: STR_MIND_PROBE        #                         9003           #TOME
-    categories: [ STR_CAT_SPELLS]
+    categories: [STR_CAT_SPELLS]
     requires:
       - STR_MIND_PROBE
     size: 0.1
@@ -2203,7 +2203,7 @@ items:
     recoveryPoints: 1
     listOrder: 30100
   - type: STR_MOTION_SCANNER    #                         14200
-    categories: [ STR_CAT_EQUIPMENT]
+    categories: [STR_CAT_EQUIPMENT]
     size: 0.1
     costSell: 31600
     weight: 3
@@ -2228,7 +2228,7 @@ items:
     fixedWeapon: true
     recover: false
   - type: STR_PATCHMORAL #Moral                           9000
-    categories: [ STR_CAT_SPELLS]
+    categories: [STR_CAT_SPELLS]
     size: 0.2
     weight: 5
     confMelee:
@@ -2268,7 +2268,7 @@ items:
     clipSize: -1
     listOrder: 30200
   - type: STR_PATCHSPEED #SPEED                           9001
-    categories: [ STR_CAT_SPELLS]
+    categories: [STR_CAT_SPELLS]
     size: 0.2
     weight: 5
     confMelee:
@@ -2308,7 +2308,7 @@ items:
     clipSize: -1
     listOrder: 30300
   - type: STR_PATCHSMOKE #SMOKE                           9002
-    categories: [ STR_CAT_SPELLS]
+    categories: [STR_CAT_SPELLS]
     size: 0.2
     weight: 5
     confMelee:
@@ -2346,7 +2346,7 @@ items:
     experienceTrainingMode: 32
     listOrder: 30400
   - type: STR_ELECTRO_FLARE                               #14100
-    categories: [ STR_CAT_EQUIPMENT]
+    categories: [STR_CAT_EQUIPMENT]
     requiresBuyBaseFunc: [IMPERIUM]
     size: 0.1
     costBuy: 60
@@ -2377,7 +2377,7 @@ items:
     listOrder: 14100
 #---GRANADES-----------------------------------------------------
   - type: STR_SMOKE_GRENADE                #4000
-    categories: [ STR_CAT_GRENADES, STR_CAT_TACTICAL]
+    categories: [STR_CAT_GRENADES, STR_CAT_TACTICAL]
     requiresBuy: #what tech is required for the item to be visible in the Hire/Purchase screen.
       - STR_SMOKE
     requiresBuyBaseFunc: [IMPERIUM]
@@ -2399,7 +2399,7 @@ items:
     listOrder: 13700
     throwRange: 20
   - type: STR_PROXIMITY_GRENADE            #4007
-    categories: [ STR_CAT_GRENADES, STR_CAT_TACTICAL]
+    categories: [STR_CAT_GRENADES, STR_CAT_TACTICAL]
     requiresBuyBaseFunc: [IMPERIUM]
     size: 0.1
     costBuy: 15000
@@ -2417,7 +2417,7 @@ items:
     listOrder: 13800
     throwRange: 20
   - type: STR_HAYWIRE_MINE            #4007
-    categories: [ STR_CAT_GRENADES, STR_CAT_TACTICAL]
+    categories: [STR_CAT_GRENADES, STR_CAT_TACTICAL]
     size: 0.1
     weight: 20
     bigSprite: 657
@@ -2493,7 +2493,7 @@ items:
     specialIconSprite: 10
     specialUseEmptyHand: false
   - type: STR_HIGH_EXPLOSIVE #melta bomb    4009
-    categories: [ STR_CAT_GRENADES, STR_CAT_TACTICAL]
+    categories: [STR_CAT_GRENADES, STR_CAT_TACTICAL]
     requiresBuyBaseFunc: [IMPERIUM]
     requiresBuy: #what tech is required for the item to be visible in the Hire/Purchase screen.
       - STR_MELTABOMB
@@ -2517,7 +2517,7 @@ items:
     listOrder: 14000
     throwRange: 20
   - type: STR_ALIEN_GRENADE                #4010
-    categories: [ STR_CAT_GRENADES, STR_CAT_TACTICAL]
+    categories: [STR_CAT_GRENADES, STR_CAT_TACTICAL]
     requires:
       - STR_ALIENS_ONLY
       - STR_ALIEN_GRENADE
@@ -2534,7 +2534,7 @@ items:
     listOrder: 15300
     throwRange: 20
   - type: STR_MGRENADE #melta grenade      #4008
-    categories: [ STR_CAT_GRENADES, STR_CAT_TACTICAL]
+    categories: [STR_CAT_GRENADES, STR_CAT_TACTICAL]
     requiresBuyBaseFunc: [IMPERIUM]
     size: 0.1
     weight: 4
@@ -2555,7 +2555,7 @@ items:
     listOrder: 13900
     throwRange: 20
   - type: STR_GRENADE #frag                #4006
-    categories: [ STR_CAT_GRENADES, STR_CAT_TACTICAL]
+    categories: [STR_CAT_GRENADES, STR_CAT_TACTICAL]
     requiresBuyBaseFunc: [IMPERIUM]
     size: 0.1
     costBuy: 10000
@@ -2574,7 +2574,7 @@ items:
     throwRange: 20
   - type: STR_KRAK_GRENADE #krak
     requiresBuyBaseFunc: [IMPERIUM]
-    categories: [ STR_CAT_GRENADES, STR_CAT_TACTICAL]
+    categories: [STR_CAT_GRENADES, STR_CAT_TACTICAL]
     size: 0.1
     costBuy: 12000
     costSell: 6000
@@ -2651,7 +2651,7 @@ items:
     meleeSound: 753 #753 Powerswrod miss
     meleeHitSound: 754 #744 Powerswrod hit
     power: 140
-    damageAlter:     #DA POWER
+    damageAlter:    #DA POWER
       ArmorEffectiveness: 0.7
       ToArmorPre: 0.2
       ToHealth: 0.9
@@ -2743,7 +2743,7 @@ items:
     clipSize: 4
     recover: false
   - type: FLAMER_WEAPON
-    categories: [ STR_CAT_FLAMER, STR_CAT_TACTICAL]
+    categories: [STR_CAT_FLAMER, STR_CAT_TACTICAL]
     weight: 0
     vaporColorSurface: 0
     vaporDensitySurface: 4
@@ -3429,7 +3429,7 @@ items:
     attraction: 1
     listOrder: 10400
   - type: STR_MCSHOTGUN #                     10700                   MC
-    categories: [ STR_CAT_SHOTGUN, STR_CAT_SCOUT]
+    categories: [STR_CAT_SHOTGUN, STR_CAT_SCOUT]
     size: 0.2
     costSell: 5000
     weight: 7
@@ -3786,7 +3786,7 @@ items:
     attraction: 0
 #--- ELDAR  ------------------------------------------------------      dropoff: 5
   - type: STR_ELDAR_LAUNCHER #                       12100                                  AIMED
-    categories: [ STR_CAT_ELDAR, STR_CAT_DEVASTATOR]
+    categories: [STR_CAT_ELDAR, STR_CAT_DEVASTATOR]
     requiresBuyBaseFunc: [ELDAROUT]
     requires:
       - STR_ELDAR_PATH
@@ -3823,7 +3823,7 @@ items:
       - STR_CATAPULT_PISTOL
     size: 0.2
     dropoff: 5
-    costBuy:  3500
+    costBuy: 3500
     costSell: 1000
     weight: 15
     bigSprite: 390
@@ -3854,7 +3854,7 @@ items:
       - STR_CATAPULT
     size: 0.3
     dropoff: 5
-    costBuy:  6000
+    costBuy: 6000
     costSell: 2750
     weight: 20
     bigSprite: 391
@@ -3885,7 +3885,7 @@ items:
     requiresBuy:
       - STR_SHURIKEN_CLIP
     size: 0.1
-    costBuy:  500
+    costBuy: 500
     costSell: 250
     weight: 2
     bigSprite: 393
@@ -3966,7 +3966,7 @@ items:
     requiresBuy:
       - STR_EPOWER_SWORD
     size: 0.2
-    costBuy:  50000
+    costBuy: 50000
     costSell: 15000
     weight: 10
     bigSprite: 392
@@ -3976,7 +3976,7 @@ items:
     meleeSound: 753 #753 Powerswrod miss
     meleeHitSound: 754 #744 Powerswrod hit
     power: 110
-    damageAlter:     #DA POWER
+    damageAlter:    #DA POWER
       ArmorEffectiveness: 0.7
       ToArmorPre: 0.2
       ToHealth: 0.9
@@ -3998,7 +3998,7 @@ items:
     attraction: 8
     listOrder: 16300
   - type: STR_ELDAR_MGRENADE #melta grenade         16310
-    categories: [ STR_CAT_GRENADES, STR_CAT_TACTICAL, STR_CAT_ELDAR]
+    categories: [STR_CAT_GRENADES, STR_CAT_TACTICAL, STR_CAT_ELDAR]
     requiresBuyBaseFunc: [ELDAROUT]
     requires:
       - STR_ELDAR_PATH
@@ -4006,7 +4006,7 @@ items:
       - STR_ELDAR_MGRENADE
     size: 0.1
     weight: 4
-    costBuy:  50000
+    costBuy: 50000
     costSell: 15000
     bigSprite: 398
     floorSprite: 253
@@ -4024,14 +4024,14 @@ items:
     listOrder: 16310
     throwRange: 20
   - type: STR_ELDAR_GRENADE #Eldar Granade          16320
-    categories: [ STR_CAT_GRENADES, STR_CAT_TACTICAL, STR_CAT_ELDAR]
+    categories: [STR_CAT_GRENADES, STR_CAT_TACTICAL, STR_CAT_ELDAR]
     requiresBuyBaseFunc: [ELDAROUT]
     requires:
       - STR_ELDAR_PATH
     requiresBuy:
       - STR_ELDAR_GRENADE
     size: 0.1
-    costBuy:  20000
+    costBuy: 20000
     costSell: 5000
     weight: 4
     bigSprite: 397
@@ -4058,7 +4058,7 @@ items:
     requiresBuy:
       - STR_ELDAR_CHAINSWORD
     size: 0.2
-    costBuy:  30000
+    costBuy: 30000
     costSell: 15000
     weight: 15
     bigSprite: 404
@@ -4350,7 +4350,7 @@ items:
     attraction: 1
     listOrder: 17030
   - type: STR_ORK_GRENADE #ORK Granade  17100
-    categories: [ STR_CAT_GRENADES, STR_CAT_TACTICAL, STR_CAT_ORK]
+    categories: [STR_CAT_GRENADES, STR_CAT_TACTICAL, STR_CAT_ORK]
     size: 0.1
     costSell: 2000
     weight: 4
@@ -4422,7 +4422,7 @@ items:
     invHeight: 3
     listOrder: 17060
   - type: STR_ORK_RL #                       17070                                 AIMED
-    categories: [ STR_CAT_ROCKETL, STR_CAT_DEVASTATOR, STR_CAT_ORK]
+    categories: [STR_CAT_ROCKETL, STR_CAT_DEVASTATOR, STR_CAT_ORK]
     size: 0.4
     dropoff: 5
     costSell: 3000
@@ -4489,7 +4489,7 @@ items:
     meleeSound: 753 #753 Powerswrod miss
     meleeHitSound: 754 #744 Powerswrod hit
     power: 110
-    damageAlter:     #DA POWER
+    damageAlter:    #DA POWER
       ArmorEffectiveness: 0.7
       ToArmorPre: 0.2
       ToHealth: 0.9
@@ -5667,7 +5667,7 @@ items:
       flatHundred: 0.0
     listOrder: 12800
   - type: STR_BANNER #             30600
-    categories: [ STR_CAT_EQUIPMENT]
+    categories: [STR_CAT_EQUIPMENT]
     requiresBuy:
       - STR_MARINES_STRATEGY
     requiresBuyBaseFunc: [IMPERIUM]
@@ -5729,7 +5729,7 @@ items:
     meleeHitSound: 772 # 772 powerfist hit
     meleeAnimation: 28 # 28 bolt anitmation
     power: 100
-    damageAlter:     #DA POWER
+    damageAlter:    #DA POWER
       ArmorEffectiveness: 0.7
       ToArmorPre: 0.2
       ToHealth: 0.9
@@ -5829,7 +5829,7 @@ items:
     meleeSound: 753 #753 Powerswrod miss
     meleeHitSound: 743 #743 T hammer Hit
     power: 130
-    damageAlter:     #DA POWER
+    damageAlter:    #DA POWER
       ArmorEffectiveness: 0.7
       ToArmorPre: 0.2
       ToHealth: 0.9
@@ -5892,7 +5892,7 @@ items:
     meleeSound: 753 #753 Powerswrod miss
     meleeHitSound: 754 #744 Powerswrod hit
     power: 140
-    damageAlter:     #DA POWER
+    damageAlter:    #DA POWER
       ArmorEffectiveness: 0.7
       ToArmorPre: 0.2
       ToHealth: 0.9
@@ -5928,7 +5928,7 @@ items:
     meleeSound: 753 #753 Powerswrod miss
     meleeHitSound: 754 #744 Powerswrod hit
     power: 140
-    damageAlter:     #DA POWER
+    damageAlter:    #DA POWER
       ArmorEffectiveness: 0.7
       ToArmorPre: 0.2
       ToHealth: 0.9
@@ -5961,7 +5961,7 @@ items:
     meleeSound: 753 #753 Powerswrod miss
     meleeHitSound: 754 #744 Powerswrod hit
     power: 140
-    damageAlter:     #DA POWER
+    damageAlter:    #DA POWER
       ArmorEffectiveness: 0.7
       ToArmorPre: 0.2
       ToHealth: 0.9
@@ -5996,7 +5996,7 @@ items:
     meleeSound: 753 #753 Powerswrod miss
     meleeHitSound: 754 #744 Powerswrod hit
     power: 140
-    damageAlter:     #DA POWER
+    damageAlter:    #DA POWER
       ArmorEffectiveness: 0.7
       ToArmorPre: 0.2
       ToHealth: 0.9
@@ -6032,7 +6032,7 @@ items:
     meleeSound: 753 #753 Powerswrod miss
     meleeHitSound: 754 #744 Powerswrod hit
     power: 120
-    damageAlter:     #DA POWER
+    damageAlter:    #DA POWER
       ArmorEffectiveness: 0.7
       ToArmorPre: 0.2
       ToHealth: 0.9
@@ -6068,7 +6068,7 @@ items:
     meleeSound: 753 #753 Powerswrod miss
     meleeHitSound: 754 #744 Powerswrod hit
     power: 110
-    damageAlter:     #DA POWER
+    damageAlter:    #DA POWER
       ArmorEffectiveness: 0.7
       ToArmorPre: 0.2
       ToHealth: 0.9
@@ -6170,7 +6170,7 @@ items:
     damageBonus:
       strength: 0.3
       melee: 0.5
-    damageAlter:     #DA POWER
+    damageAlter:    #DA POWER
       ArmorEffectiveness: 0.7
       ToArmorPre: 0.2
       ToHealth: 0.9
@@ -6202,7 +6202,7 @@ items:
     damageBonus:
       strength: 0.3
       melee: 0.5
-    damageAlter:     #DA POWER
+    damageAlter:    #DA POWER
       ArmorEffectiveness: 0.7
       ToArmorPre: 0.2
       ToHealth: 0.9
@@ -6234,7 +6234,7 @@ items:
     damageBonus:
       strength: 0.3
       melee: 0.3
-    damageAlter:     #DA POWER
+    damageAlter:    #DA POWER
       ArmorEffectiveness: 0.7
       ToArmorPre: 0.2
       ToHealth: 0.9
@@ -6267,7 +6267,7 @@ items:
     damageBonus:
       strength: 0.3
       melee: 0.3
-    damageAlter:     #DA POWER
+    damageAlter:    #DA POWER
       ArmorEffectiveness: 0.7
       ToArmorPre: 0.2
       ToHealth: 0.9
@@ -6296,7 +6296,7 @@ items:
     clipSize: -1
     strengthApplied: false
     power: 120
-    damageAlter:     #DA POWER
+    damageAlter:    #DA POWER
       ArmorEffectiveness: 0.7
       ToArmorPre: 0.2
       ToHealth: 0.9
@@ -6997,7 +6997,7 @@ items:
     listOrder: 13310
 #---Tatical------------------------------------------------------      dropoff: 5
   - type: STR_SHOTGUN #                               10600
-    categories: [ STR_CAT_SHOTGUN, STR_CAT_SCOUT]
+    categories: [STR_CAT_SHOTGUN, STR_CAT_SCOUT]
     requiresBuyBaseFunc: [IMPERIUM]
     size: 0.2
     costBuy: 10000
@@ -7051,7 +7051,7 @@ items:
     snapRange: 8
     dropoff: 5
   - type: STR_SHOTGUN_SHELLS #                        10710
-    categories: [ STR_CAT_SHOTGUN, STR_CAT_SCOUT]
+    categories: [STR_CAT_SHOTGUN, STR_CAT_SCOUT]
     requiresBuyBaseFunc: [IMPERIUM]
     shotgunBehavior: 1   #*** makes the shotgun a bit more useful at range bit tightening the spread ***
     shotgunSpread: 25
@@ -7071,7 +7071,7 @@ items:
     listOrder: 10710
     shotgunPellets: 6
   - type: STR_FLAMETHROWER #                          10500
-    categories: [ STR_CAT_FLAMER, STR_CAT_TACTICAL]
+    categories: [STR_CAT_FLAMER, STR_CAT_TACTICAL]
     requiresBuyBaseFunc: [IMPERIUM]
     size: 0.2
     costBuy: 8000
@@ -7098,7 +7098,7 @@ items:
     attraction: 7
     listOrder: 10500
   - type: STR_FLAMETHROWER_CHAOS #                     10505
-    categories: [ STR_CAT_FLAMER, STR_CAT_TACTICAL, STR_CAT_CHAOS]
+    categories: [STR_CAT_FLAMER, STR_CAT_TACTICAL, STR_CAT_CHAOS]
     requires:
       - STR_ALIENS_ONLY
     size: 0.2
@@ -7126,7 +7126,7 @@ items:
     attraction: 7
     listOrder: 10505
   - type: STR_FLAMETHROWERTZ #                        10510   TZEENTCH
-    categories: [ STR_CAT_FLAMER, STR_CAT_TACTICAL, STR_CAT_CHAOS]
+    categories: [STR_CAT_FLAMER, STR_CAT_TACTICAL, STR_CAT_CHAOS]
     requires:
       - STR_ALIENS_ONLY
     size: 0.2
@@ -7155,7 +7155,7 @@ items:
     attraction: 7
     listOrder: 10510
   - type: STR_FLAMETHROWER_CLIP #                     10520
-    categories: [ STR_CAT_FLAMER, STR_CAT_TACTICAL]
+    categories: [STR_CAT_FLAMER, STR_CAT_TACTICAL]
     requiresBuyBaseFunc: [IMPERIUM]
     size: 0.2
     costBuy: 500
@@ -7513,7 +7513,7 @@ items:
     invHeight: 1
     listOrder: 11930
   - type: STR_ROCKET_LAUNCHER #                       12100                                  AIMED
-    categories: [ STR_CAT_ROCKETL, STR_CAT_DEVASTATOR]
+    categories: [STR_CAT_ROCKETL, STR_CAT_DEVASTATOR]
     requiresBuyBaseFunc: [IMPERIUM]
     size: 0.4
     dropoff: 5
@@ -7540,7 +7540,7 @@ items:
     invHeight: 3
     listOrder: 12100
   - type: STR_CHAOS_ROCKET_LAUNCHER #                 12110
-    categories: [ STR_CAT_ROCKETL, STR_CAT_DEVASTATOR, STR_CAT_CHAOS]
+    categories: [STR_CAT_ROCKETL, STR_CAT_DEVASTATOR, STR_CAT_CHAOS]
     requires:
       - STR_ALIENS_ONLY
     size: 0.4
@@ -7568,7 +7568,7 @@ items:
     invHeight: 3
     listOrder: 12110
   - type: AUX_NURGLE_ROCKET_LAUNCHER #                12120
-    categories: [ STR_CAT_ROCKETL, STR_CAT_DEVASTATOR]
+    categories: [STR_CAT_ROCKETL, STR_CAT_DEVASTATOR]
     requires:
       - STR_ALIENS_ONLY
     size: 0.4
@@ -7598,7 +7598,7 @@ items:
     invHeight: 3
     listOrder: 12120
   - type: STR_SMALL_ROCKET #                          12130
-    categories: [ STR_CAT_ROCKETL, STR_CAT_DEVASTATOR]
+    categories: [STR_CAT_ROCKETL, STR_CAT_DEVASTATOR]
     requiresBuyBaseFunc: [IMPERIUM]
     size: 0.2
     costBuy: 6000
@@ -7618,7 +7618,7 @@ items:
     blastRadius: 10
     listOrder: 12130
   - type: STR_BLIGHT_ROCKET #                         12160
-    categories: [ STR_CAT_ROCKETL, STR_CAT_DEVASTATOR]
+    categories: [STR_CAT_ROCKETL, STR_CAT_DEVASTATOR]
     requires:
       - STR_ALIENS_ONLY
     size: 0.2
@@ -7646,7 +7646,7 @@ items:
     hitAnimation: 120 #Green EX
     listOrder: 12160
   - type: STR_LARGE_ROCKET #                          12140
-    categories: [ STR_CAT_ROCKETL, STR_CAT_DEVASTATOR]
+    categories: [STR_CAT_ROCKETL, STR_CAT_DEVASTATOR]
     requiresBuyBaseFunc: [IMPERIUM]
     size: 0.2
     costBuy: 9000
@@ -7667,7 +7667,7 @@ items:
     hitAnimation: 184
     listOrder: 12140
   - type: STR_INCENDIARY_ROCKET #                     12150
-    categories: [ STR_CAT_ROCKETL, STR_CAT_DEVASTATOR]
+    categories: [STR_CAT_ROCKETL, STR_CAT_DEVASTATOR]
     requiresBuyBaseFunc: [IMPERIUM]
     size: 0.2
     costBuy: 7200
@@ -9523,7 +9523,7 @@ items:
     fixedWeapon: true
     bulletSpeed: 50
   - type: AUX_DREAD_FLAMER   #dread Flamer Palm
-    categories: [ STR_CAT_FLAMER, STR_CAT_TACTICAL]
+    categories: [STR_CAT_FLAMER, STR_CAT_TACTICAL]
     weight: 1
     bigSprite: 198
     bulletSprite: 5
@@ -9758,7 +9758,7 @@ items:
       RadiusReduction: 0.0
       FireThreshold: 500         #how much damage is required to spawn fire on unit (after armor and ToHealth) or tile. Default `0` for fire, `1000.0` for rest.
       SmokeThreshold: 500        #how much damage is required to spawn smoke on tile. Default `0.0` for smoke, `1000.0` for rest.
-    recover: True
+    recover: true
   - type: STR_MONK_ARMOR_CORPSE
     name: STR_CORPSE
     weight: 20
@@ -13209,13 +13209,14 @@ items:
   - type: CHRYSSALID_WEAPON
 #    bigSprite: 372
 #    meleeSound: 833
-    zombieUnitByArmorMale: { STR_JARMOR_UCM: STR_MARINE_ZOMBIE_TACTICAL_M, STR_JARMORH_UC: STR_MARINE_ZOMBIE_TACTICAL_M,
+    zombieUnitByArmorMale: {
+      STR_JARMOR_UCM: STR_MARINE_ZOMBIE_TACTICAL_M, STR_JARMORH_UC: STR_MARINE_ZOMBIE_TACTICAL_M,
       STR_JARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_M, STR_LIB_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_M, STR_SIGNAL_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_M,
       STR_PERSONAL_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_M, STR_SCOUT_UC: STR_MARINE_ZOMBIE_SCOUT_M, STR_SCOUTH_UC: STR_MARINE_ZOMBIE_SCOUT_M,
       STR_FLYING_SUIT_UC: STR_MARINE_ZOMBIE_TER_M, STR_CAPTAIN_UC: STR_MARINE_ZOMBIE_TER_M, STR_TSARGENT_UC: STR_MARINE_ZOMBIE_TER_M,
       STR_POWER_SUIT_UC: STR_MARINE_ZOMBIE_TER_M, STR_SCOUTHG_UC: STR_MARINE_ZOMBIE_SCOUT_M, STR_SCOUTHY_UC: STR_MARINE_ZOMBIE_SCOUT_M,
       STR_SCOUTHB_UC: STR_MARINE_ZOMBIE_SCOUT_M, STR_SCOUTHR_UC: STR_MARINE_ZOMBIE_SCOUT_M, STR_SCOUTHW_UC: STR_MARINE_ZOMBIE_SCOUT_M,
-      STR_HONOR_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_M,STR_ASS_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_M, STR_DEV_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_M,
+      STR_HONOR_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_M, STR_ASS_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_M, STR_DEV_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_M,
       STR_SARGENT_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_M, STR_TECH_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_M, STR_APOT_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_M,
       STR_ASS_ARMOR_HONOR_UC: STR_MARINE_ZOMBIE_TACTICAL_M,
       STR_PERSONAL_ARMOR_CIVILIAN: STR_MARINE_ZOMBIE_TACTICAL_M,
@@ -13279,13 +13280,14 @@ items:
       STR_MKX_DW_PHB_ULTRA_UC: STR_PRIMARIS_ZOMBIE_DW_PHB, STR_MKX_DW_PHB_IF_UC: STR_PRIMARIS_ZOMBIE_DW_PHB, STR_MKX_DW_PHB_BA_UC: STR_PRIMARIS_ZOMBIE_DW_PHB, STR_MKX_DW_PHB_SALA_UC: STR_PRIMARIS_ZOMBIE_DW_PHB, STR_MKX_DW_PHB_BT_UC: STR_PRIMARIS_ZOMBIE_DW_PHB, STR_MKX_DW_PHB_WS_UC: STR_PRIMARIS_ZOMBIE_DW_PHB, STR_MKX_DW_PHB_SW_UC: STR_PRIMARIS_ZOMBIE_DW_PHB, STR_MKX_DW_PHB_DA_UC: STR_PRIMARIS_ZOMBIE_DW_PHB, STR_MKX_DW_PHB_CF_UC: STR_PRIMARIS_ZOMBIE_DW_PHB,
       STR_MKX_DW_GRV_ULTRA_UC: STR_PRIMARIS_ZOMBIE_DW_GRV, STR_MKX_DW_GRV_IF_UC: STR_PRIMARIS_ZOMBIE_DW_GRV, STR_MKX_DW_GRV_BA_UC: STR_PRIMARIS_ZOMBIE_DW_GRV, STR_MKX_DW_GRV_SALA_UC: STR_PRIMARIS_ZOMBIE_DW_GRV, STR_MKX_DW_GRV_BT_UC: STR_PRIMARIS_ZOMBIE_DW_GRV, STR_MKX_DW_GRV_WS_UC: STR_PRIMARIS_ZOMBIE_DW_GRV, STR_MKX_DW_GRV_SW_UC: STR_PRIMARIS_ZOMBIE_DW_GRV, STR_MKX_DW_GRV_DA_UC: STR_PRIMARIS_ZOMBIE_DW_GRV, STR_MKX_DW_GRV_CF_UC: STR_PRIMARIS_ZOMBIE_DW_GRV,
       STR_MKX_DW_INC_ULTRA_UC: STR_PRIMARIS_ZOMBIE_DW_INC, STR_MKX_DW_INC_IF_UC: STR_PRIMARIS_ZOMBIE_DW_INC, STR_MKX_DW_INC_BA_UC: STR_PRIMARIS_ZOMBIE_DW_INC, STR_MKX_DW_INC_SALA_UC: STR_PRIMARIS_ZOMBIE_DW_INC, STR_MKX_DW_INC_BT_UC: STR_PRIMARIS_ZOMBIE_DW_INC, STR_MKX_DW_INC_WS_UC: STR_PRIMARIS_ZOMBIE_DW_INC, STR_MKX_DW_INC_SW_UC: STR_PRIMARIS_ZOMBIE_DW_INC, STR_MKX_DW_INC_DA_UC: STR_PRIMARIS_ZOMBIE_DW_INC, STR_MKX_DW_INC_CF_UC: STR_PRIMARIS_ZOMBIE_DW_INC,
-      }
+    }
 
 
-    zombieUnitByArmorFemale: { STR_JARMOR_UCM: STR_MARINE_ZOMBIE_TACTICAL_F, STR_JARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_F, STR_PERSONAL_ARMOR_CIVILIAN: STR_MARINE_ZOMBIE_TACTICAL_F,
+    zombieUnitByArmorFemale: {
+      STR_JARMOR_UCM: STR_MARINE_ZOMBIE_TACTICAL_F, STR_JARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_F, STR_PERSONAL_ARMOR_CIVILIAN: STR_MARINE_ZOMBIE_TACTICAL_F,
       STR_JARMORH_UC: STR_MARINE_ZOMBIE_TACTICAL_F, STR_SCOUTHW_UC: STR_MARINE_ZOMBIE_SCOUT_F, STR_SCOUTH_UC: STR_MARINE_ZOMBIE_SCOUT_F, STR_SCOUT_UC: STR_MARINE_ZOMBIE_SCOUT_F,
-      STR_SCOUTHB_UC: STR_MARINE_ZOMBIE_SCOUT_F, STR_SCOUTHR_UC: STR_MARINE_ZOMBIE_SCOUT_F, STR_SCOUTHY_UC: STR_MARINE_ZOMBIE_SCOUT_F,STR_SCOUTHG_UC: STR_MARINE_ZOMBIE_SCOUT_F,
-      STR_FLYING_SUIT_UC: STR_MARINE_ZOMBIE_TER_F,STR_CAPTAIN_UC: STR_MARINE_ZOMBIE_TER_F, STR_TSARGENT_UC: STR_MARINE_ZOMBIE_TER_F, STR_POWER_SUIT_UC: STR_MARINE_ZOMBIE_TER_F,
+      STR_SCOUTHB_UC: STR_MARINE_ZOMBIE_SCOUT_F, STR_SCOUTHR_UC: STR_MARINE_ZOMBIE_SCOUT_F, STR_SCOUTHY_UC: STR_MARINE_ZOMBIE_SCOUT_F, STR_SCOUTHG_UC: STR_MARINE_ZOMBIE_SCOUT_F,
+      STR_FLYING_SUIT_UC: STR_MARINE_ZOMBIE_TER_F, STR_CAPTAIN_UC: STR_MARINE_ZOMBIE_TER_F, STR_TSARGENT_UC: STR_MARINE_ZOMBIE_TER_F, STR_POWER_SUIT_UC: STR_MARINE_ZOMBIE_TER_F,
       STR_HONOR_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_F, STR_DEV_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_F, STR_LIB_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_F,
       STR_SIGNAL_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_F, STR_PERSONAL_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_F, STR_ASS_ARMOR_HONOR_UC: STR_MARINE_ZOMBIE_TACTICAL_F,
       STR_ASS_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_F, STR_APOT_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_F, STR_TECH_ARMOR_UC: STR_MARINE_ZOMBIE_TACTICAL_F,
@@ -13350,4 +13352,4 @@ items:
       STR_MKX_DW_PHB_ULTRA_UC: STR_PRIMARIS_ZOMBIE_DW_PHB, STR_MKX_DW_PHB_IF_UC: STR_PRIMARIS_ZOMBIE_DW_PHB, STR_MKX_DW_PHB_BA_UC: STR_PRIMARIS_ZOMBIE_DW_PHB, STR_MKX_DW_PHB_SALA_UC: STR_PRIMARIS_ZOMBIE_DW_PHB, STR_MKX_DW_PHB_BT_UC: STR_PRIMARIS_ZOMBIE_DW_PHB, STR_MKX_DW_PHB_WS_UC: STR_PRIMARIS_ZOMBIE_DW_PHB, STR_MKX_DW_PHB_SW_UC: STR_PRIMARIS_ZOMBIE_DW_PHB, STR_MKX_DW_PHB_DA_UC: STR_PRIMARIS_ZOMBIE_DW_PHB, STR_MKX_DW_PHB_CF_UC: STR_PRIMARIS_ZOMBIE_DW_PHB,
       STR_MKX_DW_GRV_ULTRA_UC: STR_PRIMARIS_ZOMBIE_DW_GRV, STR_MKX_DW_GRV_IF_UC: STR_PRIMARIS_ZOMBIE_DW_GRV, STR_MKX_DW_GRV_BA_UC: STR_PRIMARIS_ZOMBIE_DW_GRV, STR_MKX_DW_GRV_SALA_UC: STR_PRIMARIS_ZOMBIE_DW_GRV, STR_MKX_DW_GRV_BT_UC: STR_PRIMARIS_ZOMBIE_DW_GRV, STR_MKX_DW_GRV_WS_UC: STR_PRIMARIS_ZOMBIE_DW_GRV, STR_MKX_DW_GRV_SW_UC: STR_PRIMARIS_ZOMBIE_DW_GRV, STR_MKX_DW_GRV_DA_UC: STR_PRIMARIS_ZOMBIE_DW_GRV, STR_MKX_DW_GRV_CF_UC: STR_PRIMARIS_ZOMBIE_DW_GRV,
       STR_MKX_DW_INC_ULTRA_UC: STR_PRIMARIS_ZOMBIE_DW_INC, STR_MKX_DW_INC_IF_UC: STR_PRIMARIS_ZOMBIE_DW_INC, STR_MKX_DW_INC_BA_UC: STR_PRIMARIS_ZOMBIE_DW_INC, STR_MKX_DW_INC_SALA_UC: STR_PRIMARIS_ZOMBIE_DW_INC, STR_MKX_DW_INC_BT_UC: STR_PRIMARIS_ZOMBIE_DW_INC, STR_MKX_DW_INC_WS_UC: STR_PRIMARIS_ZOMBIE_DW_INC, STR_MKX_DW_INC_SW_UC: STR_PRIMARIS_ZOMBIE_DW_INC, STR_MKX_DW_INC_DA_UC: STR_PRIMARIS_ZOMBIE_DW_INC, STR_MKX_DW_INC_CF_UC: STR_PRIMARIS_ZOMBIE_DW_INC,
-      }
+    }

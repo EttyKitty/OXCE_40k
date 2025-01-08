@@ -271,7 +271,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.2 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
   - type: STR_JUDGE_BIKE_ARMOR_UC            #BIKE
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -281,17 +281,17 @@ armors:
     storeItem: STR_JUDGE_BIKE_ARMOR
     corpseGeo: STR_FALLEN_CORPSE
     stats:
-       tu: 50
-       stamina: 50
-       firing: 0
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       throwing: 0
-       strength: 0
-       psiStrength: 0
-       psiSkill: 0
-       melee: 0
+      tu: 50
+      stamina: 50
+      firing: 0
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      throwing: 0
+      strength: 0
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
     corpseBattle:
       - 11_BIKE1
       - 11_BIKE2
@@ -309,7 +309,7 @@ armors:
     spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163, 96, 96, 96, 96, 96, 96, 96, 96, 160, 160, 163, 163] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5 M6 F6 M7 F7 M8 F8 M9 F9
     spriteHairGroup: 9
     spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96, 144, 144, 164, 164, 245, 245, 166, 166] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5 M6 F6 M7 F7 M8 F8 M9 F9
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
       1: JUDGE
     layersDefinition:
@@ -346,7 +346,7 @@ armors:
       - 0.0 #SMOKE
       - 0.0 #IMPACT
       - 1.2 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 5
     builtInWeapons:
       - AUX_ARBITES_OUTBOLTER
@@ -362,7 +362,7 @@ armors:
     fearImmune: true
     painImmune: true
     spriteInv: D
-    corpseGeo:  STR_DREAD_CORPSE
+    corpseGeo: STR_DREAD_CORPSE
     corpseBattle:
       - O_CORPSE
       - O_CORPSE
@@ -388,7 +388,7 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.2 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     specialWeapon: AUX_AIRSTRIKE
     drawingRoutine: 3
   - type: TAUROXPD_ARMOR
@@ -401,7 +401,7 @@ armors:
     fearImmune: true
     painImmune: true
     spriteInv: NOTDONEIMP
-    corpseGeo:  STR_PREDATOR_CORPSE
+    corpseGeo: STR_PREDATOR_CORPSE
     corpseBattle:
       - 11_TAUROX
       - 11_TAUROX2
@@ -425,7 +425,7 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.2 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 3
   - type: WHIRLWINDPD_ARMOR
     spriteSheet: WWPD.PCK
@@ -435,7 +435,7 @@ armors:
     fearImmune: true
     painImmune: true
     spriteInv: CHIMPDH.SPK
-    corpseGeo:  STR_DREAD_CORPSE
+    corpseGeo: STR_DREAD_CORPSE
     corpseBattle:
       - 16_WHIRLWINDPD
       - 16_WHIRLWINDPD2
@@ -459,7 +459,7 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.2 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 3
   - type: THUNDERFIRE_ARMOR
     spriteSheet: THUNDERFIRE.PCK
@@ -487,7 +487,7 @@ armors:
       - 0.8
       - 1.2
       - 0.0
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 5
     moveSound: 14
     builtInWeapons:
@@ -522,17 +522,17 @@ armors:
     deathMale: [859, 860]
     deathFemale: [859, 860]
     stats:
-       tu: 20
-       stamina: 20
-       firing: 0
-       health: 50
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       throwing: 0
-       strength: 0
-       psiStrength: 0
-       psiSkill: 0
-       melee: 0
+      tu: 20
+      stamina: 20
+      firing: 0
+      health: 50
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      throwing: 0
+      strength: 0
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
     units:
       - STR_GUARDPD
     damageModifier: #VEHICLE ARMOR LARGE
@@ -548,7 +548,7 @@ armors:
       - 0.0 #SMOKE
       - 0.0 #IMPACT
       - 1.2 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 5
     builtInWeapons:
       - STR_SENTINELPD_MISSILE_LAUNCHER
@@ -568,7 +568,7 @@ armors:
     spriteInv: PDS
     customArmorPreviewIndex: [134, 135, 136]
     storeItem: STR_SENTINELPD_ARMOR
-    corpseGeo:  STR_BIKE_CORPSE
+    corpseGeo: STR_BIKE_CORPSE
     corpseBattle:
       - 10_SENT1
       - 10_SENT2
@@ -583,17 +583,17 @@ armors:
     deathMale: [859, 860]
     deathFemale: [859, 860]
     stats:
-       tu: 20
-       stamina: 20
-       firing: 0
-       health: 50
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       throwing: 0
-       strength: 0
-       psiStrength: 0
-       psiSkill: 0
-       melee: 0
+      tu: 20
+      stamina: 20
+      firing: 0
+      health: 50
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      throwing: 0
+      strength: 0
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
     units:
       - STR_GUARDPD
     damageModifier: #VEHICLE ARMOR LARGE
@@ -609,7 +609,7 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.2 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 5
     builtInWeapons:
       - STR_SLASCANPD
@@ -631,7 +631,7 @@ armors:
     rearArmor: 16
     underArmor: 12
     stats:
-       bravery: -20 #always multiples of 10
+      bravery: -20 #always multiples of 10
     damageModifier: #GUARD ARMOR
       - 1.0 #none
       - 1.0 #AP
@@ -651,7 +651,7 @@ armors:
     spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163, 96, 96, 96, 96, 96, 96, 96, 96, 160, 160, 163, 163] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5 M6 F6 M7 F7 M8 F8 M9 F9
     spriteHairGroup: 9
     spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96, 144, 144, 164, 164, 245, 245, 166, 166] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5 M6 F6 M7 F7 M8 F8 M9 F9
-    layersDefaultPrefix: 20
+    layersDefaultPrefix: "20"
     layersSpecificPrefix:
       20: PENAL
     layersDefinition:
@@ -675,7 +675,7 @@ armors:
       F7: ["0", "PENALF", "F7_FACE"]
       F8: ["0", "PENALFC", "F8_FACE"]
       F9: ["0", "PENALFB", "F9_FACE"]
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     drawingRoutine: 0
   - type: STR_GUARDPD_ARMOR_UC #DR10 ARBITES SUPORT
     ufopediaType: STR_GUARD_ARMORSM
@@ -696,10 +696,10 @@ armors:
     rearArmor: 16
     underArmor: 12
     stats:
-       tu: 10
-       stamina: 10
-       bravery: -10 #always multiples of 10
-       strength: 0
+      tu: 10
+      stamina: 10
+      bravery: -10 #always multiples of 10
+      strength: 0
     drawingRoutine: 0
     damageModifier: #GUARD ARMOR
       - 1.0 #none
@@ -716,7 +716,7 @@ armors:
       - 1.0 #MELTA
     units:
       - STR_GUARDPD
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
   - type: STR_GUARDPDMEDIC_ARMOR_UC #DR10 ARBITES SUPORT
     ufopediaType: STR_GUARD_ARMORS_MEDIC_UC
     visibilityAtDay: 40
@@ -736,10 +736,10 @@ armors:
     rearArmor: 16
     underArmor: 12
     stats:
-       tu: 10
-       stamina: 10
-       bravery: -10 #always multiples of 10
-       strength: 0
+      tu: 10
+      stamina: 10
+      bravery: -10 #always multiples of 10
+      strength: 0
     drawingRoutine: 0
     damageModifier: #GUARD ARMOR
       - 1.0 #none
@@ -756,7 +756,7 @@ armors:
       - 1.0 #MELTA
     units:
       - STR_GUARDPD
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     specialWeapon: STR_GUARD_MEDI_KIT
     builtInWeapons:
       - INV_NULL_MEDI_KIT
@@ -778,10 +778,10 @@ armors:
     rearArmor: 40
     underArmor: 40
     stats:
-       tu: 10
-       stamina: 10
-       bravery: 0 #always multiples of 10
-       strength: 0
+      tu: 10
+      stamina: 10
+      bravery: 0 #always multiples of 10
+      strength: 0
     drawingRoutine: 0
     damageModifier: #GUARD ARMOR
       - 1.0 #none
@@ -798,7 +798,7 @@ armors:
       - 1.0 #MELTA
     units:
       - STR_GUARDPD
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
       1: ENF
     layersDefinition:
@@ -822,7 +822,7 @@ armors:
       F7: ["0", "EF", "F7_FACE"]
       F8: ["0", "EFC", "F8_FACE"]
       F9: ["0", "EFB", "F9_FACE"]
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
 
   - type: STR_ENFORCER_MEDIC_ARMOR_UC #DR10 ARBITES SUPORT
     visibilityAtDay: 40
@@ -842,10 +842,10 @@ armors:
     rearArmor: 40
     underArmor: 40
     stats:
-       tu: 10
-       stamina: 10
-       bravery: 0 #always multiples of 10
-       strength: 0
+      tu: 10
+      stamina: 10
+      bravery: 0 #always multiples of 10
+      strength: 0
     drawingRoutine: 0
     damageModifier: #GUARD ARMOR
       - 1.0 #none
@@ -862,7 +862,7 @@ armors:
       - 1.0 #MELTA
     units:
       - STR_GUARDPD
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
       1: ENF
     layersDefinition:
@@ -886,7 +886,7 @@ armors:
       F7: ["0", "EFAM", "F7_FACE"]
       F8: ["0", "EFCM", "F8_FACE"]
       F9: ["0", "EFBM", "F9_FACE"]
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     specialWeapon: STR_GUARD_MEDI_KIT
     builtInWeapons:
       - INV_NULL_MEDI_KIT
@@ -908,10 +908,10 @@ armors:
     rearArmor: 40
     underArmor: 40
     stats:
-       tu: 10
-       stamina: 10
-       bravery: 0 #always multiples of 10
-       strength: 0
+      tu: 10
+      stamina: 10
+      bravery: 0 #always multiples of 10
+      strength: 0
     drawingRoutine: 0
     damageModifier: #GUARD ARMOR
       - 1.0 #none
@@ -928,7 +928,7 @@ armors:
       - 1.0 #MELTA
     units:
       - STR_GUARDPD
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
       1: ENF
     layersDefinition:
@@ -952,7 +952,7 @@ armors:
       F7: ["0", "EFAS", "F7_FACE"]
       F8: ["0", "EFCS", "F8_FACE"]
       F9: ["0", "EFBS", "F9_FACE"]
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     specialWeapon: AUX_AIRSTRIKE
     builtInWeapons:
       - INV_NULL_BACK_SIGNAL
@@ -974,10 +974,10 @@ armors:
     rearArmor: 40
     underArmor: 40
     stats:
-       tu: 10
-       stamina: 10
-       bravery: 0 #always multiples of 10
-       strength: 0
+      tu: 10
+      stamina: 10
+      bravery: 0 #always multiples of 10
+      strength: 0
     drawingRoutine: 0
     damageModifier: #GUARD ARMOR
       - 1.0 #none
@@ -994,7 +994,7 @@ armors:
       - 1.0 #MELTA
     units:
       - STR_GUARDPD
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
       1: ENF
     layersDefinition:
@@ -1018,7 +1018,7 @@ armors:
       F7: ["0", "EFAS", "F7_FACE"]
       F8: ["0", "EFCS", "F8_FACE"]
       F9: ["0", "EFBS", "F9_FACE"]
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     builtInWeapons:
       - INV_NULL_BACK_SIGNAL
   - type: STR_ENFORCER_HEAVY_ARMOR_UC #DR10 ARBITES SUPORT
@@ -1039,10 +1039,10 @@ armors:
     rearArmor: 50
     underArmor: 50
     stats:
-       tu: 0
-       stamina: 0
-       bravery: 0 #always multiples of 10
-       strength: 0
+      tu: 0
+      stamina: 0
+      bravery: 0 #always multiples of 10
+      strength: 0
     drawingRoutine: 0
     damageModifier: #GUARD ARMOR
       - 1.0 #none
@@ -1059,7 +1059,7 @@ armors:
       - 1.0 #MELTA
     units:
       - STR_GUARDPD
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
       1: ENF
     layersDefinition:
@@ -1083,7 +1083,7 @@ armors:
       F7: ["0", "EFH", "F7_FACE"]
       F8: ["0", "EFH", "F8_FACE"]
       F9: ["0", "EFH", "F9_FACE"]
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
   - type: STR_ENFORCER_SHIELD_ARMOR_UC #DR10 ARBITES SUPORT
     visibilityAtDay: 40
     visibilityAtDark: 9
@@ -1102,10 +1102,10 @@ armors:
     rearArmor: 50
     underArmor: 50
     stats:
-       tu: 0
-       stamina: 0
-       bravery: 0 #always multiples of 10
-       strength: 0
+      tu: 0
+      stamina: 0
+      bravery: 0 #always multiples of 10
+      strength: 0
     drawingRoutine: 0
     damageModifier: #GUARD ARMOR
       - 1.0 #none
@@ -1124,7 +1124,7 @@ armors:
       - STR_GUARDPD
     builtInWeapons:
       - AUX_SHIELDPD
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
       1: ENF
     layersDefinition:
@@ -1148,7 +1148,7 @@ armors:
       F7: ["0", "EFHS", "F7_FACE"]
       F8: ["0", "EFHS", "F8_FACE"]
       F9: ["0", "EFHS", "F9_FACE"]
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
   - type: STR_JUDGE_ARMOR_UC #JUDGE
     visibilityAtDay: 60
     visibilityAtDark: 60
@@ -1168,7 +1168,7 @@ armors:
     spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163, 96, 96, 96, 96, 96, 96, 96, 96, 160, 160, 163, 163] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5 M6 F6 M7 F7 M8 F8 M9 F9
     spriteHairGroup: 9
     spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96, 144, 144, 164, 164, 245, 245, 166, 166] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5 M6 F6 M7 F7 M8 F8 M9 F9
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
       1: JUDGE
     layersDefinition:
@@ -1192,7 +1192,7 @@ armors:
       F7: ["0", "JUDGEF", "F7_FACE"]
       F8: ["0", "JUDGEF", "F8_FACE"]
       F9: ["0", "JUDGEF", "F9_FACE"]
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     drawingRoutine: 0
   - type: STR_ARBITOR_ARMOR_UC #JUDGE
     tags:
@@ -1223,7 +1223,7 @@ armors:
     spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163, 96, 96, 96, 96, 96, 96, 96, 96, 160, 160, 163, 163] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5 M6 F6 M7 F7 M8 F8 M9 F9
     spriteHairGroup: 9
     spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96, 144, 144, 164, 164, 245, 245, 166, 166] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5 M6 F6 M7 F7 M8 F8 M9 F9
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
       1: JUDGE
     layersDefinition:
@@ -1247,7 +1247,7 @@ armors:
       F7: ["0", "JUDGEFA", "0"]
       F8: ["0", "JUDGEFA", "0"]
       F9: ["0", "JUDGEFA", "0"]
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     drawingRoutine: 0
   - type: STR_MARSHAL_ARMOR_UC #JUDGE
     tags:
@@ -1277,7 +1277,7 @@ armors:
     spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163, 96, 96, 96, 96, 96, 96, 96, 96, 160, 160, 163, 163] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5 M6 F6 M7 F7 M8 F8 M9 F9
     spriteHairGroup: 9
     spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96, 144, 144, 164, 164, 245, 245, 166, 166] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5 M6 F6 M7 F7 M8 F8 M9 F9
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
       1: JUDGE
     layersDefinition:
@@ -1301,7 +1301,7 @@ armors:
       F7: ["0", "JUDGEFM", "F7_FACE"]
       F8: ["0", "JUDGEFM", "F8_FACE"]
       F9: ["0", "JUDGEFM", "F9_FACE"]
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     drawingRoutine: 0
   - type: STR_CMAS_ARMOR
     visibilityAtDay: 60
@@ -1334,7 +1334,7 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
   - type: STR_CHIMERA_PD_ARMOR
     visibilityAtDay: 60
     visibilityAtDark: 60
@@ -1345,7 +1345,7 @@ armors:
     fearImmune: true
     painImmune: true
     spriteInv: CHIMPDB.SPK
-    corpseGeo:  STR_CHIMERA_TURRET_CORPSE
+    corpseGeo: STR_CHIMERA_TURRET_CORPSE
     corpseBattle:
       - 11_CHIMERA
       - 11_CHIMERA2
@@ -1369,7 +1369,7 @@ armors:
       - 0.0 #SMOKE
       - 0.0 #IMPACT
       - 1.2 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 3
     allowsKneeling: false
     allowsRunning: false
@@ -1414,7 +1414,7 @@ armors:
     fearImmune: true
     painImmune: true
     spriteInv: CHIMPD.SPK
-    corpseGeo:  STR_CHIMERA_TURRET_CORPSE
+    corpseGeo: STR_CHIMERA_TURRET_CORPSE
     corpseBattle:
       - 11_CHIMERA
       - 11_CHIMERA2
@@ -1438,7 +1438,7 @@ armors:
       - 0.0 #SMOKE
       - 0.0 #IMPACT
       - 1.2 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 3
     allowsKneeling: false
     allowsRunning: false
@@ -1497,7 +1497,7 @@ items:
     strengthApplied: false
     attraction: 0
   - type: STR_SHOTGUNPD #                               10600
-    categories: [ STR_CAT_SHOTGUN, STR_CAT_SCOUT]
+    categories: [STR_CAT_SHOTGUN, STR_CAT_SCOUT]
     requiresBuy:
       - STR_ARBITES
     requiresBuyBaseFunc: [IMPERIUM]
@@ -1544,7 +1544,7 @@ items:
     snapRange: 8
     dropoff: 5
   - type: STR_MCSHOTGUNPD #                     10601                   MC
-    categories: [ STR_CAT_SHOTGUN, STR_CAT_SCOUT]
+    categories: [STR_CAT_SHOTGUN, STR_CAT_SCOUT]
     size: 0.2
     costSell: 1500
     weight: 15
@@ -1588,7 +1588,7 @@ items:
     autoRange: 10
     dropoff: 5
   - type: STR_SHOTGUN_SHELLS_AP #                        10610
-    categories: [ STR_CAT_SHOTGUN, STR_CAT_SCOUT]
+    categories: [STR_CAT_SHOTGUN, STR_CAT_SCOUT]
     requiresBuy:
       - STR_ARBITES
     requiresBuyBaseFunc: [IMPERIUM]
@@ -1621,7 +1621,7 @@ items:
     requiresBuy:
       - STR_ARBITES
     requiresBuyBaseFunc: [IMPERIUM]
-    categories: [ STR_CAT_SHOTGUN, STR_CAT_SCOUT]
+    categories: [STR_CAT_SHOTGUN, STR_CAT_SCOUT]
     shotgunBehavior: 1   #*** makes the shotgun a bit more useful at range bit tightening the spread ***
     shotgunSpread: 25
     shotgunPellets: 6
@@ -1652,7 +1652,7 @@ items:
     requiresBuy:
       - STR_ARBITES
     requiresBuyBaseFunc: [IMPERIUM]
-    categories: [ STR_CAT_SHOTGUN, STR_CAT_SCOUT]
+    categories: [STR_CAT_SHOTGUN, STR_CAT_SCOUT]
     shotgunBehavior: 1   #*** makes the shotgun a bit more useful at range bit tightening the spread ***
     shotgunSpread: 25
     size: 0.1
@@ -2669,9 +2669,9 @@ soldiers:
       psiSkill: 100
       melee: 80
     dogfightExperience:
-        bravery: 10
-        reactions: 30
-        firing: 25
+      bravery: 10
+      reactions: 30
+      firing: 25
     armor: STR_JUDGE_ARMOR_UC
     allowPiloting: true
     allowPromotion: true

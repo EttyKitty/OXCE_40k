@@ -457,8 +457,8 @@ eventScripts:
     lastMonth: 1
     executionOdds: 100
     researchTriggers:
-       STR_DEATHWATCH: true
-       STR_GREYKNIGHTS: false
+      STR_DEATHWATCH: true
+      STR_GREYKNIGHTS: false
   - type: STR_DW_EVENT_SCRIPTBA
     eventWeights:
       0:
@@ -467,8 +467,8 @@ eventScripts:
     lastMonth: 1
     executionOdds: 100
     researchTriggers:
-       STR_DEATHWATCH: true
-       STR_GREYKNIGHTS: false
+      STR_DEATHWATCH: true
+      STR_GREYKNIGHTS: false
   - type: STR_DW_EVENT_SCRIPTSALA
     eventWeights:
       0:
@@ -477,8 +477,8 @@ eventScripts:
     lastMonth: 1
     executionOdds: 100
     researchTriggers:
-       STR_DEATHWATCH: true
-       STR_GREYKNIGHTS: false
+      STR_DEATHWATCH: true
+      STR_GREYKNIGHTS: false
   - type: STR_DW_EVENT_SCRIPTBT
     eventWeights:
       0:
@@ -487,8 +487,8 @@ eventScripts:
     lastMonth: 1
     executionOdds: 100
     researchTriggers:
-       STR_DEATHWATCH: true
-       STR_GREYKNIGHTS: false
+      STR_DEATHWATCH: true
+      STR_GREYKNIGHTS: false
   - type: STR_DW_EVENT_SCRIPTWS
     eventWeights:
       0:
@@ -497,8 +497,8 @@ eventScripts:
     lastMonth: 1
     executionOdds: 100
     researchTriggers:
-       STR_DEATHWATCH: true
-       STR_GREYKNIGHTS: false
+      STR_DEATHWATCH: true
+      STR_GREYKNIGHTS: false
   - type: STR_DW_EVENT_SCRIPTSW
     eventWeights:
       0:
@@ -507,8 +507,8 @@ eventScripts:
     lastMonth: 1
     executionOdds: 100
     researchTriggers:
-       STR_DEATHWATCH: true
-       STR_GREYKNIGHTS: false
+      STR_DEATHWATCH: true
+      STR_GREYKNIGHTS: false
   - type: STR_DW_EVENT_SCRIPTDA
     eventWeights:
       0:
@@ -517,8 +517,8 @@ eventScripts:
     lastMonth: 1
     executionOdds: 100
     researchTriggers:
-       STR_DEATHWATCH: true
-       STR_GREYKNIGHTS: false
+      STR_DEATHWATCH: true
+      STR_GREYKNIGHTS: false
   - type: STR_DW_EVENT_SCRIPTCF
     eventWeights:
       0:
@@ -527,8 +527,8 @@ eventScripts:
     lastMonth: 1
     executionOdds: 100
     researchTriggers:
-       STR_DEATHWATCH: true
-       STR_GREYKNIGHTS: false
+      STR_DEATHWATCH: true
+      STR_GREYKNIGHTS: false
 
 events:
   - name: STR_DEATHWATCH_CARE_PACKAGE

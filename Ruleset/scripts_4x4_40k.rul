@@ -73,7 +73,7 @@ armors:
     spriteSheet: 4X4SURROUND.PCK
     allowInv: false
     spriteInv: BANE1.SPK
-    corpseGeo:  O__EXPLOSIVE_CORPSE
+    corpseGeo: O__EXPLOSIVE_CORPSE
     corpseBattle:
       - STR_BANE_4X4_CORPSE_1
       - STR_BANE_4X4_CORPSE_2
@@ -101,7 +101,7 @@ armors:
       - 0.0 #SMOKE
       - 1.0 #IMPACT
       - 1.2 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 5
     tags:
       4x4Center: 1
@@ -111,7 +111,7 @@ armors:
     spriteSheet: 4X4SURROUND.PCK
     allowInv: false
     spriteInv: LR.SPK
-    corpseGeo:  O__EXPLOSIVE_CORPSE
+    corpseGeo: O__EXPLOSIVE_CORPSE
     corpseBattle:
       - O__EXPLOSIVE_CORPSE
     visibilityAtDay: 120
@@ -136,7 +136,7 @@ armors:
       - 0.0 #SMOKE
       - 0 #IMPACT
       - 0 #MELTA
-    loftempsSet: [ 0 ]
+    loftempsSet: [0]
     alwaysVisible: true
     drawingRoutine: 4
     tags:

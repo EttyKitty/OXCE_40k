@@ -85,7 +85,7 @@ items:
     spawnUnit: STR_THUNDERFIRE_DW
     primeActionName: STR_ACTIVATE
     spawnUnitFaction: 0
-    categories: [ STR_CAT_EQUIPMENT]
+    categories: [STR_CAT_EQUIPMENT]
     costSell: 500000
     size: 2
     weight: 40
@@ -96,8 +96,8 @@ items:
     ignoreInCraftEquip: true
     fuseType: -3
     fuseTriggerEvents:
-     throwTrigger: true
-     proximityTrigger: true
+      throwTrigger: true
+      proximityTrigger: true
     damageType: 3
     battleType: 4
     blastRadius: 1
@@ -113,7 +113,7 @@ items:
     spawnUnit: STR_T_ARBITES_BOLTER
     primeActionName: STR_ACTIVATE
     spawnUnitFaction: 0
-    categories: [ STR_CAT_EQUIPMENT]
+    categories: [STR_CAT_EQUIPMENT]
     costSell: 500000
     size: 2
     weight: 40
@@ -124,8 +124,8 @@ items:
     ignoreInCraftEquip: true
     fuseType: -3
     fuseTriggerEvents:
-     throwTrigger: true
-     proximityTrigger: true
+      throwTrigger: true
+      proximityTrigger: true
     damageType: 3
     battleType: 4
     blastRadius: 1
@@ -222,7 +222,7 @@ items:
       time: true
     defaultInventorySlot: STR_LEFT_HAND
   - type: STR_GRAV_FLAMER_DW
-    categories: [ STR_CAT_FLAMER, STR_CAT_TACTICAL]
+    categories: [STR_CAT_FLAMER, STR_CAT_TACTICAL]
     handSprite: 360
     weight: 1
     bigSprite: 841
@@ -306,7 +306,7 @@ items:
     fixedWeapon: true
     bulletSpeed: 50
   - type: AUX_DW_DREAD_FLAMER   #dread Flamer Palm
-    categories: [ STR_CAT_FLAMER, STR_CAT_TACTICAL]
+    categories: [STR_CAT_FLAMER, STR_CAT_TACTICAL]
     weight: 1
     bigSprite: 865
     bulletSprite: 5
@@ -655,7 +655,7 @@ armors:
       - 0.8
       - 1.2
       - 0.0
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 5
     moveSound: 14
     builtInWeapons:
@@ -701,7 +701,7 @@ armors:
       - 0.0 #SMOKE
       - 0.0 #IMPACT
       - 1.2 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 20
     builtInWeapons:
       - AUX_DW_DREAD_FLAMER
@@ -746,7 +746,7 @@ armors:
       - 0.0 #SMOKE
       - 0.0 #IMPACT
       - 1.2 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 20
     builtInWeapons:
       - AUX_DW_DREAD_PLASMA
@@ -791,7 +791,7 @@ armors:
       - 0.0 #SMOKE
       - 0.0 #IMPACT
       - 1.2 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 20
     builtInWeapons:
       - AUX_DW_DREAD_LAUNCHER
@@ -837,7 +837,7 @@ armors:
       - 0.0 #SMOKE
       - 0.0 #IMPACT
       - 1.2 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 20
     builtInWeapons:
       - AUX_DW_DREAD_LASER
@@ -883,7 +883,7 @@ armors:
       - 0.0 #SMOKE
       - 0.0 #IMPACT
       - 1.2 #MELTA
-    loftempsSet: [ 92, 89, 90, 91 ]
+    loftempsSet: [92, 89, 90, 91]
     drawingRoutine: 20
     builtInWeapons:
       - AUX_DW_DREAD_ASSC
@@ -895,16 +895,16 @@ armors:
 
   - &STR_DW_CAP_ARMOR_UC #CAP MASTER
     type: STR_DW_CAP_ARMOR_ULTRA_UC
-    selectUnitMale:     [511, 512, 513, 514, 515]
-    selectUnitFemale:   [511, 512, 513, 514, 515]
-    startMovingMale:    [506, 507, 508, 509, 510]
-    startMovingFemale:  [506, 507, 508, 509, 510]
-    selectWeaponMale:   [501, 502, 503, 504, 505]
-    selectWeaponFemale: [501, 502, 503, 504, 505]
-    annoyedMale:        [516, 517, 518, 519, 520]
-    annoyedFemale:      [516, 517, 518, 519, 520]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:     [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    selectUnitFemale:   [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    startMovingMale:    [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    startMovingFemale:  [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    selectWeaponMale:   [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    selectWeaponFemale:     [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    annoyedMale:        [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    annoyedFemale:      [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    deathMale:          [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:        [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
     visibilityAtDay: 40
     visibilityAtDark: 30
     spriteSheet: CAPDW.PCK
@@ -917,17 +917,17 @@ armors:
     corpseGeo: STR_FALLEN_CORPSE
     specialWeapon: STR_UNARMED_GAUNTLET_PLUS
     stats:
-       tu: 10
-       stamina: 10
-       health: 20
-       bravery: 10 #always multiples of 10
-       reactions: 0
-       firing: 0
-       throwing: 0
-       strength: 50
-       psiStrength: 0
-       psiSkill: 0
-       melee: 0
+      tu: 10
+      stamina: 10
+      health: 20
+      bravery: 10 #always multiples of 10
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 50
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
     frontArmor: 110
     sideArmor: 90
     rearArmor: 80
@@ -945,16 +945,16 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     builtInWeapons:
       - INV_NULL_3X3
   - type: STR_DW_CAP_ARMOR_ULTRA_UC #ULTRAMARINE
     units:
       - STR_ULTRAMARINE
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPE4", "CAPDW", "M0_FACE", "PLUM"]
       M1: ["CAPE4", "CAPDW", "M1_FACE", "PLUM"]
@@ -973,9 +973,9 @@ armors:
     units:
       - STR_IMPERIALF
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPE4", "CAPDW", "M0_FACE", "PLUM"]
       M1: ["CAPE4", "CAPDW", "M1_FACE", "PLUM"]
@@ -994,9 +994,9 @@ armors:
     units:
       - STR_BLOODANGELS
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPE4", "CAPDW", "M0_FACE", "PLUM"]
       M1: ["CAPE4", "CAPDW", "M1_FACE", "PLUM"]
@@ -1017,9 +1017,9 @@ armors:
     units:
       - STR_SALAMANDAR
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPE4", "CAPDW", "M0_FACES", "PLUM"]
       M1: ["CAPE4", "CAPDW", "M1_FACES", "PLUM"]
@@ -1051,9 +1051,9 @@ armors:
     units:
       - STR_BLACKT
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPE4", "CAPDW", "M0_FACE", "PLUM"]
       M1: ["CAPE4", "CAPDW", "M1_FACE", "PLUM"]
@@ -1072,9 +1072,9 @@ armors:
     units:
       - STR_WHITES
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPE4", "CAPDW", "M0_FACE", "PLUM"]
       M1: ["CAPE4", "CAPDW", "M1_FACE", "PLUM"]
@@ -1096,9 +1096,9 @@ armors:
     units:
       - STR_SPACEW
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPE4", "CAPDW", "M0_FACE", "PLUM"]
       M1: ["CAPE4", "CAPDW", "M1_FACE", "PLUM"]
@@ -1120,9 +1120,9 @@ armors:
     units:
       - STR_DARKANGELS
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPE4", "CAPDW", "M0_FACE", "PLUM"]
       M1: ["CAPE4", "CAPDW", "M1_FACE", "PLUM"]
@@ -1141,9 +1141,9 @@ armors:
     units:
       - STR_CRISMONF
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPE4", "CAPDW", "M0_FACE", "PLUM"]
       M1: ["CAPE4", "CAPDW", "M1_FACE", "PLUM"]
@@ -1163,16 +1163,16 @@ armors:
 
   - &STR_DW_WM_ARMOR_UC #WATCH MASTER
     type: STR_DW_WM_ARMOR_ULTRA_UC
-    selectUnitMale:     [1133, 1134]
-    selectUnitFemale:   [1133, 1134]
-    startMovingMale:    [1135, 1136, 1137]
-    startMovingFemale:  [1135, 1136, 1137]
-    selectWeaponMale:   [1133, 1134]
-    selectWeaponFemale: [1130, 1131, 1132]
-    annoyedMale:        [1138, 1139]
-    annoyedFemale:      [1138, 1139]
-    deathMale:     [116, 117, 118, 119, 120]
-    deathFemale:   [116, 117, 118, 119, 120]
+    selectUnitMale:       [1133, 1134]  # yamllint disable-line rule:colons
+    selectUnitFemale:     [1133, 1134]  # yamllint disable-line rule:colons
+    startMovingMale:      [1135, 1136, 1137]  # yamllint disable-line rule:colons
+    startMovingFemale:    [1135, 1136, 1137]  # yamllint disable-line rule:colons
+    selectWeaponMale:     [1133, 1134]  # yamllint disable-line rule:colons
+    selectWeaponFemale:   [1130, 1131, 1132]  # yamllint disable-line rule:colons
+    annoyedMale:          [1138, 1139]  # yamllint disable-line rule:colons
+    annoyedFemale:        [1138, 1139]  # yamllint disable-line rule:colons
+    deathMale:            [116, 117, 118, 119, 120]  # yamllint disable-line rule:colons
+    deathFemale:          [116, 117, 118, 119, 120]  # yamllint disable-line rule:colons
     visibilityAtDay: 40
     visibilityAtDark: 30
     forcedTorso: 1
@@ -1185,9 +1185,9 @@ armors:
     spriteHairGroup: 9
     spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPE5", "WMDW", "M0_FACE", "EYE"]
       M1: ["CAPE5", "WMDW", "M1_FACE", "EYE"]
@@ -1207,17 +1207,17 @@ armors:
     corpseGeo: STR_FALLEN_CORPSE
     specialWeapon: STR_UNARMED_GAUNTLET_PLUS
     stats:
-       tu: -10
-       stamina: -10
-       health: 10
-       bravery: 10 #always multiples of 10
-       reactions: 0
-       firing: 0
-       throwing: 0
-       strength: 50
-       psiStrength: 0
-       psiSkill: 0
-       melee: 0
+      tu: -10
+      stamina: -10
+      health: 10
+      bravery: 10 #always multiples of 10
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 50
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
     frontArmor: 150
     sideArmor: 120
     rearArmor: 100
@@ -1235,7 +1235,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     builtInWeapons:
       - INV_NULL_3X3
       - INV_NULL_2X1_RL
@@ -1251,17 +1251,17 @@ armors:
       - STR_IMPERIALF_PRIMARIS
 #SPECIAL
     stats:
-       tu: 0
-       stamina: 0
-       health: 10
-       bravery: 10 #always multiples of 10
-       reactions: 0
-       firing: 0
-       throwing: 0
-       strength: 50
-       psiStrength: 0
-       psiSkill: 0
-       melee: 0
+      tu: 0
+      stamina: 0
+      health: 10
+      bravery: 10 #always multiples of 10
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 50
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
   - type: STR_DW_WM_ARMOR_BA_UC #ULTRAMARINE
     refNode: *STR_DW_WM_ARMOR_UC
     units:
@@ -1278,9 +1278,9 @@ armors:
       - STR_SALAMANDAR
       - STR_SALAMANDAR_PRIMARIS
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPE5", "WMDW", "M0_FACES", "PLUM"]
       M1: ["CAPE5", "WMDW", "M1_FACES", "PLUM"]
@@ -1344,17 +1344,16 @@ armors:
   - &STR_DW_TAC_ARMOR_UC #TATICAL
     type: STR_DW_TAC_ARMOR_ULTRA_UC
     ufopediaType: STR_PERSONAL_ARMOR_UC
-    selectUnitMale:     [511, 512, 513, 514, 515]
-    selectUnitFemale:   [511, 512, 513, 514, 515]
-    startMovingMale:    [506, 507, 508, 509, 510]
-    startMovingFemale:  [506, 507, 508, 509, 510]
-    selectWeaponMale:   [501, 502, 503, 504, 505]
-    selectWeaponFemale: [501, 502, 503, 504, 505]
-    annoyedMale:        [516, 517, 518, 519, 520]
-    annoyedFemale:      [516, 517, 518, 519, 520]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
-#STATS
+    selectUnitMale:       [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    selectUnitFemale:     [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    startMovingMale:      [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    startMovingFemale:    [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    selectWeaponMale:     [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    selectWeaponFemale:   [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    annoyedMale:          [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    annoyedFemale:        [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    deathMale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:          [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
     visibilityAtDay: 40
     visibilityAtDark: 30
     corpseBattle:
@@ -1380,7 +1379,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     builtInWeapons:
       - INV_NULL_3X3
   - type: STR_DW_TAC_ARMOR_ULTRA_UC #ULTRAMARINE
@@ -1390,9 +1389,9 @@ armors:
     spriteSheet: TACDWULTRA.PCK
     customArmorPreviewIndex: 540
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TACDWULTRA", "M0_FACE"]
       M1: ["0", "TACDWULTRA", "M1_FACE"]
@@ -1414,9 +1413,9 @@ armors:
     spriteSheet: TACDWSALA.PCK
     customArmorPreviewIndex: 543
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TACDWSALA", "M0_FACES"]
       M1: ["0", "TACDWSALA", "M1_FACES"]
@@ -1452,25 +1451,25 @@ armors:
     spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163, 96, 96, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
     spriteHairGroup: 9
     spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
-    selectUnitMale:     [1231, 1232, 1233, 1234, 1235]
-    selectUnitFemale:     [1231, 1232, 1233, 1234, 1235]
-    startMovingMale:    [1226, 1227, 1228, 1229, 1230]
-    startMovingFemale:    [1226, 1227, 1228, 1229, 1230]
-    selectWeaponMale:   [1221, 1222, 1223, 1224, 1225]
-    selectWeaponFemale:   [1221, 1222, 1223, 1224, 1225]
-    annoyedMale:        [1236, 1237, 1238, 1239, 1240]
-    annoyedFemale:        [1236, 1237, 1238, 1239, 1240]
-    deathMale:     [1241, 1242, 1243, 1244, 1245]
-    deathFemale:     [1241, 1242, 1243, 1244, 1245]
+    selectUnitMale:       [1231, 1232, 1233, 1234, 1235]  # yamllint disable-line rule:colons
+    selectUnitFemale:     [1231, 1232, 1233, 1234, 1235]  # yamllint disable-line rule:colons
+    startMovingMale:      [1226, 1227, 1228, 1229, 1230]  # yamllint disable-line rule:colons
+    startMovingFemale:    [1226, 1227, 1228, 1229, 1230]  # yamllint disable-line rule:colons
+    selectWeaponMale:     [1221, 1222, 1223, 1224, 1225]  # yamllint disable-line rule:colons
+    selectWeaponFemale:   [1221, 1222, 1223, 1224, 1225]  # yamllint disable-line rule:colons
+    annoyedMale:          [1236, 1237, 1238, 1239, 1240]  # yamllint disable-line rule:colons
+    annoyedFemale:        [1236, 1237, 1238, 1239, 1240]  # yamllint disable-line rule:colons
+    deathMale:            [1241, 1242, 1243, 1244, 1245]  # yamllint disable-line rule:colons
+    deathFemale:          [1241, 1242, 1243, 1244, 1245]  # yamllint disable-line rule:colons
 #SPRITES
     corpseBattle:
       - STR_MK7NH_DW_CORPSE
     spriteSheet: TACDWBA.PCK
     customArmorPreviewIndex: 542
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TACDWBA", "M0_FACE"]
       M1: ["0", "TACDWBA", "M1_FACE"]
@@ -1494,9 +1493,9 @@ armors:
     spriteSheet: TACDWBAH.PCK
     customArmorPreviewIndex: 542
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TACDWBAH", "M0_FACE"]
       M1: ["0", "TACDWBAH", "M1_FACE"]
@@ -1520,9 +1519,9 @@ armors:
     spriteSheet: TACDWBT.PCK
     customArmorPreviewIndex: 544
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TACDWBT", "M0_FACE"]
       M1: ["0", "TACDWBT", "M1_FACE"]
@@ -1544,9 +1543,9 @@ armors:
     spriteSheet: TACDWIF.PCK
     customArmorPreviewIndex: 541
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TACDWIF", "M0_FACE"]
       M1: ["0", "TACDWIF", "M1_FACE"]
@@ -1568,9 +1567,9 @@ armors:
     spriteSheet: TACDWWS.PCK
     customArmorPreviewIndex: 545
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TACDWWS", "M0_FACE"]
       M1: ["0", "TACDWWS", "M1_FACE"]
@@ -1595,9 +1594,9 @@ armors:
     spriteSheet: TACDWSW.PCK
     customArmorPreviewIndex: 541
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TACDWSW", "M0_FACE"]
       M1: ["0", "TACDWSW", "M1_FACE"]
@@ -1621,9 +1620,9 @@ armors:
     spriteSheet: TACDWDA.PCK
     customArmorPreviewIndex: 543
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TACDWDA", "M0_FACE"]
       M1: ["0", "TACDWDA", "M1_FACE"]
@@ -1645,9 +1644,9 @@ armors:
     spriteSheet: TACDWCF.PCK
     customArmorPreviewIndex: 540
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TACDWCF", "M0_FACE"]
       M1: ["0", "TACDWCF", "M1_FACE"]
@@ -1668,16 +1667,16 @@ armors:
   - &STR_DW_DEV_ARMOR_UC #DEVASTATOR
     type: STR_DW_DEV_ARMOR_ULTRA_UC
     ufopediaType: STR_DEV_ARMOR_UC
-    selectUnitMale:     [511, 512, 513, 514, 515]
-    selectUnitFemale:   [511, 512, 513, 514, 515]
-    startMovingMale:    [506, 507, 508, 509, 510]
-    startMovingFemale:  [506, 507, 508, 509, 510]
-    selectWeaponMale:   [501, 502, 503, 504, 505]
-    selectWeaponFemale: [501, 502, 503, 504, 505]
-    annoyedMale:        [516, 517, 518, 519, 520]
-    annoyedFemale:      [516, 517, 518, 519, 520]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:         [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    selectUnitFemale:       [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    startMovingMale:        [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    startMovingFemale:      [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    selectWeaponMale:       [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    selectWeaponFemale:     [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    annoyedMale:            [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    annoyedFemale:          [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    deathMale:              [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
 #STATS
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -1687,17 +1686,17 @@ armors:
     corpseGeo: STR_FALLEN_CORPSE
     specialWeapon: STR_UNARMED_GAUNTLET_PLUS
     stats:
-       tu: 0
-       stamina: -20
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: -30
-       firing: 10
-       throwing: 0
-       strength: 50
-       psiStrength: 0
-       psiSkill: 0
-       melee: -50
+      tu: 0
+      stamina: -20
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: -30
+      firing: 10
+      throwing: 0
+      strength: 50
+      psiStrength: 0
+      psiSkill: 0
+      melee: -50
     frontArmor: 110
     sideArmor: 90
     rearArmor: 80
@@ -1715,7 +1714,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     builtInWeapons:
       - INV_NULL_1X3
   - type: STR_DW_DEV_ARMOR_ULTRA_UC
@@ -1725,9 +1724,9 @@ armors:
     spriteSheet: DEVDWULTRA.PCK
     customArmorPreviewIndex: 552
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "DEVDWULTRA", "M0_FACE"]
       M1: ["0", "DEVDWULTRA", "M1_FACE"]
@@ -1749,9 +1748,9 @@ armors:
     spriteSheet: DEVDWSALA.PCK
     customArmorPreviewIndex: 553
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "DEVDWSALA", "M0_FACE"]
       M1: ["0", "DEVDWSALA", "M1_FACE"]
@@ -1787,9 +1786,9 @@ armors:
     spriteSheet: DEVDWBA.PCK
     customArmorPreviewIndex: 554
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "DEVDWBA", "M0_FACE"]
       M1: ["0", "DEVDWBA", "M1_FACE"]
@@ -1811,9 +1810,9 @@ armors:
     spriteSheet: DEVDWBA.PCK
     customArmorPreviewIndex: 555
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "DEVDWBA", "M0_FACE"]
       M1: ["0", "DEVDWBA", "M1_FACE"]
@@ -1835,9 +1834,9 @@ armors:
     spriteSheet: DEVDWIF.PCK
     customArmorPreviewIndex: 456
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "DEVDWIF", "M0_FACE"]
       M1: ["0", "DEVDWIF", "M1_FACE"]
@@ -1852,17 +1851,17 @@ armors:
       F4: ["0", "DEVDWIF", "M4_FACE"]
       F5: ["0", "DEVDWIF", "M5_FACE"]
     stats:
-       tu: 0
-       stamina: -10
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: -20
-       firing: 10
-       throwing: 0
-       strength: 50
-       psiStrength: 0
-       psiSkill: 0
-       melee: -40
+      tu: 0
+      stamina: -10
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: -20
+      firing: 10
+      throwing: 0
+      strength: 50
+      psiStrength: 0
+      psiSkill: 0
+      melee: -40
   - type: STR_DW_DEV_ARMOR_WS_UC
     refNode: *STR_DW_DEV_ARMOR_UC
     units:
@@ -1871,9 +1870,9 @@ armors:
     spriteSheet: DEVDWWS.PCK
     customArmorPreviewIndex: 557
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "DEVDWWS", "M0_FACE"]
       M1: ["0", "DEVDWWS", "M1_FACE"]
@@ -1898,9 +1897,9 @@ armors:
     spriteSheet: DEVDWSW.PCK
     customArmorPreviewIndex: 456
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "DEVDWSW", "M0_FACE"]
       M1: ["0", "DEVDWSW", "M1_FACE"]
@@ -1924,9 +1923,9 @@ armors:
     spriteSheet: DEVDWDA.PCK
     customArmorPreviewIndex: 553
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "DEVDWDA", "M0_FACE"]
       M1: ["0", "DEVDWDA", "M1_FACE"]
@@ -1948,9 +1947,9 @@ armors:
     spriteSheet: DEVDWCF.PCK
     customArmorPreviewIndex: 552
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "DEVDWCF", "M0_FACE"]
       M1: ["0", "DEVDWCF", "M1_FACE"]
@@ -1971,16 +1970,16 @@ armors:
   - &STR_DW_ASS_ARMOR_UC #ASSAULT
     type: STR_DW_ASS_ARMOR_ULTRA_UC
     ufopediaType: STR_ASS_ARMOR_UC
-    selectUnitMale:     [511, 512, 513, 514, 515]
-    selectUnitFemale:   [511, 512, 513, 514, 515]
-    startMovingMale:    [506, 507, 508, 509, 510]
-    startMovingFemale:  [506, 507, 508, 509, 510]
-    selectWeaponMale:   [501, 502, 503, 504, 505]
-    selectWeaponFemale: [501, 502, 503, 504, 505]
-    annoyedMale:        [516, 517, 518, 519, 520]
-    annoyedFemale:      [516, 517, 518, 519, 520]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:         [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    selectUnitFemale:       [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    startMovingMale:        [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    startMovingFemale:      [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    selectWeaponMale:       [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    selectWeaponFemale:     [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    annoyedMale:            [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    annoyedFemale:          [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    deathMale:              [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
 #STATS
     forcedTorso: 1
     visibilityAtDay: 40
@@ -1992,17 +1991,17 @@ armors:
     storeItem: STR_ASS_ARMOR
 #SPECIAL STATS
     stats:
-       tu: 20
-       stamina: 0
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 30
-       firing: -30
-       throwing: 0
-       strength: 0
-       psiStrength: 0
-       psiSkill: 0
-       melee: 50
+      tu: 20
+      stamina: 0
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 30
+      firing: -30
+      throwing: 0
+      strength: 0
+      psiStrength: 0
+      psiSkill: 0
+      melee: 50
     frontArmor: 110
     sideArmor: 90
     rearArmor: 80
@@ -2023,16 +2022,16 @@ armors:
       - 1.0 #MELTA
     builtInWeapons:
       - INV_NULL_3X3
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
   - type: STR_DW_ASS_ARMOR_ULTRA_UC #ASSAULT
     units:
       - STR_ULTRAMARINE
 #SPRITES
     spriteSheet: ASSDWULTRA.PCK
     customArmorPreviewIndex: 546
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "ASSDWULTRA", "M0_FACE"]
       M1: ["0", "ASSDWULTRA", "M1_FACE"]
@@ -2053,9 +2052,9 @@ armors:
 #SPRITES
     spriteSheet: ASSDWIF.PCK
     customArmorPreviewIndex: 547
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "ASSDWIF", "M0_FACE"]
       M1: ["0", "ASSDWIF", "M1_FACE"]
@@ -2071,17 +2070,17 @@ armors:
       F5: ["0", "ASSDWIF", "M5_FACE"]
 #SPECIAL
     stats:
-       tu: 20
-       stamina: 0
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 30
-       firing: -20
-       throwing: 0
-       strength: 0
-       psiStrength: 0
-       psiSkill: 0
-       melee: 50
+      tu: 20
+      stamina: 0
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 30
+      firing: -20
+      throwing: 0
+      strength: 0
+      psiStrength: 0
+      psiSkill: 0
+      melee: 50
   - type: STR_DW_ASS_ARMOR_BA_UC #ASSAULT
     refNode: *STR_DW_ASS_ARMOR_UC
     units:
@@ -2091,23 +2090,23 @@ armors:
     spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163, 96, 96, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
     spriteHairGroup: 9
     spriteHairColor: [144, 144, 164, 164, 245, 245, 166, 166, 96, 164, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
-    selectUnitMale:     [1231, 1232, 1233, 1234, 1235]
-    selectUnitFemale:     [1231, 1232, 1233, 1234, 1235]
-    startMovingMale:    [1226, 1227, 1228, 1229, 1230]
-    startMovingFemale:    [1226, 1227, 1228, 1229, 1230]
-    selectWeaponMale:   [1221, 1222, 1223, 1224, 1225]
-    selectWeaponFemale:   [1221, 1222, 1223, 1224, 1225]
-    annoyedMale:        [1236, 1237, 1238, 1239, 1240]
-    annoyedFemale:        [1236, 1237, 1238, 1239, 1240]
-    deathMale:     [1241, 1242, 1243, 1244, 1245]
-    deathFemale:     [1241, 1242, 1243, 1244, 1245]
+    selectUnitMale:       [1231, 1232, 1233, 1234, 1235]  # yamllint disable-line rule:colons
+    selectUnitFemale:     [1231, 1232, 1233, 1234, 1235]  # yamllint disable-line rule:colons
+    startMovingMale:      [1226, 1227, 1228, 1229, 1230]  # yamllint disable-line rule:colons
+    startMovingFemale:    [1226, 1227, 1228, 1229, 1230]  # yamllint disable-line rule:colons
+    selectWeaponMale:     [1221, 1222, 1223, 1224, 1225]  # yamllint disable-line rule:colons
+    selectWeaponFemale:   [1221, 1222, 1223, 1224, 1225]  # yamllint disable-line rule:colons
+    annoyedMale:          [1236, 1237, 1238, 1239, 1240]  # yamllint disable-line rule:colons
+    annoyedFemale:        [1236, 1237, 1238, 1239, 1240]  # yamllint disable-line rule:colons
+    deathMale:            [1241, 1242, 1243, 1244, 1245]  # yamllint disable-line rule:colons
+    deathFemale:          [1241, 1242, 1243, 1244, 1245]  # yamllint disable-line rule:colons
     corpseBattle:
       - STR_MK7NH_DW_CORPSE
     spriteSheet: ASSDWBA.PCK
     customArmorPreviewIndex: 548
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "ASSDWBA", "M0_FACE"]
       M1: ["0", "ASSDWBA", "M1_FACE"]
@@ -2132,9 +2131,9 @@ armors:
     storeItem: STR_DW_NOARMOR_UC
     spriteSheet: ASSDWBAH.PCK
     customArmorPreviewIndex: 548
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "ASSDWBAH", "M0_FACE"]
       M1: ["0", "ASSDWBAH", "M1_FACE"]
@@ -2157,9 +2156,9 @@ armors:
 #SPRITES
     spriteSheet: ASSDWSALA.PCK
     customArmorPreviewIndex: 549
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "ASSDWSALA", "M0_FACE"]
       M1: ["0", "ASSDWSALA", "M1_FACE"]
@@ -2194,9 +2193,9 @@ armors:
 #SPRITES
     spriteSheet: ASSDWBT.PCK
     customArmorPreviewIndex: 550
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "ASSDWBT", "M0_FACE"]
       M1: ["0", "ASSDWBT", "M1_FACE"]
@@ -2217,9 +2216,9 @@ armors:
 #SPRITES
     spriteSheet: ASSDWWS.PCK
     customArmorPreviewIndex: 551
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "ASSDWWS", "M0_FACE"]
       M1: ["0", "ASSDWWS", "M1_FACE"]
@@ -2243,9 +2242,9 @@ armors:
 #SPRITES
     spriteSheet: ASSDWSW.PCK
     customArmorPreviewIndex: 547
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "ASSDWSW", "M0_FACE"]
       M1: ["0", "ASSDWSW", "M1_FACE"]
@@ -2268,9 +2267,9 @@ armors:
 #SPRITES
     spriteSheet: ASSDWDA.PCK
     customArmorPreviewIndex: 549
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "ASSDWDA", "M0_FACE"]
       M1: ["0", "ASSDWDA", "M1_FACE"]
@@ -2291,9 +2290,9 @@ armors:
 #SPRITES
     spriteSheet: ASSDWCF.PCK
     customArmorPreviewIndex: 546
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "ASSDWCF", "M0_FACE"]
       M1: ["0", "ASSDWCF", "M1_FACE"]
@@ -2314,16 +2313,16 @@ armors:
   - &STR_DW_TER_ARMOR_UC #TERMINATOR
     type: STR_DW_TER_ARMOR_ULTRA_UC
     ufopediaType: STR_POWER_SUIT_UC
-    selectUnitMale:     [411, 412, 413, 414, 415]
-    selectUnitFemale:   [431, 432, 433, 434, 435]
-    startMovingMale:    [406, 407, 408, 409, 410]
-    startMovingFemale:  [426, 427, 428, 429, 430]
-    selectWeaponMale:   [401, 402, 403, 404, 405]
-    selectWeaponFemale: [421, 422, 423, 424, 425]
-    annoyedMale:        [416, 417, 418, 419, 420]
-    annoyedFemale:      [436, 437, 438, 439, 440]
-    deathMale:     [396, 397, 398, 399]
-    deathFemale:   [396, 397, 398, 399]
+    selectUnitMale:         [411, 412, 413, 414, 415]  # yamllint disable-line rule:colons
+    selectUnitFemale:       [431, 432, 433, 434, 435]  # yamllint disable-line rule:colons
+    startMovingMale:        [406, 407, 408, 409, 410]  # yamllint disable-line rule:colons
+    startMovingFemale:      [426, 427, 428, 429, 430]  # yamllint disable-line rule:colons
+    selectWeaponMale:       [401, 402, 403, 404, 405]  # yamllint disable-line rule:colons
+    selectWeaponFemale:     [421, 422, 423, 424, 425]  # yamllint disable-line rule:colons
+    annoyedMale:            [416, 417, 418, 419, 420]  # yamllint disable-line rule:colons
+    annoyedFemale:          [436, 437, 438, 439, 440]  # yamllint disable-line rule:colons
+    deathMale:              [396, 397, 398, 399]  # yamllint disable-line rule:colons
+    deathFemale:            [396, 397, 398, 399]  # yamllint disable-line rule:colons
 #STATS
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -2333,17 +2332,17 @@ armors:
     storeItem: STR_POWER_SUIT
     corpseGeo: STR_FALLEN_CORPSE
     stats:
-       tu: -20
-       stamina: -30
-       firing: 0
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: -20
-       throwing: -30
-       strength: 100
-       psiStrength: 0
-       psiSkill: 0
-       melee: 10
+      tu: -20
+      stamina: -30
+      firing: 0
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: -20
+      throwing: -30
+      strength: 100
+      psiStrength: 0
+      psiSkill: 0
+      melee: 10
     frontArmor: 150
     sideArmor: 120
     rearArmor: 100
@@ -2361,7 +2360,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     specialWeapon: STR_MFIST
     builtInWeapons:
       - INV_NULL_3X3
@@ -2373,9 +2372,9 @@ armors:
 #SPRITES
     spriteSheet: TERDWULTRA.PCK
     customArmorPreviewIndex: 510
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERDWULTRA", "M0_FACE"]
       M1: ["0", "TERDWULTRA", "M1_FACE"]
@@ -2396,9 +2395,9 @@ armors:
 #SPRITES
     spriteSheet: TERDWIF.PCK
     customArmorPreviewIndex: 511
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERDWIF", "M0_FACE"]
       M1: ["0", "TERDWIF", "M1_FACE"]
@@ -2413,17 +2412,17 @@ armors:
       F4: ["0", "TERDWIF", "M4_FACE"]
       F5: ["0", "TERDWIF", "M5_FACE"]
     stats:
-       tu: 0
-       stamina: -10
-       firing: 0
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: -10
-       throwing: 0
-       strength: 100
-       psiStrength: 0
-       psiSkill: 0
-       melee: 10
+      tu: 0
+      stamina: -10
+      firing: 0
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: -10
+      throwing: 0
+      strength: 100
+      psiStrength: 0
+      psiSkill: 0
+      melee: 10
   - type: STR_DW_TER_ARMOR_BA_UC #TERMINATOR
     refNode: *STR_DW_TER_ARMOR_UC
     units:
@@ -2431,9 +2430,9 @@ armors:
 #SPRITES
     spriteSheet: TERDWBA.PCK
     customArmorPreviewIndex: 512
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERDWBA", "M0_FACE"]
       M1: ["0", "TERDWBA", "M1_FACE"]
@@ -2456,9 +2455,9 @@ armors:
 #SPRITES
     spriteSheet: TERDWSALA.PCK
     customArmorPreviewIndex: 513
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERDWSALA", "M0_FACES"]
       M1: ["0", "TERDWSALA", "M1_FACES"]
@@ -2492,9 +2491,9 @@ armors:
 #SPRITES
     spriteSheet: TERDWBT.PCK
     customArmorPreviewIndex: 514
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERDWBT", "M0_FACE"]
       M1: ["0", "TERDWBT", "M1_FACE"]
@@ -2515,9 +2514,9 @@ armors:
 #SPRITES
     spriteSheet: TERDWWS.PCK
     customArmorPreviewIndex: 515
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERDWWS", "M0_FACE"]
       M1: ["0", "TERDWWS", "M1_FACE"]
@@ -2541,9 +2540,9 @@ armors:
 #SPRITES
     spriteSheet: TERDWSW.PCK
     customArmorPreviewIndex: 511
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERDWSW", "M0_FACE"]
       M1: ["0", "TERDWSW", "M1_FACE"]
@@ -2566,9 +2565,9 @@ armors:
 #SPRITES
     spriteSheet: TERDWDA.PCK
     customArmorPreviewIndex: 513
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERDWDA", "M0_FACE"]
       M1: ["0", "TERDWDA", "M1_FACE"]
@@ -2589,9 +2588,9 @@ armors:
 #SPRITES
     spriteSheet: TERDWWS.PCK
     customArmorPreviewIndex: 510
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERDWCF", "M0_FACE"]
       M1: ["0", "TERDWCF", "M1_FACE"]
@@ -2612,16 +2611,16 @@ armors:
   - &STR_DW_TASS_ARMOR_UC #TERMINATOR
     type: STR_DW_TASS_ARMOR_ULTRA_UC
     ufopediaType: STR_FLYING_SUIT_UC
-    selectUnitMale:     [411, 412, 413, 414, 415]
-    selectUnitFemale:   [431, 432, 433, 434, 435]
-    startMovingMale:    [406, 407, 408, 409, 410]
-    startMovingFemale:  [426, 427, 428, 429, 430]
-    selectWeaponMale:   [401, 402, 403, 404, 405]
-    selectWeaponFemale: [421, 422, 423, 424, 425]
-    annoyedMale:        [416, 417, 418, 419, 420]
-    annoyedFemale:      [436, 437, 438, 439, 440]
-    deathMale:     [396, 397, 398, 399]
-    deathFemale:   [396, 397, 398, 399]
+    selectUnitMale:         [411, 412, 413, 414, 415]  # yamllint disable-line rule:colons
+    selectUnitFemale:       [431, 432, 433, 434, 435]  # yamllint disable-line rule:colons
+    startMovingMale:        [406, 407, 408, 409, 410]  # yamllint disable-line rule:colons
+    startMovingFemale:      [426, 427, 428, 429, 430]  # yamllint disable-line rule:colons
+    selectWeaponMale:       [401, 402, 403, 404, 405]  # yamllint disable-line rule:colons
+    selectWeaponFemale:     [421, 422, 423, 424, 425]  # yamllint disable-line rule:colons
+    annoyedMale:            [416, 417, 418, 419, 420]  # yamllint disable-line rule:colons
+    annoyedFemale:          [436, 437, 438, 439, 440]  # yamllint disable-line rule:colons
+    deathMale:              [396, 397, 398, 399]  # yamllint disable-line rule:colons
+    deathFemale:            [396, 397, 398, 399]  # yamllint disable-line rule:colons
     visibilityAtDay: 40
     visibilityAtDark: 30
     corpseBattle:
@@ -2629,17 +2628,17 @@ armors:
     storeItem: STR_FLYING_SUIT
     corpseGeo: STR_FALLEN_CORPSE
     stats:
-       tu: -10
-       stamina: -20
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       firing: -90
-       throwing: -10
-       strength: 100
-       psiStrength: 0
-       psiSkill: 0
-       melee: 30
+      tu: -10
+      stamina: -20
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      firing: -90
+      throwing: -10
+      strength: 100
+      psiStrength: 0
+      psiSkill: 0
+      melee: 30
     frontArmor: 170
     sideArmor: 140
     rearArmor: 100
@@ -2658,7 +2657,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     forcedTorso: 1
     specialWeapon: STR_MFIST
     builtInWeapons:
@@ -2673,9 +2672,9 @@ armors:
 #SPRITES
     spriteSheet: TASSDWULTRA.PCK
     customArmorPreviewIndex: 516
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERDWULTRA", "M0_FACE"]
       M1: ["0", "TERDWULTRA", "M1_FACE"]
@@ -2696,9 +2695,9 @@ armors:
 #SPRITES
     spriteSheet: TASSDWIF.PCK
     customArmorPreviewIndex: 517
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERDWIF", "M0_FACE"]
       M1: ["0", "TERDWIF", "M1_FACE"]
@@ -2713,17 +2712,17 @@ armors:
       F4: ["0", "TERDWIF", "M4_FACE"]
       F5: ["0", "TERDWIF", "M5_FACE"]
     stats:
-       tu: 0
-       stamina: -10
-       firing: 0
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: -10
-       throwing: 0
-       strength: 100
-       psiStrength: 0
-       psiSkill: 0
-       melee: 10
+      tu: 0
+      stamina: -10
+      firing: 0
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: -10
+      throwing: 0
+      strength: 100
+      psiStrength: 0
+      psiSkill: 0
+      melee: 10
   - type: STR_DW_TASS_ARMOR_BA_UC #TERMINATOR
     refNode: *STR_DW_TASS_ARMOR_UC
     units:
@@ -2731,9 +2730,9 @@ armors:
 #SPRITES
     spriteSheet: TASSDWBA.PCK
     customArmorPreviewIndex: 518
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERDWBA", "M0_FACE"]
       M1: ["0", "TERDWBA", "M1_FACE"]
@@ -2756,9 +2755,9 @@ armors:
 #SPRITES
     spriteSheet: TASSDWSALA.PCK
     customArmorPreviewIndex: 519
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERDWSALA", "M0_FACES"]
       M1: ["0", "TERDWSALA", "M1_FACES"]
@@ -2792,9 +2791,9 @@ armors:
 #SPRITES
     spriteSheet: TASSDWBT.PCK
     customArmorPreviewIndex: 520
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERDWBT", "M0_FACE"]
       M1: ["0", "TERDWBT", "M1_FACE"]
@@ -2815,9 +2814,9 @@ armors:
 #SPRITES
     spriteSheet: TASSDWWS.PCK
     customArmorPreviewIndex: 521
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERDWWS", "M0_FACE"]
       M1: ["0", "TERDWWS", "M1_FACE"]
@@ -2841,9 +2840,9 @@ armors:
 #SPRITES
     spriteSheet: TASSDWSW.PCK
     customArmorPreviewIndex: 517
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERDWSW", "M0_FACE"]
       M1: ["0", "TERDWSW", "M1_FACE"]
@@ -2866,9 +2865,9 @@ armors:
 #SPRITES
     spriteSheet: TASSDWDA.PCK
     customArmorPreviewIndex: 519
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERDWDA", "M0_FACE"]
       M1: ["0", "TERDWDA", "M1_FACE"]
@@ -2889,9 +2888,9 @@ armors:
 #SPRITES
     spriteSheet: TASSDWCF.PCK
     customArmorPreviewIndex: 516
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERDWCF", "M0_FACE"]
       M1: ["0", "TERDWCF", "M1_FACE"]
@@ -2912,16 +2911,16 @@ armors:
   - &STR_DW_TSARGENT_ARMOR_UC #TERMINATOR
     type: STR_DW_TSARGENT_ARMOR_ULTRA_UC
     ufopediaType: STR_TSARGENT_UC
-    selectUnitMale:     [411, 412, 413, 414, 415]
-    selectUnitFemale:   [431, 432, 433, 434, 435]
-    startMovingMale:    [406, 407, 408, 409, 410]
-    startMovingFemale:  [426, 427, 428, 429, 430]
-    selectWeaponMale:   [401, 402, 403, 404, 405]
-    selectWeaponFemale: [421, 422, 423, 424, 425]
-    annoyedMale:        [416, 417, 418, 419, 420]
-    annoyedFemale:      [436, 437, 438, 439, 440]
-    deathMale:     [396, 397, 398, 399]
-    deathFemale:   [396, 397, 398, 399]
+    selectUnitMale:         [411, 412, 413, 414, 415]  # yamllint disable-line rule:colons
+    selectUnitFemale:       [431, 432, 433, 434, 435]  # yamllint disable-line rule:colons
+    startMovingMale:        [406, 407, 408, 409, 410]  # yamllint disable-line rule:colons
+    startMovingFemale:      [426, 427, 428, 429, 430]  # yamllint disable-line rule:colons
+    selectWeaponMale:       [401, 402, 403, 404, 405]  # yamllint disable-line rule:colons
+    selectWeaponFemale:     [421, 422, 423, 424, 425]  # yamllint disable-line rule:colons
+    annoyedMale:            [416, 417, 418, 419, 420]  # yamllint disable-line rule:colons
+    annoyedFemale:          [436, 437, 438, 439, 440]  # yamllint disable-line rule:colons
+    deathMale:              [396, 397, 398, 399]  # yamllint disable-line rule:colons
+    deathFemale:            [396, 397, 398, 399]  # yamllint disable-line rule:colons
     visibilityAtDay: 40
     visibilityAtDark: 30
     corpseBattle:
@@ -2929,17 +2928,17 @@ armors:
     storeItem: STR_TSARGENT
     corpseGeo: STR_FALLEN_CORPSE
     stats:
-       tu: -10
-       stamina: -20
-       firing: 0
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: -20
-       throwing: 0
-       strength: 100
-       psiStrength: 0
-       psiSkill: 0
-       melee: 10
+      tu: -10
+      stamina: -20
+      firing: 0
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: -20
+      throwing: 0
+      strength: 100
+      psiStrength: 0
+      psiSkill: 0
+      melee: 10
     frontArmor: 150
     sideArmor: 120
     rearArmor: 100
@@ -2959,7 +2958,7 @@ armors:
       - 1.0 #MELTA
     units:
       - STR_SOLDIER
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     forcedTorso: 1
     specialWeapon: AUX_MORTAR
     builtInWeapons:
@@ -2974,9 +2973,9 @@ armors:
 #SPRITES
     spriteSheet: TERSGTDWULTRA.PCK
     customArmorPreviewIndex: 522
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERSGTULTRA", "M0_FACE"]
       M1: ["0", "TERSGTULTRA", "M1_FACE"]
@@ -2997,9 +2996,9 @@ armors:
 #SPRITES
     spriteSheet: TERSGTDWIF.PCK
     customArmorPreviewIndex: 523
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERSGTIF", "M0_FACE"]
       M1: ["0", "TERSGTIF", "M1_FACE"]
@@ -3014,17 +3013,17 @@ armors:
       F4: ["0", "TERSGTIF", "M4_FACE"]
       F5: ["0", "TERSGTIF", "M5_FACE"]
     stats:
-       tu: 0
-       stamina: -10
-       firing: 0
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: -10
-       throwing: 0
-       strength: 100
-       psiStrength: 0
-       psiSkill: 0
-       melee: 10
+      tu: 0
+      stamina: -10
+      firing: 0
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: -10
+      throwing: 0
+      strength: 100
+      psiStrength: 0
+      psiSkill: 0
+      melee: 10
   - type: STR_DW_TSARGENT_ARMOR_BA_UC #TERMINATOR SGT
     refNode: *STR_DW_TSARGENT_ARMOR_UC
     units:
@@ -3032,9 +3031,9 @@ armors:
 #SPRITES
     spriteSheet: TERSGTDWBA.PCK
     customArmorPreviewIndex: 524
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERSGTBA", "M0_FACE"]
       M1: ["0", "TERSGTBA", "M1_FACE"]
@@ -3057,9 +3056,9 @@ armors:
 #SPRITES
     spriteSheet: TERSGTDWSALA.PCK
     customArmorPreviewIndex: 525
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERSGTSALA", "M0_FACES"]
       M1: ["0", "TERSGTSALA", "M1_FACES"]
@@ -3093,9 +3092,9 @@ armors:
 #SPRITES
     spriteSheet: TERSGTDWBT.PCK
     customArmorPreviewIndex: 526
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERSGTBT", "M0_FACE"]
       M1: ["0", "TERSGTBT", "M1_FACE"]
@@ -3116,9 +3115,9 @@ armors:
 #SPRITES
     spriteSheet: TERSGTDWWS.PCK
     customArmorPreviewIndex: 527
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERSGTWS", "M0_FACE"]
       M1: ["0", "TERSGTWS", "M1_FACE"]
@@ -3142,9 +3141,9 @@ armors:
 #SPRITES
     spriteSheet: TERSGTDWSW.PCK
     customArmorPreviewIndex: 523
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERSGTSW", "M0_FACE"]
       M1: ["0", "TERSGTSW", "M1_FACE"]
@@ -3167,9 +3166,9 @@ armors:
 #SPRITES
     spriteSheet: TERSGTDWDA.PCK
     customArmorPreviewIndex: 525
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERSGTDA", "M0_FACE"]
       M1: ["0", "TERSGTDA", "M1_FACE"]
@@ -3190,9 +3189,9 @@ armors:
 #SPRITES
     spriteSheet: TERSGTDWCF.PCK
     customArmorPreviewIndex: 522
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TERSGTCF", "M0_FACE"]
       M1: ["0", "TERSGTCF", "M1_FACE"]
@@ -3213,16 +3212,16 @@ armors:
   - &STR_DW_APOT_ARMOR_UC #APOT
     type: STR_DW_APOT_ARMOR_ULTRA_UC
     ufopediaType: STR_APOT_ARMOR_UC
-    selectUnitMale:     [1276, 1277, 1278, 1279, 1280]
-    selectUnitFemale:   [1276, 1277, 1278, 1279, 1280]
-    startMovingMale:    [1271, 1272, 1273, 1274, 1275]
-    startMovingFemale:  [1271, 1272, 1273, 1274, 1275]
-    selectWeaponMale:   [1266, 1267, 1268, 1269, 1270]
-    selectWeaponFemale: [1266, 1267, 1268, 1269, 1270]
-    annoyedMale:        [1281, 1282, 1283, 1284, 1285]
-    annoyedFemale:      [1281, 1282, 1283, 1284, 1285]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:       [1276, 1277, 1278, 1279, 1280]  # yamllint disable-line rule:colons
+    selectUnitFemale:     [1276, 1277, 1278, 1279, 1280]  # yamllint disable-line rule:colons
+    startMovingMale:      [1271, 1272, 1273, 1274, 1275]  # yamllint disable-line rule:colons
+    startMovingFemale:    [1271, 1272, 1273, 1274, 1275]  # yamllint disable-line rule:colons
+    selectWeaponMale:     [1266, 1267, 1268, 1269, 1270]  # yamllint disable-line rule:colons
+    selectWeaponFemale:   [1266, 1267, 1268, 1269, 1270]  # yamllint disable-line rule:colons
+    annoyedMale:          [1281, 1282, 1283, 1284, 1285]  # yamllint disable-line rule:colons
+    annoyedFemale:        [1281, 1282, 1283, 1284, 1285]  # yamllint disable-line rule:colons
+    deathMale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:          [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
 #STATS
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -3233,17 +3232,17 @@ armors:
     corpseGeo: STR_FALLEN_CORPSE
     specialWeapon: STR_UNARMED_GAUNTLET_PLUS
     stats:
-       tu: -10
-       stamina: 0
-       health: 30
-       bravery: 20 #always multiples of 10
-       reactions: 0
-       firing: 0
-       throwing: -10
-       strength: 0
-       psiStrength: 0
-       psiSkill: 0
-       melee: 20
+      tu: -10
+      stamina: 0
+      health: 30
+      bravery: 20 #always multiples of 10
+      reactions: 0
+      firing: 0
+      throwing: -10
+      strength: 0
+      psiStrength: 0
+      psiSkill: 0
+      melee: 20
     frontArmor: 110
     sideArmor: 90
     rearArmor: 80
@@ -3264,16 +3263,16 @@ armors:
     builtInWeapons:
       - INV_NULL_3X3
       - AUX_MEDI_KIT
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
   - type: STR_DW_APOT_ARMOR_ULTRA_UC
     units:
       - STR_ULTRAMARINE
 #SPRITES
     spriteSheet: APOTDWULTRA.PCK
     customArmorPreviewIndex: 564
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "APOTDWULTRA", "M0_FACE"]
       M1: ["0", "APOTDWULTRA", "M1_FACE"]
@@ -3294,9 +3293,9 @@ armors:
 #SPRITES
     spriteSheet: APOTDWIF.PCK
     customArmorPreviewIndex: 565
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "APOTDWIF", "M0_FACE"]
       M1: ["0", "APOTDWULTRA", "M1_FACE"]
@@ -3312,17 +3311,17 @@ armors:
       F5: ["0", "APOTDWULTRA", "M5_FACE"]
 #SPECIAL
     stats:
-       tu: 0
-       stamina: 0
-       health: 30
-       bravery: 20 #always multiples of 10
-       reactions: 0
-       firing: 0
-       throwing: 0
-       strength: 0
-       psiStrength: 0
-       psiSkill: 0
-       melee: 20
+      tu: 0
+      stamina: 0
+      health: 30
+      bravery: 20 #always multiples of 10
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 0
+      psiStrength: 0
+      psiSkill: 0
+      melee: 20
   - type: STR_DW_APOT_ARMOR_BA_UC
     refNode: *STR_DW_APOT_ARMOR_UC
     units:
@@ -3330,9 +3329,9 @@ armors:
 #SPRITES
     spriteSheet: APOTDWBA.PCK
     customArmorPreviewIndex: 566
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "APOTDWBA", "M0_FACE"]
       M1: ["0", "APOTDWBA", "M1_FACE"]
@@ -3355,9 +3354,9 @@ armors:
 #SPRITES
     spriteSheet: APOTDWSALA.PCK
     customArmorPreviewIndex: 567
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "APOTDWSALA", "M0_FACE"]
       M1: ["0", "APOTDWSALA", "M1_FACE"]
@@ -3391,9 +3390,9 @@ armors:
 #SPRITES
     spriteSheet: APOTDWBT.PCK
     customArmorPreviewIndex: 568
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "APOTDWBT", "M0_FACE"]
       M1: ["0", "APOTDWBT", "M1_FACE"]
@@ -3414,9 +3413,9 @@ armors:
 #SPRITES
     spriteSheet: APOTDWWS.PCK
     customArmorPreviewIndex: 569
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "APOTDWWS", "M0_FACE"]
       M1: ["0", "APOTDWWS", "M1_FACE"]
@@ -3440,9 +3439,9 @@ armors:
 #SPRITES
     spriteSheet: APOTDWSW.PCK
     customArmorPreviewIndex: 565
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "APOTDWSW", "M0_FACE"]
       M1: ["0", "APOTDWSW", "M1_FACE"]
@@ -3465,9 +3464,9 @@ armors:
 #SPRITES
     spriteSheet: APOTDWDA.PCK
     customArmorPreviewIndex: 567
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "APOTDWDA", "M0_FACE"]
       M1: ["0", "APOTDWDA", "M1_FACE"]
@@ -3488,9 +3487,9 @@ armors:
 #SPRITES
     spriteSheet: APOTDWWS.PCK
     customArmorPreviewIndex: 564
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "APOTDWCF", "M0_FACE"]
       M1: ["0", "APOTDWCF", "M1_FACE"]
@@ -3511,16 +3510,16 @@ armors:
   - &STR_DW_TECH_ARMOR_UC #TECHMARINE
     type: STR_DW_TECH_ARMOR_ULTRA_UC
     ufopediaType: STR_TECH_ARMOR_UC
-    selectUnitMale:     [1296, 1297, 1298, 1299, 1300]
-    selectUnitFemale:   [1296, 1297, 1298, 1299, 1300]
-    startMovingMale:    [1291, 1292, 1293, 1294, 1295]
-    startMovingFemale:  [1291, 1292, 1293, 1294, 1295]
-    selectWeaponMale:   [1286, 1287, 1288, 1289, 1290]
-    selectWeaponFemale: [1286, 1287, 1288, 1289, 1290]
-    annoyedMale:        [1301, 1302, 1303, 1304, 1305]
-    annoyedFemale:      [1301, 1302, 1303, 1304, 1305]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:         [1296, 1297, 1298, 1299, 1300]  # yamllint disable-line rule:colons
+    selectUnitFemale:       [1296, 1297, 1298, 1299, 1300]  # yamllint disable-line rule:colons
+    startMovingMale:        [1291, 1292, 1293, 1294, 1295]  # yamllint disable-line rule:colons
+    startMovingFemale:      [1291, 1292, 1293, 1294, 1295]  # yamllint disable-line rule:colons
+    selectWeaponMale:       [1286, 1287, 1288, 1289, 1290]  # yamllint disable-line rule:colons
+    selectWeaponFemale:     [1286, 1287, 1288, 1289, 1290]  # yamllint disable-line rule:colons
+    annoyedMale:            [1301, 1302, 1303, 1304, 1305]  # yamllint disable-line rule:colons
+    annoyedFemale:          [1301, 1302, 1303, 1304, 1305]  # yamllint disable-line rule:colons
+    deathMale:              [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
 #STATS
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -3530,17 +3529,17 @@ armors:
     storeItem: STR_TECH_ARMOR
     corpseGeo: STR_FALLEN_CORPSE
     stats:
-       tu: 0
-       stamina: 20
-       health: 10
-       bravery: 10 #always multiples of 10
-       reactions: 0
-       firing: 0
-       throwing: -10
-       strength: 0
-       psiStrength: 0
-       psiSkill: 0
-       melee: 20
+      tu: 0
+      stamina: 20
+      health: 10
+      bravery: 10 #always multiples of 10
+      reactions: 0
+      firing: 0
+      throwing: -10
+      strength: 0
+      psiStrength: 0
+      psiSkill: 0
+      melee: 20
     frontArmor: 110
     sideArmor: 90
     rearArmor: 80
@@ -3561,16 +3560,16 @@ armors:
     builtInWeapons:
       - INV_NULL_3X3
     specialWeapon: AUX_PROBE
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
   - type: STR_DW_TECH_ARMOR_ULTRA_UC
     units:
       - STR_ULTRAMARINE
 #SPRITES
     spriteSheet: TECHDWULTRA.PCK
     customArmorPreviewIndex: 534
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TECHDWULTRA", "M0_FACE"]
       M1: ["0", "TECHDWULTRA", "M1_FACE"]
@@ -3591,9 +3590,9 @@ armors:
 #SPRITES
     spriteSheet: TECHDWIF.PCK
     customArmorPreviewIndex: 535
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TECHDWIF", "M0_FACE"]
       M1: ["0", "TECHDWIF", "M1_FACE"]
@@ -3609,17 +3608,17 @@ armors:
       F5: ["0", "TECHDWIF", "M5_FACE"]
 #SPECIAL
     stats:
-       tu: 0
-       stamina: 20
-       health: 10
-       bravery: 10 #always multiples of 10
-       reactions: 0
-       firing: 0
-       throwing: 0
-       strength: 0
-       psiStrength: 0
-       psiSkill: 0
-       melee: 20
+      tu: 0
+      stamina: 20
+      health: 10
+      bravery: 10 #always multiples of 10
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 0
+      psiStrength: 0
+      psiSkill: 0
+      melee: 20
   - type: STR_DW_TECH_ARMOR_BA_UC
     refNode: *STR_DW_TECH_ARMOR_UC
     units:
@@ -3627,9 +3626,9 @@ armors:
 #SPRITES
     spriteSheet: TECHDWBA.PCK
     customArmorPreviewIndex: 536
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TECHDWBA", "M0_FACE"]
       M1: ["0", "TECHDWBA", "M1_FACE"]
@@ -3652,9 +3651,9 @@ armors:
 #SPRITES
     spriteSheet: TECHDWSALA.PCK
     customArmorPreviewIndex: 537
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TECHDWSALA", "M0_FACES"]
       M1: ["0", "TECHDWSALA", "M1_FACES"]
@@ -3689,9 +3688,9 @@ armors:
 #SPRITES
     spriteSheet: TECHDWBT.PCK
     customArmorPreviewIndex: 538
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TECHDWBT", "M0_FACE"]
       M1: ["0", "TECHDWBT", "M1_FACE"]
@@ -3712,9 +3711,9 @@ armors:
 #SPRITES
     spriteSheet: TECHDWWS.PCK
     customArmorPreviewIndex: 508
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TECHDWWS", "M0_FACE"]
       M1: ["0", "TECHDWWS", "M1_FACE"]
@@ -3738,9 +3737,9 @@ armors:
 #SPRITES
     spriteSheet: TECHDWSW.PCK
     customArmorPreviewIndex: 535
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TECHDWSW", "M0_FACE"]
       M1: ["0", "TECHDWSW", "M1_FACE"]
@@ -3763,9 +3762,9 @@ armors:
 #SPRITES
     spriteSheet: TECHDWDA.PCK
     customArmorPreviewIndex: 537
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TECHDWDA", "M0_FACE"]
       M1: ["0", "TECHDWDA", "M1_FACE"]
@@ -3786,9 +3785,9 @@ armors:
 #SPRITES
     spriteSheet: TECHDWCF.PCK
     customArmorPreviewIndex: 534
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TECHDWCF", "M0_FACE"]
       M1: ["0", "TECHDWCF", "M1_FACE"]
@@ -3809,16 +3808,16 @@ armors:
 #PRIMARIS
   - &STR_MKX_DW_LIB_UC
     type: STR_MKX_DW_LIB_ULTRA_UC
-    selectUnitMale:     [1011, 1012, 1013, 1014, 1015]
-    selectUnitFemale:   [1011, 1012, 1013, 1014, 1015]
-    startMovingMale:    [1006, 1007, 1008, 1009, 1010]
-    startMovingFemale:  [1006, 1007, 1008, 1009, 1010]
-    selectWeaponMale:   [1001, 1002, 1003, 1004, 1005]
-    selectWeaponFemale: [1001, 1002, 1003, 1004, 1005]
-    annoyedMale:        [1016, 1017, 1018, 1019, 1020]
-    annoyedFemale:      [1016, 1017, 1018, 1019, 1020]
-    deathMale:     [1021, 1022, 1023, 1024, 1025]
-    deathFemale:   [1021, 1022, 1023, 1024, 1025]
+    selectUnitMale:         [1011, 1012, 1013, 1014, 1015]  # yamllint disable-line rule:colons
+    selectUnitFemale:       [1011, 1012, 1013, 1014, 1015]  # yamllint disable-line rule:colons
+    startMovingMale:        [1006, 1007, 1008, 1009, 1010]  # yamllint disable-line rule:colons
+    startMovingFemale:      [1006, 1007, 1008, 1009, 1010]  # yamllint disable-line rule:colons
+    selectWeaponMale:       [1001, 1002, 1003, 1004, 1005]  # yamllint disable-line rule:colons
+    selectWeaponFemale:     [1001, 1002, 1003, 1004, 1005]  # yamllint disable-line rule:colons
+    annoyedMale:            [1016, 1017, 1018, 1019, 1020]  # yamllint disable-line rule:colons
+    annoyedFemale:          [1016, 1017, 1018, 1019, 1020]  # yamllint disable-line rule:colons
+    deathMale:              [1021, 1022, 1023, 1024, 1025]  # yamllint disable-line rule:colons
+    deathFemale:            [1021, 1022, 1023, 1024, 1025]  # yamllint disable-line rule:colons
     spriteFaceGroup: 6
     spriteFaceColor: [96, 96, 96, 96, 160, 160, 163, 163, 96, 96, 96, 96] #M0 F0 M1 F1 M2 F2 M3 F3 M4 F4 M5 F5
     spriteHairGroup: 9
@@ -3832,15 +3831,15 @@ armors:
     corpseGeo: STR_FALLEN_CORPSE
     specialWeapon: STR_LIBRARIAN_SPECIAL_WEAPON
     stats:
-       tu: 0
-       stamina: 0
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       firing: 0
-       throwing: 0
-       strength: 0
-       melee: 0
+      tu: 0
+      stamina: 0
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 0
+      melee: 0
     frontArmor: 110
     sideArmor: 90
     rearArmor: 80
@@ -3858,7 +3857,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     forcedTorso: 1
     builtInWeapons:
       - INV_NULL_3X3
@@ -3869,9 +3868,9 @@ armors:
     spriteSheet: MKXLIBDWULTRA.PCK
     customArmorPreviewIndex: 623
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "CHPDWULTRA", "M0_FACE", "GOLA"]
       M1: ["0", "CHPDWULTRA", "M1_FACE", "GOLA"]
@@ -3896,9 +3895,9 @@ armors:
     spriteSheet: MKXLIBDWIF.PCK
     customArmorPreviewIndex: 624
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "LIBDWIF", "M0_FACE", "GOLA"]
       M1: ["0", "LIBDWIF", "M1_FACE", "GOLA"]
@@ -3923,9 +3922,9 @@ armors:
     spriteSheet: MKXLIBDWBA.PCK
     customArmorPreviewIndex: 625
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "LIBDWBA", "M0_FACE", "GOLA"]
       M1: ["0", "LIBDWBA", "M1_FACE", "GOLA"]
@@ -3954,9 +3953,9 @@ armors:
     spriteSheet: MKXLIBDWSALA.PCK
     customArmorPreviewIndex: 626
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "LIBDWSALA", "M0_FACES", "GOLA"]
       M1: ["0", "LIBDWSALA", "M1_FACES", "GOLA"]
@@ -3995,9 +3994,9 @@ armors:
     spriteSheet: MKXLIBDWBT.PCK
     customArmorPreviewIndex: 627
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "LIBDWBT", "M0_FACE", "GOLA"]
       M1: ["0", "LIBDWBT", "M1_FACE", "GOLA"]
@@ -4022,9 +4021,9 @@ armors:
     spriteSheet: MKXLIBDWWS.PCK
     customArmorPreviewIndex: 628
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "LIBDWWS", "M0_FACE", "GOLA"]
       M1: ["0", "LIBDWWS", "M1_FACE", "GOLA"]
@@ -4054,9 +4053,9 @@ armors:
     spriteSheet: MKXLIBDWSW.PCK
     customArmorPreviewIndex: 624
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "LIBDWSW", "M0_FACE", "GOLA"]
       M1: ["0", "LIBDWSW", "M1_FACE", "GOLA"]
@@ -4083,9 +4082,9 @@ armors:
     spriteSheet: MKXLIBDWDA.PCK
     customArmorPreviewIndex: 626
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "LIBDWDA", "M0_FACE"]
       M1: ["0", "LIBDWDA", "M1_FACE"]
@@ -4110,9 +4109,9 @@ armors:
     spriteSheet: MKXLIBDWCF.PCK
     customArmorPreviewIndex: 623
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "LIBDWCF", "M0_FACE", "GOLA"]
       M1: ["0", "LIBDWCF", "M1_FACE", "GOLA"]
@@ -4135,16 +4134,16 @@ armors:
 
   - &STR_MKX_DW_CHP_UC
     type: STR_MKX_DW_CHP_ULTRA_UC
-    selectUnitMale:     [1256, 1257, 1258, 1259, 1260]
-    selectUnitFemale:   [1256, 1257, 1258, 1259, 1260]
-    startMovingMale:    [1251, 1252, 1253, 1254, 1255]
-    startMovingFemale:  [1251, 1252, 1253, 1254, 1255]
-    selectWeaponMale:   [1246, 1247, 1248, 1249, 1250]
-    selectWeaponFemale: [1246, 1247, 1248, 1249, 1250]
-    annoyedMale:        [1261, 1262, 1263, 1264, 1265]
-    annoyedFemale:      [1261, 1262, 1263, 1264, 1265]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:         [1256, 1257, 1258, 1259, 1260]  # yamllint disable-line rule:colons
+    selectUnitFemale:       [1256, 1257, 1258, 1259, 1260]  # yamllint disable-line rule:colons
+    startMovingMale:        [1251, 1252, 1253, 1254, 1255]  # yamllint disable-line rule:colons
+    startMovingFemale:      [1251, 1252, 1253, 1254, 1255]  # yamllint disable-line rule:colons
+    selectWeaponMale:       [1246, 1247, 1248, 1249, 1250]  # yamllint disable-line rule:colons
+    selectWeaponFemale:     [1246, 1247, 1248, 1249, 1250]  # yamllint disable-line rule:colons
+    annoyedMale:            [1261, 1262, 1263, 1264, 1265]  # yamllint disable-line rule:colons
+    annoyedFemale:          [1261, 1262, 1263, 1264, 1265]  # yamllint disable-line rule:colons
+    deathMale:              [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
     ufopediaType: STR_MKX_CHP_UC
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -4154,15 +4153,15 @@ armors:
     storeItem: STR_MKX_CHP_ARMOR
     corpseGeo: STR_FALLEN_CORPSE
     stats:
-       tu: 10
-       stamina: 10
-       health: 10
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       firing: 0
-       throwing: 0
-       strength: 0
-       melee: 0
+      tu: 10
+      stamina: 10
+      health: 10
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 0
+      melee: 0
     frontArmor: 110
     sideArmor: 90
     rearArmor: 80
@@ -4180,7 +4179,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     forcedTorso: 1
     builtInWeapons:
       - AUX_CROZIUS
@@ -4193,9 +4192,9 @@ armors:
     spriteSheet: MKXCHPDWULTRA.PCK
     customArmorPreviewIndex: 617
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "CHPDWULTRA", "M0_FACE"]
       M1: ["0", "CHPDWULTRA", "M1_FACE"]
@@ -4217,9 +4216,9 @@ armors:
     spriteSheet: MKXCHPDWIF.PCK
     customArmorPreviewIndex: 618
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "CHPDWIF", "M0_FACE"]
       M1: ["0", "CHPDWIF", "M1_FACE"]
@@ -4241,9 +4240,9 @@ armors:
     spriteSheet: MKXCHPDWBA.PCK
     customArmorPreviewIndex: 619
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "CHPDWBA", "M0_FACE"]
       M1: ["0", "CHPDWBA", "M1_FACE"]
@@ -4267,9 +4266,9 @@ armors:
     spriteSheet: MKXCHPDWSALA.PCK
     customArmorPreviewIndex: 620
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "CHPDWSALA", "M0_FACES"]
       M1: ["0", "CHPDWSALA", "M1_FACES"]
@@ -4305,9 +4304,9 @@ armors:
     spriteSheet: MKXCHPDWBT.PCK
     customArmorPreviewIndex: 621
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "CHPDWBT", "M0_FACE"]
       M1: ["0", "CHPDWBT", "M1_FACE"]
@@ -4329,9 +4328,9 @@ armors:
     spriteSheet: MKXCHPDWWS.PCK
     customArmorPreviewIndex: 622
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "CHPDWWS", "M0_FACE"]
       M1: ["0", "CHPDWWS", "M1_FACE"]
@@ -4356,9 +4355,9 @@ armors:
     spriteSheet: MKXCHPDWSW.PCK
     customArmorPreviewIndex: 618
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "CHPDWSW", "M0_FACE"]
       M1: ["0", "CHPDWSW", "M1_FACE"]
@@ -4382,9 +4381,9 @@ armors:
     spriteSheet: MKXCHPDWDA.PCK
     customArmorPreviewIndex: 626
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "CHPDWDA", "M0_FACE"]
       M1: ["0", "CHPDWDA", "M1_FACE"]
@@ -4406,9 +4405,9 @@ armors:
     spriteSheet: MKXCHPDWCF.PCK
     customArmorPreviewIndex: 617
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "CHPDWCF", "M0_FACE"]
       M1: ["0", "CHPDWCF", "M1_FACE"]
@@ -4428,16 +4427,16 @@ armors:
 
   - &STR_MKX_DW_TEC_UC #A PREVIEW D
     type: STR_MKX_DW_TEC_ULTRA_UC
-    selectUnitMale:     [1296, 1297, 1298, 1299, 1300]
-    selectUnitFemale:   [1296, 1297, 1298, 1299, 1300]
-    startMovingMale:    [1291, 1292, 1293, 1294, 1295]
-    startMovingFemale:  [1291, 1292, 1293, 1294, 1295]
-    selectWeaponMale:   [1286, 1287, 1288, 1289, 1290]
-    selectWeaponFemale: [1286, 1287, 1288, 1289, 1290]
-    annoyedMale:        [1301, 1302, 1303, 1304, 1305]
-    annoyedFemale:      [1301, 1302, 1303, 1304, 1305]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:         [1296, 1297, 1298, 1299, 1300]  # yamllint disable-line rule:colons
+    selectUnitFemale:       [1296, 1297, 1298, 1299, 1300]  # yamllint disable-line rule:colons
+    startMovingMale:        [1291, 1292, 1293, 1294, 1295]  # yamllint disable-line rule:colons
+    startMovingFemale:      [1291, 1292, 1293, 1294, 1295]  # yamllint disable-line rule:colons
+    selectWeaponMale:       [1286, 1287, 1288, 1289, 1290]  # yamllint disable-line rule:colons
+    selectWeaponFemale:     [1286, 1287, 1288, 1289, 1290]  # yamllint disable-line rule:colons
+    annoyedMale:            [1301, 1302, 1303, 1304, 1305]  # yamllint disable-line rule:colons
+    annoyedFemale:          [1301, 1302, 1303, 1304, 1305]  # yamllint disable-line rule:colons
+    deathMale:              [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
     ufopediaType: STR_MKX_TEC_LV1_UC
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -4446,15 +4445,15 @@ armors:
     storeItem: STR_MKX_TEC_ARMOR
     corpseGeo: STR_FALLEN_CORPSE
     stats:
-       tu: 0
-       stamina: 0
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       firing: 0
-       throwing: 0
-       strength: 0
-       melee: 0
+      tu: 0
+      stamina: 0
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 0
+      melee: 0
     frontArmor: 110
     sideArmor: 90
     rearArmor: 80
@@ -4472,7 +4471,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     forcedTorso: 1
     specialWeapon: AUX_PROBE
   - type: STR_MKX_DW_TEC_ULTRA_UC
@@ -4482,9 +4481,9 @@ armors:
     spriteSheet: MKXTECDWULTRA.PCK
     customArmorPreviewIndex: 528
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TECDWULTRA", "M0_FACE"]
       M1: ["0", "TECDWULTRA", "M1_FACE"]
@@ -4508,9 +4507,9 @@ armors:
     spriteSheet: MKXTECDWIF.PCK
     customArmorPreviewIndex: 529
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TECDWIF", "M0_FACE"]
       M1: ["0", "TECDWIF", "M1_FACE"]
@@ -4536,9 +4535,9 @@ armors:
     spriteSheet: MKXTECDWBA.PCK
     customArmorPreviewIndex: 530
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TECDWBA", "M0_FACE"]
       M1: ["0", "TECDWBA", "M1_FACE"]
@@ -4564,9 +4563,9 @@ armors:
     spriteSheet: MKXTECDWSALA.PCK
     customArmorPreviewIndex: 531
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TECDWSALA", "M0_FACES"]
       M1: ["0", "TECDWSALA", "M1_FACES"]
@@ -4604,9 +4603,9 @@ armors:
     spriteSheet: MKXTECDWBT.PCK
     customArmorPreviewIndex: 532
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TECDWBT", "M0_FACE"]
       M1: ["0", "TECDWBT", "M1_FACE"]
@@ -4630,9 +4629,9 @@ armors:
     spriteSheet: MKXTECDWWS.PCK
     customArmorPreviewIndex: 533
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TECDWWS", "M0_FACE"]
       M1: ["0", "TECDWWS", "M1_FACE"]
@@ -4659,9 +4658,9 @@ armors:
     spriteSheet: MKXTECDWSW.PCK
     customArmorPreviewIndex: 529
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TECDWSW", "M0_FACE"]
       M1: ["0", "TECDWSW", "M1_FACE"]
@@ -4687,9 +4686,9 @@ armors:
     spriteSheet: MKXTECDWDA.PCK
     customArmorPreviewIndex: 531
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TECDWDA", "M0_FACE"]
       M1: ["0", "TECDWDA", "M1_FACE"]
@@ -4713,9 +4712,9 @@ armors:
     spriteSheet: MKXTECDWCF.PCK
     customArmorPreviewIndex: 528
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "TECDWCF", "M0_FACE"]
       M1: ["0", "TECDWCF", "M1_FACE"]
@@ -4737,16 +4736,16 @@ armors:
 
   - &STR_MKX_DW_APO_UC #A PREVIEW D
     type: STR_MKX_DW_APO_ULTRA_UC
-    selectUnitMale:     [1276, 1277, 1278, 1279, 1280]
-    selectUnitFemale:   [1276, 1277, 1278, 1279, 1280]
-    startMovingMale:    [1271, 1272, 1273, 1274, 1275]
-    startMovingFemale:  [1271, 1272, 1273, 1274, 1275]
-    selectWeaponMale:   [1266, 1267, 1268, 1269, 1270]
-    selectWeaponFemale: [1266, 1267, 1268, 1269, 1270]
-    annoyedMale:        [1281, 1282, 1283, 1284, 1285]
-    annoyedFemale:      [1281, 1282, 1283, 1284, 1285]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:         [1276, 1277, 1278, 1279, 1280]  # yamllint disable-line rule:colons
+    selectUnitFemale:       [1276, 1277, 1278, 1279, 1280]  # yamllint disable-line rule:colons
+    startMovingMale:        [1271, 1272, 1273, 1274, 1275]  # yamllint disable-line rule:colons
+    startMovingFemale:      [1271, 1272, 1273, 1274, 1275]  # yamllint disable-line rule:colons
+    selectWeaponMale:       [1266, 1267, 1268, 1269, 1270]  # yamllint disable-line rule:colons
+    selectWeaponFemale:     [1266, 1267, 1268, 1269, 1270]  # yamllint disable-line rule:colons
+    annoyedMale:            [1281, 1282, 1283, 1284, 1285]  # yamllint disable-line rule:colons
+    annoyedFemale:          [1281, 1282, 1283, 1284, 1285]  # yamllint disable-line rule:colons
+    deathMale:              [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
     ufopediaType: STR_MKX_APO_UC
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -4756,15 +4755,15 @@ armors:
     corpseGeo: STR_FALLEN_CORPSE
     specialWeapon: STR_UNARMED_GAUNTLET_PLUS
     stats:
-       tu: 0
-       stamina: 30
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       firing: -20
-       throwing: 0
-       strength: 0
-       melee: 20
+      tu: 0
+      stamina: 30
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      firing: -20
+      throwing: 0
+      strength: 0
+      melee: 20
     frontArmor: 110
     sideArmor: 90
     rearArmor: 80
@@ -4782,7 +4781,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     forcedTorso: 1
     builtInWeapons:
       - INV_NULL_3X3
@@ -4794,9 +4793,9 @@ armors:
     spriteSheet: MKXAPODWULTRA.PCK
     customArmorPreviewIndex: 444
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "APODWULTRA", "M0_FACE"]
       M1: ["0", "APODWULTRA", "M1_FACE"]
@@ -4818,9 +4817,9 @@ armors:
     spriteSheet: MKXAPODWIF.PCK
     customArmorPreviewIndex: 445
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "APODWIF", "M0_FACE"]
       M1: ["0", "APODWIF", "M1_FACE"]
@@ -4842,9 +4841,9 @@ armors:
     spriteSheet: MKXAPODWBA.PCK
     customArmorPreviewIndex: 446
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "APODWBA", "M0_FACE"]
       M1: ["0", "APODWBA", "M1_FACE"]
@@ -4868,9 +4867,9 @@ armors:
     spriteSheet: MKXAPODWSALA.PCK
     customArmorPreviewIndex: 447
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "APODWSALA", "M0_FACES"]
       M1: ["0", "APODWSALA", "M1_FACES"]
@@ -4906,9 +4905,9 @@ armors:
     spriteSheet: MKXAPODWBT.PCK
     customArmorPreviewIndex: 448
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "APODWBT", "M0_FACE"]
       M1: ["0", "APODWBT", "M1_FACE"]
@@ -4930,9 +4929,9 @@ armors:
     spriteSheet: MKXAPODWWS.PCK
     customArmorPreviewIndex: 449
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "APODWWS", "M0_FACE"]
       M1: ["0", "APODWWS", "M1_FACE"]
@@ -4957,9 +4956,9 @@ armors:
     spriteSheet: MKXAPODWSW.PCK
     customArmorPreviewIndex: 445
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "APODWSW", "M0_FACE"]
       M1: ["0", "APODWSW", "M1_FACE"]
@@ -4983,9 +4982,9 @@ armors:
     spriteSheet: MKXAPODWDA.PCK
     customArmorPreviewIndex: 447
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "APODWDA", "M0_FACE"]
       M1: ["0", "APODWDA", "M1_FACE"]
@@ -5007,9 +5006,9 @@ armors:
     spriteSheet: MKXAPODWCF.PCK
     customArmorPreviewIndex: 444
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "APODWCF", "M0_FACE"]
       M1: ["0", "APODWCF", "M1_FACE"]
@@ -5029,16 +5028,16 @@ armors:
 
   - &STR_MKX_DW_TAC_UC
     type: STR_MKX_DW_TAC_ULTRA_UC
-    selectUnitMale:     [511, 512, 513, 514, 515]
-    selectUnitFemale:   [511, 512, 513, 514, 515]
-    startMovingMale:    [506, 507, 508, 509, 510]
-    startMovingFemale:  [506, 507, 508, 509, 510]
-    selectWeaponMale:   [501, 502, 503, 504, 505]
-    selectWeaponFemale: [501, 502, 503, 504, 505]
-    annoyedMale:        [516, 517, 518, 519, 520]
-    annoyedFemale:      [516, 517, 518, 519, 520]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:         [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    selectUnitFemale:       [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    startMovingMale:        [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    startMovingFemale:      [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    selectWeaponMale:       [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    selectWeaponFemale:     [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    annoyedMale:            [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    annoyedFemale:          [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    deathMale:              [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
     ufopediaType: STR_MKX_TAC_LV1_UC
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -5064,7 +5063,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     forcedTorso: 1
     builtInWeapons:
       - INV_NULL_3X3
@@ -5075,9 +5074,9 @@ armors:
     spriteSheet: MKXTACDWULTRA.PCK
     customArmorPreviewIndex: 420
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "MKXDWULTRA", "M0_FACE"]
       M1: ["0", "MKXDWULTRA", "M1_FACE"]
@@ -5099,9 +5098,9 @@ armors:
     spriteSheet: MKXTACDWIF.PCK
     customArmorPreviewIndex: 421
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "MKXDWIF", "M0_FACE"]
       M1: ["0", "MKXDWIF", "M1_FACE"]
@@ -5123,9 +5122,9 @@ armors:
     spriteSheet: MKXTACDWBA.PCK
     customArmorPreviewIndex: 422
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "MKXDWBA", "M0_FACE"]
       M1: ["0", "MKXDWBA", "M1_FACE"]
@@ -5149,9 +5148,9 @@ armors:
     spriteSheet: MKXTACDWSALA.PCK
     customArmorPreviewIndex: 423
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "MKXDWSALA", "M0_FACES"]
       M1: ["0", "MKXDWSALA", "M1_FACES"]
@@ -5187,9 +5186,9 @@ armors:
     spriteSheet: MKXTACDWBT.PCK
     customArmorPreviewIndex: 424
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "MKXDWBT", "M0_FACE"]
       M1: ["0", "MKXDWBT", "M1_FACE"]
@@ -5211,9 +5210,9 @@ armors:
     spriteSheet: MKXTACDWWS.PCK
     customArmorPreviewIndex: 425
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "MKXDWWS", "M0_FACE"]
       M1: ["0", "MKXDWWS", "M1_FACE"]
@@ -5238,9 +5237,9 @@ armors:
     spriteSheet: MKXTACDWSW.PCK
     customArmorPreviewIndex: 421
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "MKXDWSW", "M0_FACE"]
       M1: ["0", "MKXDWSW", "M1_FACE"]
@@ -5264,9 +5263,9 @@ armors:
     spriteSheet: MKXTACDWDA.PCK
     customArmorPreviewIndex: 423
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "MKXDWDA", "M0_FACE"]
       M1: ["0", "MKXDWDA", "M1_FACE"]
@@ -5288,9 +5287,9 @@ armors:
     spriteSheet: MKXTACDWCF.PCK
     customArmorPreviewIndex: 420
     forcedTorso: 1
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "MKXDWCF", "M0_FACE"]
       M1: ["0", "MKXDWCF", "M1_FACE"]
@@ -5310,16 +5309,16 @@ armors:
 
   - &STR_MKX_DW_PHB_UC
     type: STR_MKX_DW_PHB_ULTRA_UC
-    selectUnitMale:     [511, 512, 513, 514, 515]
-    selectUnitFemale:   [511, 512, 513, 514, 515]
-    startMovingMale:    [506, 507, 508, 509, 510]
-    startMovingFemale:  [506, 507, 508, 509, 510]
-    selectWeaponMale:   [501, 502, 503, 504, 505]
-    selectWeaponFemale: [501, 502, 503, 504, 505]
-    annoyedMale:        [516, 517, 518, 519, 520]
-    annoyedFemale:      [516, 517, 518, 519, 520]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:         [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    selectUnitFemale:       [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    startMovingMale:        [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    startMovingFemale:      [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    selectWeaponMale:       [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    selectWeaponFemale:     [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    annoyedMale:            [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    annoyedFemale:          [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    deathMale:              [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
     ufopediaType: STR_MKX_PHB_LV1_UC
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -5333,15 +5332,15 @@ armors:
     rearArmor: 70
     underArmor: 70
     stats:
-       tu: 10
-       stamina: 30
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       firing: -20
-       throwing: 0
-       strength: 0
-       melee: 20
+      tu: 10
+      stamina: 30
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      firing: -20
+      throwing: 0
+      strength: 0
+      melee: 20
     damageModifier: #MARINE ARMOR
       - 1.0 #none
       - 1.0 #AP
@@ -5355,7 +5354,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     forcedTorso: 1
     builtInWeapons:
       - INV_NULL_3X3
@@ -5365,9 +5364,9 @@ armors:
 #SPRITES
     spriteSheet: MXPHBDWULTRA.PCK
     customArmorPreviewIndex: 426
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "PHBDWULTRA", "M0_FACE"]
       M1: ["0", "PHBDWULTRA", "M1_FACE"]
@@ -5388,9 +5387,9 @@ armors:
 #SPRITES
     spriteSheet: MXPHBDWIF.PCK
     customArmorPreviewIndex: 427
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "PHBDWIF", "M0_FACE"]
       M1: ["0", "PHBDWIF", "M1_FACE"]
@@ -5411,9 +5410,9 @@ armors:
 #SPRITES
     spriteSheet: MXPHBDWBA.PCK
     customArmorPreviewIndex: 428
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "PHBDWBA", "M0_FACE"]
       M1: ["0", "PHBDWBA", "M1_FACE"]
@@ -5436,9 +5435,9 @@ armors:
 #SPRITES
     spriteSheet: MXPHBDWSALA.PCK
     customArmorPreviewIndex: 429
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "PHBDWSALA", "M0_FACES"]
       M1: ["0", "PHBDWSALA", "M1_FACES"]
@@ -5473,9 +5472,9 @@ armors:
 #SPRITES
     spriteSheet: MXPHBDWBT.PCK
     customArmorPreviewIndex: 430
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "PHBDWBT", "M0_FACE"]
       M1: ["0", "PHBDWBT", "M1_FACE"]
@@ -5496,9 +5495,9 @@ armors:
 #SPRITES
     spriteSheet: MXPHBDWWS.PCK
     customArmorPreviewIndex: 431
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "PHBDWWS", "M0_FACE"]
       M1: ["0", "PHBDWWS", "M1_FACE"]
@@ -5522,9 +5521,9 @@ armors:
 #SPRITES
     spriteSheet: MXPHBDWSW.PCK
     customArmorPreviewIndex: 427
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "PHBDWSW", "M0_FACE"]
       M1: ["0", "PHBDWSW", "M1_FACE"]
@@ -5547,9 +5546,9 @@ armors:
 #SPRITES
     spriteSheet: MXPHBDWDA.PCK
     customArmorPreviewIndex: 429
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "PHBDWDA", "M0_FACE"]
       M1: ["0", "PHBDWDA", "M1_FACE"]
@@ -5570,9 +5569,9 @@ armors:
 #SPRITES
     spriteSheet: MXPHBDWCF.PCK
     customArmorPreviewIndex: 426
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "PHBDWCF", "M0_FACE"]
       M1: ["0", "PHBDWCF", "M1_FACE"]
@@ -5592,16 +5591,16 @@ armors:
 
   - &STR_MKX_DW_GRV_UC
     type: STR_MKX_DW_GRV_ULTRA_UC
-    selectUnitMale:     [511, 512, 513, 514, 515]
-    selectUnitFemale:   [511, 512, 513, 514, 515]
-    startMovingMale:    [506, 507, 508, 509, 510]
-    startMovingFemale:  [506, 507, 508, 509, 510]
-    selectWeaponMale:   [501, 502, 503, 504, 505]
-    selectWeaponFemale: [501, 502, 503, 504, 505]
-    annoyedMale:        [516, 517, 518, 519, 520]
-    annoyedFemale:      [516, 517, 518, 519, 520]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:         [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    selectUnitFemale:       [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    startMovingMale:        [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    startMovingFemale:      [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    selectWeaponMale:       [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    selectWeaponFemale:     [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    annoyedMale:            [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    annoyedFemale:          [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    deathMale:              [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
     ufopediaType: STR_MKX_GRV_LV1_UC
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -5610,15 +5609,15 @@ armors:
     storeItem: STR_MKX_GRV_ARMOR
     corpseGeo: STR_FALLEN_CORPSE
     stats:
-       tu: 0
-       stamina: -20
-       health: 0
-       bravery: 0 #always multiples of 10
-       reactions: 0
-       firing: 0
-       throwing: 0
-       strength: 0
-       melee: 0
+      tu: 0
+      stamina: -20
+      health: 0
+      bravery: 0 #always multiples of 10
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 0
+      melee: 0
     frontArmor: 120
     sideArmor: 100
     rearArmor: 90
@@ -5636,7 +5635,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     forcedTorso: 1
   - type: STR_MKX_DW_GRV_ULTRA_UC
     units:
@@ -5644,9 +5643,9 @@ armors:
 #SPRITES
     spriteSheet: MKXGRVDWULTRA.PCK
     customArmorPreviewIndex: 438
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "GRVDWULTRA", "M0_FACE", "GOLA"]
       M1: ["0", "GRVDWULTRA", "M1_FACE", "GOLA"]
@@ -5672,9 +5671,9 @@ armors:
 #SPRITES
     spriteSheet: MKXGRVDWIF.PCK
     customArmorPreviewIndex: 439
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "GRVDWIF", "M0_FACE", "GOLA"]
       M1: ["0", "GRVDWIF", "M1_FACE", "GOLA"]
@@ -5700,9 +5699,9 @@ armors:
 #SPRITES
     spriteSheet: MKXGRVDWBA.PCK
     customArmorPreviewIndex: 440
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "GRVDWBA", "M0_FACE", "GOLA"]
       M1: ["0", "GRVDWBA", "M1_FACE", "GOLA"]
@@ -5730,9 +5729,9 @@ armors:
 #SPRITES
     spriteSheet: MKXGRVDWSALA.PCK
     customArmorPreviewIndex: 441
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "GRVDWSALA", "M0_FACES", "GOLA"]
       M1: ["0", "GRVDWSALA", "M1_FACES", "GOLA"]
@@ -5772,9 +5771,9 @@ armors:
 #SPRITES
     spriteSheet: MKXGRVDWBT.PCK
     customArmorPreviewIndex: 442
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "GRVDWBT", "M0_FACE", "GOLA"]
       M1: ["0", "GRVDWBT", "M1_FACE", "GOLA"]
@@ -5799,9 +5798,9 @@ armors:
 #SPRITES
     spriteSheet: MKXGRVDWWS.PCK
     customArmorPreviewIndex: 443
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "GRVDWWS", "M0_FACE", "GOLA"]
       M1: ["0", "GRVDWWS", "M1_FACE", "GOLA"]
@@ -5829,9 +5828,9 @@ armors:
 #SPRITES
     spriteSheet: MKXGRVDWSW.PCK
     customArmorPreviewIndex: 439
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "GRVDWSW", "M0_FACE", "GOLA"]
       M1: ["0", "GRVDWSW", "M1_FACE", "GOLA"]
@@ -5859,9 +5858,9 @@ armors:
 #SPRITES
     spriteSheet: MKXGRVDWDA.PCK
     customArmorPreviewIndex: 441
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "GRVDWDA", "M0_FACE", "GOLA"]
       M1: ["0", "GRVDWDA", "M1_FACE", "GOLA"]
@@ -5887,9 +5886,9 @@ armors:
 #SPRITES
     spriteSheet: MKXGRVDWCF.PCK
     customArmorPreviewIndex: 438
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "GRVDWCF", "M0_FACE", "GOLA"]
       M1: ["0", "GRVDWCF", "M1_FACE", "GOLA"]
@@ -5914,16 +5913,16 @@ armors:
 
   - &STR_MKX_DW_INC_UC
     type: STR_MKX_DW_INC_ULTRA_UC
-    selectUnitMale:     [511, 512, 513, 514, 515]
-    selectUnitFemale:   [511, 512, 513, 514, 515]
-    startMovingMale:    [506, 507, 508, 509, 510]
-    startMovingFemale:  [506, 507, 508, 509, 510]
-    selectWeaponMale:   [501, 502, 503, 504, 505]
-    selectWeaponFemale: [501, 502, 503, 504, 505]
-    annoyedMale:        [516, 517, 518, 519, 520]
-    annoyedFemale:      [516, 517, 518, 519, 520]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:         [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    selectUnitFemale:       [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    startMovingMale:        [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    startMovingFemale:      [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    selectWeaponMale:       [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    selectWeaponFemale:     [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    annoyedMale:            [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    annoyedFemale:          [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    deathMale:              [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
     ufopediaType: STR_MKX_INC_LV1_UC
     visibilityAtDay: 40
     visibilityAtDark: 30
@@ -5950,7 +5949,7 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     forcedTorso: 1
     builtInWeapons:
       - INV_NULL_3X3
@@ -5960,9 +5959,9 @@ armors:
 #SPRITES
     spriteSheet: MKXINCDWULTRA.PCK
     customArmorPreviewIndex: 432
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "INCDWULTRA", "M0_FACE", "GOLA"]
       M1: ["0", "INCDWULTRA", "M1_FACE", "GOLA"]
@@ -5983,9 +5982,9 @@ armors:
 #SPRITES
     spriteSheet: MKXINCDWIF.PCK
     customArmorPreviewIndex: 433
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "INCDWIF", "M0_FACE", "GOLA"]
       M1: ["0", "INCDWIF", "M1_FACE", "GOLA"]
@@ -6006,9 +6005,9 @@ armors:
 #SPRITES
     spriteSheet: MKXINCDWBA.PCK
     customArmorPreviewIndex: 434
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "INCDWBA", "M0_FACE", "GOLA"]
       M1: ["0", "INCDWBA", "M1_FACE", "GOLA"]
@@ -6031,9 +6030,9 @@ armors:
 #SPRITES
     spriteSheet: MKXINCDWSALA.PCK
     customArmorPreviewIndex: 435
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "INCDWSALA", "M0_FACES", "GOLA"]
       M1: ["0", "INCDWSALA", "M1_FACES", "GOLA"]
@@ -6068,9 +6067,9 @@ armors:
 #SPRITES
     spriteSheet: MKXINCDWBT.PCK
     customArmorPreviewIndex: 436
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "INCDWBT", "M0_FACE", "GOLA"]
       M1: ["0", "INCDWBT", "M1_FACE", "GOLA"]
@@ -6091,9 +6090,9 @@ armors:
 #SPRITES
     spriteSheet: MKXINCDWWS.PCK
     customArmorPreviewIndex: 437
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "INCDWWS", "M0_FACE", "GOLA"]
       M1: ["0", "INCDWWS", "M1_FACE", "GOLA"]
@@ -6117,9 +6116,9 @@ armors:
 #SPRITES
     spriteSheet: MKXINCDWSW.PCK
     customArmorPreviewIndex: 433
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "INCDWSW", "M0_FACE", "GOLA"]
       M1: ["0", "INCDWSW", "M1_FACE", "GOLA"]
@@ -6142,9 +6141,9 @@ armors:
 #SPRITES
     spriteSheet: MKXINCDWDA.PCK
     customArmorPreviewIndex: 435
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "INCDWDA", "M0_FACE", "GOLA"]
       M1: ["0", "INCDWDA", "M1_FACE", "GOLA"]
@@ -6165,9 +6164,9 @@ armors:
 #SPRITES
     spriteSheet: MKXINCDWCF.PCK
     customArmorPreviewIndex: 432
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["0", "INCDWCF", "M0_FACE", "GOLA"]
       M1: ["0", "INCDWCF", "M1_FACE", "GOLA"]
@@ -6187,16 +6186,16 @@ armors:
 
   - &STR_MKX_DW_CAP_UC #CAP MASTER
     type: STR_MKX_DW_CAP_ULTRA_UC
-    selectUnitMale:     [511, 512, 513, 514, 515]
-    selectUnitFemale:   [511, 512, 513, 514, 515]
-    startMovingMale:    [506, 507, 508, 509, 510]
-    startMovingFemale:  [506, 507, 508, 509, 510]
-    selectWeaponMale:   [501, 502, 503, 504, 505]
-    selectWeaponFemale: [501, 502, 503, 504, 505]
-    annoyedMale:        [516, 517, 518, 519, 520]
-    annoyedFemale:      [516, 517, 518, 519, 520]
-    deathMale:     [380, 381, 382, 383, 384]
-    deathFemale:   [380, 381, 382, 383, 384]
+    selectUnitMale:         [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    selectUnitFemale:       [511, 512, 513, 514, 515]  # yamllint disable-line rule:colons
+    startMovingMale:        [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    startMovingFemale:      [506, 507, 508, 509, 510]  # yamllint disable-line rule:colons
+    selectWeaponMale:       [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    selectWeaponFemale:     [501, 502, 503, 504, 505]  # yamllint disable-line rule:colons
+    annoyedMale:            [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    annoyedFemale:          [516, 517, 518, 519, 520]  # yamllint disable-line rule:colons
+    deathMale:              [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
+    deathFemale:            [380, 381, 382, 383, 384]  # yamllint disable-line rule:colons
     visibilityAtDay: 40
     visibilityAtDark: 30
     spriteSheet: MKXCAPDW.PCK
@@ -6209,17 +6208,17 @@ armors:
     corpseGeo: STR_FALLEN_CORPSE
     specialWeapon: STR_UNARMED_GAUNTLET_PLUS
     stats:
-       tu: 10
-       stamina: 10
-       health: 20
-       bravery: 10 #always multiples of 10
-       reactions: 0
-       firing: 0
-       throwing: 0
-       strength: 0
-       psiStrength: 50
-       psiSkill: 0
-       melee: 0
+      tu: 10
+      stamina: 10
+      health: 20
+      bravery: 10 #always multiples of 10
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 0
+      psiStrength: 50
+      psiSkill: 0
+      melee: 0
     frontArmor: 110
     sideArmor: 90
     rearArmor: 80
@@ -6237,16 +6236,16 @@ armors:
       - 0.0 #SMOKE
       - 0.2 #IMPACT
       - 1.0 #MELTA
-    loftempsSet: [ 3 ]
+    loftempsSet: [3]
     builtInWeapons:
       - INV_NULL_3X3
   - type: STR_MKX_DW_CAP_ULTRA_UC #ULTRAMARINE
     units:
       - STR_ULTRAMARINE_PRIMARIS
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPEP", "MKXCAPDW", "M0_FACE", ""]
       M1: ["CAPEP", "MKXCAPDW", "M1_FACE", ""]
@@ -6265,9 +6264,9 @@ armors:
     units:
       - STR_IMPERIALF_PRIMARIS
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPEP", "MKXCAPDW", "M0_FACE", ""]
       M1: ["CAPEP", "MKXCAPDW", "M1_FACE", ""]
@@ -6286,9 +6285,9 @@ armors:
     units:
       - STR_BLOODANGELS_PRIMARIS
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPEP", "MKXCAPDW", "M0_FACE", ""]
       M1: ["CAPEP", "MKXCAPDW", "M1_FACE", ""]
@@ -6309,9 +6308,9 @@ armors:
     units:
       - STR_SALAMANDAR_PRIMARIS
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPEP", "MKXCAPDW", "M0_FACES", ""]
       M1: ["CAPEP", "MKXCAPDW", "M1_FACES", ""]
@@ -6344,9 +6343,9 @@ armors:
     units:
       - STR_BLACKT_PRIMARIS
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPEP", "MKXCAPDW", "M0_FACE", ""]
       M1: ["CAPEP", "MKXCAPDW", "M1_FACE", ""]
@@ -6365,9 +6364,9 @@ armors:
     units:
       - STR_WHITES_PRIMARIS
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPEP", "MKXCAPDW", "M0_FACE", ""]
       M1: ["CAPEP", "MKXCAPDW", "M1_FACE", ""]
@@ -6389,9 +6388,9 @@ armors:
     units:
       - STR_SPACEW_PRIMARIS
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPEP", "MKXCAPDW", "M0_FACE", ""]
       M1: ["CAPEP", "MKXCAPDW", "M1_FACE", ""]
@@ -6413,9 +6412,9 @@ armors:
     units:
       - STR_DARKANGELS_PRIMARIS
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPEP", "MKXCAPDW", "M0_FACE", ""]
       M1: ["CAPEP", "MKXCAPDW", "M1_FACE", ""]
@@ -6434,9 +6433,9 @@ armors:
     units:
       - STR_CRISMONF_PRIMARIS
 #SPRITES
-    layersDefaultPrefix: 0
+    layersDefaultPrefix: "0"
     layersSpecificPrefix:
-      0: 0
+      0: "0"
     layersDefinition:
       M0: ["CAPEP", "MKXCAPDW", "M0_FACE", ""]
       M1: ["CAPEP", "MKXCAPDW", "M1_FACE", ""]
